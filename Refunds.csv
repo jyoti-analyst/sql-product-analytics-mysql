@@ -1,0 +1,1201 @@
+﻿refund_id,payment_id,user_id,refund_date,refund_amount_inr,refund_reason
+21,5117,896,01-Jun-25,0,Other
+25,4864,2687,19-Jun-25,0,Accidental purchase
+29,7357,4592,14-Mar-25,0,App issues
+30,176,2327,09-Feb-25,0,Accidental purchase
+32,9658,3598,27-Jan-25,0,Other
+36,11916,3204,26-Dec-25,0,Accidental purchase
+44,895,4616,16-Jul-25,0,Other
+69,8871,5008,03-Aug-25,0,Other
+72,6998,5067,21-Aug-25,0,App issues
+83,6229,1231,24-Mar-25,0,Charged twice
+84,8069,7989,23-Mar-25,0,App issues
+95,8843,4701,23-Apr-25,0,Accidental purchase
+98,5319,763,08-Jun-25,0,Other
+102,10519,3303,04-Jul-25,0,Charged twice
+108,232,3815,13-Mar-25,0,Not satisfied
+109,2620,6157,01-Jan-25,0,Other
+153,4305,1283,16-Oct-25,0,Accidental purchase
+154,1653,136,19-Aug-25,0,Other
+161,4309,3631,09-Mar-25,0,Charged twice
+165,8064,1909,02-Jun-25,0,Not satisfied
+175,6533,1896,10-May-25,0,Other
+180,2623,3299,26-Apr-25,0,Other
+205,10324,7675,10-Jan-25,0,Other
+218,7502,5049,16-Aug-25,0,App issues
+220,6000,7875,11-Jan-25,0,Not satisfied
+230,10105,3792,13-Jun-25,0,App issues
+232,3356,2185,21-Jun-25,0,App issues
+234,1295,4019,25-Nov-25,0,App issues
+235,3074,4308,15-Dec-25,0,Charged twice
+252,9727,316,09-May-25,0,Accidental purchase
+253,2086,507,23-Jul-25,0,Other
+262,8323,2701,04-Jul-25,0,App issues
+288,1102,47,11-Nov-25,0,App issues
+291,756,4995,01-Jun-25,0,Not satisfied
+303,4408,3233,08-Mar-25,0,Accidental purchase
+312,8372,411,10-Aug-25,0,Other
+317,2100,6465,11-Aug-25,0,Charged twice
+319,6796,6377,01-Jun-25,0,Other
+323,5302,6507,26-May-25,0,Other
+324,6572,6241,18-Jan-26,0,App issues
+327,7638,5029,28-May-25,0,Charged twice
+332,3469,2897,27-Sep-25,0,App issues
+334,9182,3415,17-Jan-25,0,Accidental purchase
+337,11887,1241,14-Nov-25,0,Accidental purchase
+349,3287,6457,22-May-25,0,Other
+356,9875,3595,28-Feb-25,0,Accidental purchase
+360,8903,7223,09-Nov-25,0,Charged twice
+361,6045,7298,07-Dec-25,0,Other
+369,5820,6719,20-Nov-25,0,Charged twice
+385,1728,2898,17-Apr-25,0,Accidental purchase
+387,8066,4968,23-Oct-25,0,Not satisfied
+389,3848,947,21-Feb-25,0,Accidental purchase
+395,4355,7223,25-Jan-25,0,Other
+400,599,1441,11-Nov-25,0,Charged twice
+408,1333,443,14-Feb-25,0,Charged twice
+422,104,3839,05-Apr-25,0,Accidental purchase
+428,3163,3757,06-Apr-25,0,Charged twice
+433,3507,2483,10-Nov-25,0,App issues
+435,2803,6882,03-Jan-25,0,Accidental purchase
+439,3799,1435,19-Dec-25,0,Other
+440,7730,5714,30-Sep-25,0,Accidental purchase
+469,162,328,28-Nov-25,0,Not satisfied
+470,3906,5515,20-Dec-25,0,Not satisfied
+477,5496,3097,10-Jan-26,0,App issues
+480,7034,3169,01-Jan-25,0,Charged twice
+484,6762,5934,06-Dec-25,0,Not satisfied
+499,2147,7185,24-Nov-25,0,Charged twice
+509,2082,7694,19-Jan-25,0,Not satisfied
+513,5577,7881,26-Apr-25,0,Accidental purchase
+516,3551,3172,07-Apr-25,0,Accidental purchase
+524,11547,3833,17-Oct-25,0,Charged twice
+529,204,3244,06-Oct-25,0,App issues
+535,10246,3393,04-Mar-25,0,Other
+560,3741,6634,17-Dec-25,0,App issues
+567,5616,6586,05-Aug-25,0,App issues
+570,10139,2318,09-Feb-25,0,Accidental purchase
+577,1747,5377,23-Sep-25,0,App issues
+583,2374,2070,03-Jan-25,0,App issues
+590,7397,6964,17-Mar-25,0,Other
+596,8884,3243,02-Mar-25,0,Charged twice
+600,8635,1450,21-Apr-25,0,App issues
+609,3592,6539,06-Jan-26,0,Other
+614,11690,3052,19-Nov-25,0,Not satisfied
+640,6077,4945,30-Sep-25,0,App issues
+642,9773,7820,31-Mar-25,0,Charged twice
+643,3884,2488,01-May-25,0,Accidental purchase
+654,7475,7942,30-Jun-25,0,Other
+657,11264,2532,21-Aug-25,0,Not satisfied
+674,6481,4250,25-May-25,0,Accidental purchase
+684,1135,3415,13-Jun-25,0,Other
+690,5243,82,18-Feb-25,0,Charged twice
+702,6425,548,10-Dec-25,0,Other
+709,5155,7720,10-Feb-25,0,Other
+723,2146,3795,24-Jun-25,0,Charged twice
+727,11392,2672,22-Dec-25,0,Accidental purchase
+728,9347,7198,20-Nov-25,0,Not satisfied
+730,88,4270,24-Dec-25,0,Other
+736,6222,2153,08-Jan-25,0,Accidental purchase
+740,10931,1636,26-Jan-25,0,Not satisfied
+744,1831,5040,04-Dec-25,0,App issues
+745,5739,1068,15-Dec-25,0,Charged twice
+753,6995,3867,01-Feb-25,0,Other
+773,4070,3589,10-Jan-25,0,Other
+776,1855,2920,13-Aug-25,0,Other
+794,4980,136,20-Jun-25,0,Charged twice
+807,6686,7802,02-Mar-25,0,Other
+810,11002,2430,05-Mar-25,0,Other
+817,2686,3154,28-Jan-25,0,Not satisfied
+819,4567,2508,22-May-25,0,App issues
+837,7670,3097,09-Dec-25,0,Accidental purchase
+838,3423,7428,22-Apr-25,0,Accidental purchase
+848,8149,997,12-Oct-25,0,Charged twice
+873,10328,4103,16-Dec-25,0,Accidental purchase
+875,8611,2185,15-Jun-25,0,Other
+882,3239,5768,10-Aug-25,0,Charged twice
+886,4831,3210,11-Oct-25,0,Not satisfied
+891,3513,5616,05-Jun-25,0,Not satisfied
+900,1590,7328,01-Feb-25,0,Not satisfied
+903,108,1572,21-Sep-25,0,Other
+914,10969,2858,13-Jun-25,0,Charged twice
+918,5991,7156,23-Mar-25,0,Charged twice
+920,7256,4373,28-Aug-25,0,Charged twice
+928,1885,5036,07-Jan-25,0,Accidental purchase
+934,8129,7086,11-Mar-25,0,Accidental purchase
+965,6146,2418,01-May-25,0,Accidental purchase
+1011,8731,3606,31-Aug-25,0,Charged twice
+1035,11632,5339,01-May-25,0,Accidental purchase
+1038,3721,3783,19-May-25,0,Charged twice
+1044,4795,7166,03-Jul-25,0,Other
+1046,4463,2452,19-Oct-25,0,Other
+1053,3455,2854,19-Mar-25,0,Accidental purchase
+1062,9382,3259,08-Jan-25,0,Not satisfied
+1063,761,7832,13-Sep-25,0,App issues
+1065,6256,3501,11-Jan-26,0,Charged twice
+1066,6619,2530,18-May-25,0,Accidental purchase
+1069,9224,7572,15-Dec-25,0,Charged twice
+1070,11374,5340,24-Jul-25,0,Charged twice
+1083,6416,7823,02-Mar-25,0,Other
+1091,9419,2154,09-Oct-25,0,Not satisfied
+1143,8631,7166,20-Aug-25,0,Not satisfied
+1144,9940,5437,01-Feb-25,0,Charged twice
+1150,1508,1551,04-May-25,0,Charged twice
+1153,11521,80,02-Dec-25,0,Not satisfied
+1162,10264,7053,16-Jan-25,0,Charged twice
+6,8455,3939,28-Jun-25,135,Not satisfied
+13,6064,2369,14-Sep-25,3999,Not satisfied
+16,7985,1846,09-Jul-25,1990,Not satisfied
+27,8547,2819,08-Aug-25,184,Not satisfied
+39,4376,7151,29-Nov-25,701,Not satisfied
+41,5952,6869,18-Mar-25,2,Not satisfied
+43,6835,4144,30-Sep-25,210,Not satisfied
+46,2455,5653,15-May-25,200,Not satisfied
+50,1312,4553,11-Jan-26,2001,Not satisfied
+52,10119,2818,18-May-25,187,Not satisfied
+55,2308,1266,27-Nov-25,705,Not satisfied
+56,8982,3955,09-Aug-25,1,Not satisfied
+59,9138,953,10-Dec-25,394,Not satisfied
+67,6568,303,14-Jan-25,202,Not satisfied
+71,11143,1005,23-Jul-25,1993,Not satisfied
+76,491,5439,05-Oct-25,2018,Not satisfied
+82,2233,7599,26-Apr-25,6,Not satisfied
+87,9125,3114,20-Nov-25,1989,Not satisfied
+88,9880,618,30-May-25,6994,Not satisfied
+89,1775,1384,09-Dec-25,685,Not satisfied
+93,9199,7659,28-Mar-25,190,Not satisfied
+115,7801,1867,20-Sep-25,131,Not satisfied
+122,4293,5168,16-Aug-25,207,Not satisfied
+123,7209,6517,22-Oct-25,192,Not satisfied
+124,3834,6038,13-Jul-25,195,Not satisfied
+131,9442,1743,14-Mar-25,402,Not satisfied
+138,3865,1834,08-Oct-25,4007,Not satisfied
+139,4086,3030,20-Apr-25,706,Not satisfied
+147,9572,6293,15-Nov-25,200,Not satisfied
+148,7355,5602,11-Jul-25,6998,Not satisfied
+157,9698,3265,08-Aug-25,196,Not satisfied
+168,6201,2829,22-Oct-25,218,Not satisfied
+169,5074,6296,29-Oct-25,206,Not satisfied
+178,3093,7802,17-Dec-25,4,Not satisfied
+184,1928,7220,15-Jan-26,187,Not satisfied
+191,200,1082,02-Dec-25,696,Not satisfied
+200,5552,7894,07-Aug-25,207,Not satisfied
+203,2164,2416,11-Dec-25,6,Not satisfied
+206,9761,5344,21-Nov-25,1986,Not satisfied
+207,11001,3174,09-Oct-25,388,Not satisfied
+210,8346,4302,06-Jul-25,3997,Not satisfied
+219,4882,428,07-Apr-25,10,Not satisfied
+224,5513,5943,27-Apr-25,197,Not satisfied
+225,11570,6429,27-Jun-25,398,Not satisfied
+226,5980,6234,08-Feb-25,698,Not satisfied
+228,9797,1576,14-Dec-25,12,Not satisfied
+229,56,5143,13-Jun-25,3994,Not satisfied
+241,3361,6102,15-Dec-25,3,Not satisfied
+244,10593,1795,22-Nov-25,2002,Not satisfied
+254,4820,2727,13-Oct-25,2002,Not satisfied
+257,6957,6619,22-Mar-25,192,Not satisfied
+258,11193,1230,11-Oct-25,181,Not satisfied
+259,5267,7339,17-May-25,206,Not satisfied
+263,5685,1094,31-Jan-25,158,Not satisfied
+267,10533,4008,13-Apr-25,190,Not satisfied
+284,8704,828,30-Jun-25,3989,Not satisfied
+294,7474,4599,18-Dec-25,208,Not satisfied
+313,2392,5165,04-Oct-25,403,Not satisfied
+314,2316,5379,13-Aug-25,214,Not satisfied
+321,9976,5287,14-Feb-25,6995,Not satisfied
+322,3405,3946,06-Jun-25,14,Not satisfied
+329,3169,7483,26-Sep-25,6994,Not satisfied
+331,9696,6437,10-Jan-26,1998,Not satisfied
+333,4581,2407,31-Mar-25,9,Not satisfied
+340,7003,2451,24-Feb-25,683,Not satisfied
+341,7864,4558,08-Aug-25,7,Not satisfied
+352,2261,6008,04-Dec-25,404,Not satisfied
+353,6444,3163,14-Aug-25,3,Not satisfied
+362,4272,2284,16-Apr-25,190,Not satisfied
+371,6832,2070,05-Feb-25,392,Not satisfied
+376,6552,2672,10-Dec-25,727,Not satisfied
+380,11061,1748,28-Jul-25,6,Not satisfied
+391,3808,2823,01-Feb-25,203,Not satisfied
+394,10135,3680,16-Jun-25,402,Not satisfied
+404,808,2719,09-Jun-25,696,Not satisfied
+405,11285,2814,06-Feb-25,700,Not satisfied
+409,3615,5903,02-Mar-25,4010,Not satisfied
+423,8000,2899,14-Apr-25,2001,Not satisfied
+426,8597,580,09-Feb-25,197,Not satisfied
+427,8257,7839,11-Nov-25,402,Not satisfied
+431,9195,4519,07-Feb-25,414,Not satisfied
+443,11803,6634,31-Dec-25,5,Not satisfied
+448,4846,150,16-Mar-25,129,Not satisfied
+452,10555,1402,24-Mar-25,389,Not satisfied
+460,6989,1987,08-Feb-25,213,Not satisfied
+471,11434,4704,08-Mar-25,145,Not satisfied
+472,9441,3766,20-Nov-25,3,Not satisfied
+474,9510,263,12-Feb-25,199,Not satisfied
+475,5799,5962,12-Aug-25,1,Not satisfied
+476,10882,5257,25-Mar-25,405,Not satisfied
+483,7497,4229,27-Dec-25,191,Not satisfied
+491,11947,2407,09-Mar-25,139,Not satisfied
+492,11742,6,20-Feb-25,2008,Not satisfied
+495,3694,3501,14-Jan-26,8,Not satisfied
+498,4972,4153,19-Jan-25,4012,Not satisfied
+506,3159,6631,10-Oct-25,405,Not satisfied
+508,6183,6474,07-Dec-25,3995,Not satisfied
+512,9409,2775,31-Jul-25,1999,Not satisfied
+525,10957,2122,15-Jun-25,386,Not satisfied
+526,5327,5611,17-Dec-25,401,Not satisfied
+540,5226,817,09-Feb-25,207,Not satisfied
+543,10158,11,19-Jun-25,2012,Not satisfied
+555,7896,4684,25-Sep-25,388,Not satisfied
+557,1232,761,09-Feb-25,14,Not satisfied
+558,9717,7456,10-Apr-25,2,Not satisfied
+559,5445,1464,21-Oct-25,702,Not satisfied
+568,2864,6936,26-Aug-25,1988,Not satisfied
+569,3703,7803,18-Dec-25,7003,Not satisfied
+572,8993,6488,10-Oct-25,190,Not satisfied
+576,11510,6276,12-Jan-26,222,Not satisfied
+578,4504,6484,19-Jul-25,3988,Not satisfied
+582,11279,1472,10-Aug-25,3995,Not satisfied
+586,3759,5566,18-Mar-25,406,Not satisfied
+593,8586,6642,18-Sep-25,7007,Not satisfied
+598,9585,817,10-Dec-25,1992,Not satisfied
+603,9398,5453,21-Oct-25,3993,Not satisfied
+607,4362,1002,10-Dec-25,399,Not satisfied
+617,1979,7293,31-Aug-25,202,Not satisfied
+629,5793,5961,04-Nov-25,4,Not satisfied
+633,8895,4116,15-Feb-25,403,Not satisfied
+635,6693,2319,16-Sep-25,428,Not satisfied
+639,7247,4516,23-Mar-25,383,Not satisfied
+650,11981,7924,26-Jul-25,695,Not satisfied
+652,3167,7382,16-Dec-25,224,Not satisfied
+656,2020,2080,17-Jan-26,374,Not satisfied
+664,10033,2117,04-Oct-25,686,Not satisfied
+668,11723,2379,08-Jan-26,389,Not satisfied
+671,1153,3164,20-Oct-25,700,Not satisfied
+697,7683,7178,06-Sep-25,3994,Not satisfied
+704,5372,5210,10-Oct-25,193,Not satisfied
+707,11429,3332,30-Jul-25,3991,Not satisfied
+717,6870,6219,10-Feb-25,411,Not satisfied
+732,2177,4570,18-Jun-25,404,Not satisfied
+741,11169,7006,19-Jan-25,378,Not satisfied
+750,914,5955,27-Mar-25,699,Not satisfied
+755,4287,6433,04-May-25,199,Not satisfied
+764,5222,4119,16-Jan-25,1973,Not satisfied
+766,11301,7134,05-Oct-25,132,Not satisfied
+770,11633,4779,02-Jul-25,712,Not satisfied
+771,5716,6427,26-Jun-25,215,Not satisfied
+775,8620,4148,06-Feb-25,7004,Not satisfied
+796,9860,1932,05-Oct-25,401,Not satisfied
+797,3553,3602,03-Nov-25,199,Not satisfied
+805,5741,240,07-Mar-25,720,Not satisfied
+849,10343,1785,20-Apr-25,399,Not satisfied
+850,6890,124,25-Mar-25,3999,Not satisfied
+856,879,6801,20-Jan-25,138,Not satisfied
+861,2809,5717,11-Apr-25,700,Not satisfied
+865,4325,246,22-Jan-25,210,Not satisfied
+868,130,7002,27-Apr-25,4009,Not satisfied
+869,6656,6322,18-Jan-26,146,Not satisfied
+893,6099,498,14-Mar-25,3,Not satisfied
+895,10810,1321,19-Oct-25,694,Not satisfied
+917,6037,7522,29-May-25,10,Not satisfied
+919,8560,3680,02-Apr-25,10,Not satisfied
+926,1718,6363,21-Jun-25,212,Not satisfied
+927,9366,7228,19-Dec-25,187,Not satisfied
+933,7264,5820,03-Aug-25,185,Not satisfied
+937,6669,3719,22-Sep-25,10,Not satisfied
+943,4384,2739,14-Nov-25,706,Not satisfied
+948,7553,288,12-Dec-25,394,Not satisfied
+953,5238,931,03-Oct-25,401,Not satisfied
+957,10310,2263,12-May-25,412,Not satisfied
+959,11089,7981,09-Feb-25,710,Not satisfied
+960,6902,5163,07-Aug-25,194,Not satisfied
+971,3586,4584,31-Aug-25,417,Not satisfied
+976,7978,6710,28-Jan-25,149,Not satisfied
+981,11219,211,20-Jul-25,215,Not satisfied
+982,5132,5827,18-Aug-25,16,Not satisfied
+987,11439,4455,17-Jul-25,202,Not satisfied
+989,11566,5019,16-Jun-25,401,Not satisfied
+999,8641,3021,16-Apr-25,150,Not satisfied
+1000,2277,5832,14-Oct-25,198,Not satisfied
+1002,10467,6586,06-Feb-25,147,Not satisfied
+1003,6697,6192,20-Aug-25,4020,Not satisfied
+1007,136,2910,09-Dec-25,2006,Not satisfied
+1017,2006,468,23-Aug-25,7011,Not satisfied
+1025,11487,3776,02-Sep-25,399,Not satisfied
+1028,731,1261,22-Mar-25,5,Not satisfied
+1030,10846,1077,18-Apr-25,184,Not satisfied
+1033,924,7920,22-Dec-25,4008,Not satisfied
+1040,11276,3097,13-Aug-25,694,Not satisfied
+1048,10764,6594,30-Sep-25,206,Not satisfied
+1051,6003,4453,16-Jan-25,698,Not satisfied
+1052,8591,3965,03-Aug-25,392,Not satisfied
+1060,11749,7042,11-Nov-25,207,Not satisfied
+1072,2487,3528,17-Dec-25,192,Not satisfied
+1075,5970,3409,10-Jun-25,7012,Not satisfied
+1079,7564,4708,22-Jul-25,2,Not satisfied
+1102,2851,2987,08-Jun-25,204,Not satisfied
+1103,9256,7973,23-Aug-25,1991,Not satisfied
+1111,8151,6314,19-May-25,3997,Not satisfied
+1112,246,5293,10-May-25,7001,Not satisfied
+1128,3562,6163,15-Aug-25,6991,Not satisfied
+1160,10151,584,16-Nov-25,395,Not satisfied
+1163,6311,2331,22-Nov-25,206,Not satisfied
+1164,636,6126,09-Oct-25,155,Not satisfied
+1166,1234,6322,25-Feb-25,697,Not satisfied
+1168,2033,141,01-May-25,677,Not satisfied
+1170,4225,5090,22-Feb-25,407,Not satisfied
+1171,7372,6472,08-Feb-25,195,Not satisfied
+1176,11698,7300,21-Mar-25,4,Not satisfied
+1182,2717,3046,18-Feb-25,2016,Not satisfied
+1193,377,7166,21-Jan-25,6987,Not satisfied
+1198,9782,4266,08-Apr-25,148,Not satisfied
+3,7652,3247,29-Jul-25,14,Accidental purchase
+17,444,2093,06-Jan-25,3999,Accidental purchase
+18,6124,3685,23-Nov-25,2002,Accidental purchase
+35,9870,3938,07-Mar-25,404,Accidental purchase
+48,6716,5114,11-Jan-25,4004,Accidental purchase
+49,9955,3365,27-Sep-25,1,Accidental purchase
+60,1090,5627,07-Nov-25,183,Accidental purchase
+61,3395,5741,31-Aug-25,423,Accidental purchase
+75,5531,2133,02-Feb-25,1997,Accidental purchase
+78,9278,866,09-Jun-25,1991,Accidental purchase
+94,9845,5099,28-Feb-25,1996,Accidental purchase
+97,10907,4302,17-Oct-25,3986,Accidental purchase
+107,10210,4677,05-Sep-25,155,Accidental purchase
+113,1025,3761,01-Apr-25,381,Accidental purchase
+119,7910,3570,05-May-25,2007,Accidental purchase
+127,6563,6586,13-Jul-25,3997,Accidental purchase
+140,454,4973,15-Apr-25,403,Accidental purchase
+142,4852,4768,07-Jun-25,692,Accidental purchase
+151,603,7530,11-Apr-25,2014,Accidental purchase
+167,1869,6837,06-Nov-25,4003,Accidental purchase
+171,804,7987,18-Jul-25,186,Accidental purchase
+172,7580,6251,21-Nov-25,405,Accidental purchase
+176,9847,2193,10-Jul-25,6998,Accidental purchase
+181,4970,7128,25-Feb-25,398,Accidental purchase
+188,8029,3709,30-Nov-25,409,Accidental purchase
+194,8840,3115,22-Nov-25,706,Accidental purchase
+195,7401,7171,14-Apr-25,208,Accidental purchase
+199,10612,3647,04-Feb-25,4005,Accidental purchase
+212,10165,1735,20-Oct-25,395,Accidental purchase
+231,3715,801,10-Dec-25,11,Accidental purchase
+236,8084,2145,02-Aug-25,3985,Accidental purchase
+238,11173,4604,11-Nov-25,4007,Accidental purchase
+239,363,4858,24-Sep-25,197,Accidental purchase
+247,7137,2864,05-Aug-25,10,Accidental purchase
+249,8603,7262,28-Dec-25,704,Accidental purchase
+256,11477,6380,05-Oct-25,6998,Accidental purchase
+265,4047,1983,22-Jul-25,8,Accidental purchase
+270,6092,747,01-Jan-26,189,Accidental purchase
+271,5591,4323,14-Jul-25,206,Accidental purchase
+276,2976,6228,29-Nov-25,211,Accidental purchase
+277,3145,6656,20-Jan-25,7000,Accidental purchase
+293,9140,618,01-Sep-25,7018,Accidental purchase
+296,5107,7510,18-Oct-25,702,Accidental purchase
+297,977,4834,15-Feb-25,4002,Accidental purchase
+301,10710,2339,24-Jul-25,4,Accidental purchase
+302,6176,671,15-Jan-25,3,Accidental purchase
+306,3182,6696,11-Sep-25,4010,Accidental purchase
+311,9,1414,01-Jan-26,693,Accidental purchase
+320,2580,7602,24-Sep-25,6,Accidental purchase
+325,9208,3455,29-Mar-25,13,Accidental purchase
+326,7711,7679,13-Jul-25,383,Accidental purchase
+343,2087,665,06-Sep-25,3990,Accidental purchase
+370,8555,5280,20-Dec-25,191,Accidental purchase
+377,141,5796,17-Jan-26,178,Accidental purchase
+378,10777,4044,15-Sep-25,3997,Accidental purchase
+398,2339,2530,03-Jul-25,1,Accidental purchase
+402,8199,5741,01-Sep-25,2,Accidental purchase
+406,10482,4490,05-Jun-25,396,Accidental purchase
+413,9694,7228,29-Sep-25,202,Accidental purchase
+415,8147,2166,08-Jan-25,4,Accidental purchase
+424,3731,2961,23-Jul-25,3,Accidental purchase
+432,10853,727,29-Jul-25,398,Accidental purchase
+434,7739,7131,23-Jul-25,690,Accidental purchase
+444,6650,7743,02-Nov-25,689,Accidental purchase
+445,5240,6890,27-Nov-25,699,Accidental purchase
+449,9413,3807,11-Oct-25,403,Accidental purchase
+450,11786,5304,08-Mar-25,412,Accidental purchase
+453,1398,7930,23-Apr-25,4008,Accidental purchase
+462,5207,6118,13-Apr-25,3981,Accidental purchase
+463,8972,4851,19-Dec-25,399,Accidental purchase
+466,2260,229,31-Dec-25,693,Accidental purchase
+482,8478,624,01-Dec-25,1994,Accidental purchase
+490,9580,1574,04-Feb-25,139,Accidental purchase
+496,11637,5930,28-Aug-25,214,Accidental purchase
+503,2309,1034,02-Apr-25,415,Accidental purchase
+504,9864,2867,30-Nov-25,413,Accidental purchase
+505,5789,1426,05-Apr-25,415,Accidental purchase
+507,9399,4552,18-Jun-25,402,Accidental purchase
+510,4187,3943,05-Jun-25,7,Accidental purchase
+517,10638,6375,10-Jul-25,398,Accidental purchase
+530,3561,618,14-Jul-25,710,Accidental purchase
+541,9356,7767,05-May-25,204,Accidental purchase
+551,3920,1778,08-Nov-25,210,Accidental purchase
+571,3224,2312,20-Nov-25,151,Accidental purchase
+574,9198,5178,27-Oct-25,14,Accidental purchase
+575,6848,5361,27-Jun-25,2006,Accidental purchase
+587,10716,4114,18-Feb-25,19,Accidental purchase
+591,2296,756,02-Jan-26,379,Accidental purchase
+594,191,840,16-Jul-25,700,Accidental purchase
+597,10445,1753,15-Mar-25,2000,Accidental purchase
+599,5516,4684,02-May-25,388,Accidental purchase
+606,11428,7684,26-Mar-25,168,Accidental purchase
+612,411,1777,20-Jun-25,1990,Accidental purchase
+615,2075,4310,01-Jun-25,3995,Accidental purchase
+618,5520,6659,26-Feb-25,187,Accidental purchase
+627,3736,3902,04-Aug-25,387,Accidental purchase
+628,8774,1397,21-Jul-25,198,Accidental purchase
+630,4524,906,02-Dec-25,155,Accidental purchase
+637,1531,1897,14-Feb-25,697,Accidental purchase
+647,184,5213,03-Jul-25,701,Accidental purchase
+662,11930,6052,27-Aug-25,2000,Accidental purchase
+672,1304,6290,21-Jul-25,200,Accidental purchase
+675,8527,7064,05-Feb-25,3986,Accidental purchase
+683,1516,2492,27-May-25,202,Accidental purchase
+687,4689,6386,03-Jun-25,187,Accidental purchase
+691,3238,3312,30-Jan-25,1980,Accidental purchase
+699,5068,1324,14-Nov-25,196,Accidental purchase
+701,10993,4004,13-May-25,3981,Accidental purchase
+703,9075,5585,27-Nov-25,7012,Accidental purchase
+711,8602,5173,03-Mar-25,2002,Accidental purchase
+715,10219,7345,20-Nov-25,201,Accidental purchase
+720,1296,7576,23-Jun-25,192,Accidental purchase
+722,1074,2865,19-Dec-25,398,Accidental purchase
+743,9251,5570,31-Oct-25,210,Accidental purchase
+756,5108,5420,20-Nov-25,704,Accidental purchase
+760,10901,2228,22-Aug-25,4008,Accidental purchase
+765,9858,2404,21-Apr-25,1999,Accidental purchase
+777,3210,6060,31-Mar-25,1985,Accidental purchase
+795,8439,4856,23-Jun-25,7027,Accidental purchase
+799,10485,5124,17-May-25,3,Accidental purchase
+800,9106,3247,07-Jan-25,404,Accidental purchase
+801,1502,7371,11-Apr-25,6997,Accidental purchase
+811,9227,581,20-Mar-25,1986,Accidental purchase
+812,7886,2489,09-Dec-25,407,Accidental purchase
+820,4908,4585,23-Mar-25,4005,Accidental purchase
+825,5368,2022,26-Aug-25,389,Accidental purchase
+827,6528,6744,12-Dec-25,180,Accidental purchase
+832,1896,4767,06-Feb-25,2007,Accidental purchase
+834,2034,167,20-Dec-25,702,Accidental purchase
+842,1048,7953,12-Feb-25,11,Accidental purchase
+845,11534,2435,30-Mar-25,6993,Accidental purchase
+846,5353,5278,19-Jun-25,692,Accidental purchase
+853,6506,3890,14-Jan-26,690,Accidental purchase
+864,4711,3143,21-Oct-25,688,Accidental purchase
+871,714,677,04-Feb-25,403,Accidental purchase
+876,5029,5167,24-Apr-25,3996,Accidental purchase
+883,3465,5485,20-Jun-25,4025,Accidental purchase
+889,4916,1064,24-Jul-25,3,Accidental purchase
+896,7368,7713,24-Mar-25,687,Accidental purchase
+897,11263,2719,29-Aug-25,707,Accidental purchase
+907,10672,4061,24-Apr-25,12,Accidental purchase
+921,6553,6162,19-May-25,6998,Accidental purchase
+922,3717,1148,11-Dec-25,397,Accidental purchase
+935,7415,5102,20-Sep-25,721,Accidental purchase
+939,9086,7839,09-Feb-25,398,Accidental purchase
+942,4663,7349,04-Apr-25,1991,Accidental purchase
+949,9777,1560,11-Apr-25,191,Accidental purchase
+950,4614,1385,22-Sep-25,210,Accidental purchase
+952,3030,767,01-Sep-25,4,Accidental purchase
+954,4294,7865,23-Jun-25,155,Accidental purchase
+964,2587,2964,22-Jan-25,401,Accidental purchase
+972,4919,2147,28-Jun-25,702,Accidental purchase
+978,8565,6083,16-Nov-25,199,Accidental purchase
+985,6603,7247,04-Oct-25,396,Accidental purchase
+986,3250,1909,21-Jan-25,391,Accidental purchase
+990,552,1981,12-Nov-25,4005,Accidental purchase
+992,5468,2610,08-Jan-26,396,Accidental purchase
+993,668,5144,15-May-25,197,Accidental purchase
+994,10483,1852,14-Jan-25,396,Accidental purchase
+997,7314,1637,17-Jan-25,203,Accidental purchase
+998,4987,3013,11-Jan-25,17,Accidental purchase
+1005,4112,1746,14-Jul-25,5,Accidental purchase
+1012,1746,7722,11-Mar-25,6992,Accidental purchase
+1014,7821,5419,31-Jan-25,673,Accidental purchase
+1015,1714,7147,21-Mar-25,23,Accidental purchase
+1020,8280,7251,09-Sep-25,3987,Accidental purchase
+1022,4167,5447,15-Jun-25,405,Accidental purchase
+1026,10058,4187,19-Apr-25,4011,Accidental purchase
+1034,916,2151,07-Jul-25,2002,Accidental purchase
+1036,6255,668,29-Aug-25,417,Accidental purchase
+1037,8853,5143,21-Dec-25,6996,Accidental purchase
+1042,543,5761,06-Jun-25,703,Accidental purchase
+1043,5871,858,11-Jul-25,377,Accidental purchase
+1047,11877,3295,04-Aug-25,4004,Accidental purchase
+1054,22,6728,29-Jan-25,1993,Accidental purchase
+1056,8625,4040,31-Jan-25,424,Accidental purchase
+1061,10803,1738,24-May-25,392,Accidental purchase
+1068,7306,7669,18-Mar-25,190,Accidental purchase
+1073,2465,1767,03-Apr-25,1993,Accidental purchase
+1076,6562,2333,22-Jan-25,710,Accidental purchase
+1085,8900,7049,12-Dec-25,398,Accidental purchase
+1086,5324,7857,25-Apr-25,392,Accidental purchase
+1087,6509,7093,21-Mar-25,4008,Accidental purchase
+1094,2448,5040,18-Apr-25,396,Accidental purchase
+1098,10241,5762,30-Jun-25,682,Accidental purchase
+1104,3267,6329,09-Oct-25,685,Accidental purchase
+1109,10043,7164,27-Apr-25,7000,Accidental purchase
+1114,171,3198,04-Dec-25,709,Accidental purchase
+1116,5987,6854,02-Jan-25,391,Accidental purchase
+1126,6770,5270,01-Aug-25,394,Accidental purchase
+1135,3722,6794,22-Apr-25,4000,Accidental purchase
+1141,4735,4334,13-Feb-25,7021,Accidental purchase
+1148,7009,916,11-Jun-25,1979,Accidental purchase
+1149,1790,4623,01-Sep-25,403,Accidental purchase
+1151,3789,5480,19-Apr-25,4000,Accidental purchase
+1156,10639,3424,23-Apr-25,161,Accidental purchase
+1159,8995,7662,09-Sep-25,408,Accidental purchase
+1165,11321,7704,13-May-25,220,Accidental purchase
+1167,1532,2815,01-Mar-25,2001,Accidental purchase
+1169,11542,565,04-Dec-25,205,Accidental purchase
+1175,443,7572,20-Apr-25,20,Accidental purchase
+1181,6156,1128,28-Sep-25,1993,Accidental purchase
+1183,1798,7151,21-Jan-25,20,Accidental purchase
+1191,401,166,03-May-25,13,Accidental purchase
+1195,11229,225,18-Apr-25,190,Accidental purchase
+5,5019,6823,27-Jul-25,2010,App issues
+19,7592,1188,01-Oct-25,406,App issues
+31,1129,377,10-Jul-25,398,App issues
+33,3825,4502,16-Sep-25,6990,App issues
+37,9645,7274,14-Jan-26,189,App issues
+42,5689,3624,08-Jan-26,710,App issues
+51,7054,5695,25-Jul-25,394,App issues
+62,3389,6556,31-Dec-25,204,App issues
+66,4008,7801,20-Oct-25,5,App issues
+73,1412,1438,11-Aug-25,212,App issues
+80,2361,2572,25-Feb-25,399,App issues
+81,7363,2341,26-Jun-25,214,App issues
+85,971,381,02-Dec-25,7004,App issues
+90,4529,2819,21-Sep-25,196,App issues
+100,2395,1815,29-Nov-25,402,App issues
+112,10047,1134,18-Dec-25,690,App issues
+116,2032,5261,13-Jan-25,190,App issues
+120,4130,3182,29-Apr-25,4016,App issues
+130,10679,3102,27-Dec-25,6984,App issues
+132,5317,4099,04-Aug-25,3,App issues
+136,645,696,28-Jun-25,687,App issues
+144,3454,7115,11-Sep-25,14,App issues
+145,6567,496,10-Nov-25,3976,App issues
+146,602,4664,19-Nov-25,395,App issues
+150,2265,7658,15-Feb-25,145,App issues
+155,10624,2229,24-Oct-25,715,App issues
+156,6031,7933,08-Apr-25,706,App issues
+158,9322,6165,23-Mar-25,174,App issues
+163,10179,7582,08-Aug-25,201,App issues
+170,11422,432,31-Aug-25,379,App issues
+174,7856,7496,14-Mar-25,2000,App issues
+177,11702,4691,07-Jul-25,411,App issues
+179,4940,7452,02-Oct-25,410,App issues
+182,3056,2039,03-Aug-25,152,App issues
+183,8214,68,01-May-25,691,App issues
+193,4632,4938,31-Mar-25,2002,App issues
+197,379,3943,09-Jun-25,418,App issues
+201,5668,6288,01-Oct-25,715,App issues
+202,3714,7148,23-Jun-25,698,App issues
+204,1852,67,24-Jun-25,199,App issues
+213,3315,510,11-Nov-25,197,App issues
+215,1392,4195,16-Aug-25,694,App issues
+223,1455,6801,31-Jul-25,160,App issues
+227,6115,6544,21-Jun-25,2012,App issues
+243,8001,7558,20-Jan-25,2011,App issues
+245,8893,1825,18-Jan-25,199,App issues
+246,260,5721,22-May-25,7009,App issues
+250,11502,5696,01-Feb-25,694,App issues
+260,1709,3871,16-Nov-25,2011,App issues
+261,8102,6008,21-Jan-25,9,App issues
+272,9689,5577,01-Jul-25,208,App issues
+278,7010,6826,29-Jun-25,705,App issues
+281,11919,386,16-Feb-25,183,App issues
+285,9095,2622,14-Apr-25,3,App issues
+286,2141,964,08-Dec-25,138,App issues
+287,5740,3585,10-Oct-25,393,App issues
+289,2959,4265,06-Aug-25,7004,App issues
+292,10666,829,19-Oct-25,4011,App issues
+295,11274,4601,22-Dec-25,160,App issues
+305,1536,3893,27-Dec-25,164,App issues
+308,10809,2407,09-Feb-25,152,App issues
+310,2480,2008,05-Aug-25,4,App issues
+318,520,3245,30-Nov-25,3998,App issues
+335,9202,3127,23-Oct-25,175,App issues
+342,8928,333,31-Dec-25,403,App issues
+345,9532,5298,03-Jan-26,15,App issues
+351,6536,2482,17-Aug-25,212,App issues
+355,5457,3483,26-Jun-25,3997,App issues
+358,1210,7615,17-Oct-25,146,App issues
+359,9149,3161,16-Nov-25,7001,App issues
+364,9549,4415,27-Jan-25,709,App issues
+365,7674,7028,14-Jul-25,211,App issues
+367,1949,2162,09-Jul-25,202,App issues
+368,10369,2327,05-Aug-25,4007,App issues
+375,3037,1570,14-Jul-25,707,App issues
+381,4021,1959,07-Feb-25,202,App issues
+384,183,7890,07-Feb-25,209,App issues
+416,7405,4635,08-Jan-25,5,App issues
+420,2009,7376,24-Oct-25,3995,App issues
+425,7121,4948,26-Apr-25,394,App issues
+441,1489,4235,20-Jan-25,213,App issues
+446,6439,1981,29-Oct-25,25,App issues
+447,8619,5218,13-Oct-25,3985,App issues
+464,3328,6420,09-Jun-25,704,App issues
+468,3684,2458,14-Sep-25,3981,App issues
+473,6239,2366,03-Feb-25,1996,App issues
+486,3345,2922,01-Oct-25,6999,App issues
+500,11813,4333,06-Mar-25,7009,App issues
+501,3590,7087,22-Nov-25,207,App issues
+502,10855,3579,20-Sep-25,702,App issues
+511,8741,5124,10-Jan-26,16,App issues
+515,10381,6618,04-Feb-25,4012,App issues
+520,9728,6308,11-Oct-25,417,App issues
+522,1889,1802,06-Mar-25,2003,App issues
+531,11843,6830,19-Jun-25,405,App issues
+539,3538,427,04-Nov-25,195,App issues
+545,4500,6290,02-Nov-25,162,App issues
+546,7337,3465,02-Sep-25,392,App issues
+548,10187,7280,07-Jun-25,197,App issues
+549,606,2,22-Oct-25,156,App issues
+552,7804,2953,01-Jan-26,6999,App issues
+553,5950,4397,01-Oct-25,690,App issues
+563,7722,5710,03-Oct-25,25,App issues
+585,7329,3686,29-Dec-25,405,App issues
+604,1652,6882,24-Dec-25,7,App issues
+610,6305,6829,18-Dec-25,178,App issues
+621,10449,944,14-Jan-26,389,App issues
+623,8484,1587,22-Aug-25,179,App issues
+625,5519,1182,22-Aug-25,198,App issues
+632,2369,37,21-Nov-25,185,App issues
+634,1116,24,13-Nov-25,387,App issues
+636,5341,1850,10-Jan-26,698,App issues
+638,6027,594,19-Aug-25,185,App issues
+644,8017,6841,19-Oct-25,404,App issues
+648,6029,104,16-Aug-25,201,App issues
+653,8468,6978,21-Aug-25,195,App issues
+655,8303,1198,28-Mar-25,699,App issues
+658,8094,6052,27-Jul-25,411,App issues
+660,3980,1345,03-Dec-25,186,App issues
+667,2658,5849,19-Nov-25,153,App issues
+673,2190,4037,19-Aug-25,395,App issues
+681,11848,3296,07-Nov-25,201,App issues
+686,8452,7562,12-Jan-26,141,App issues
+692,8194,1088,21-Jan-25,408,App issues
+693,7875,1156,23-Dec-25,390,App issues
+700,4188,4481,04-Mar-25,2011,App issues
+706,10021,3705,11-Aug-25,682,App issues
+708,8383,2269,25-Oct-25,698,App issues
+712,2291,4154,09-Apr-25,7013,App issues
+714,8659,2887,19-Apr-25,399,App issues
+719,7542,3990,03-Mar-25,12,App issues
+721,6678,3642,23-Apr-25,395,App issues
+724,5555,4280,10-Oct-25,194,App issues
+734,8938,2992,15-Sep-25,3990,App issues
+735,6790,1356,24-Mar-25,20,App issues
+738,2367,7645,01-Jan-25,7,App issues
+746,2854,1470,10-Feb-25,1,App issues
+758,5452,6014,03-Aug-25,193,App issues
+768,5050,1909,14-Jul-25,409,App issues
+769,5086,4153,13-Apr-25,3986,App issues
+772,9605,6365,10-Oct-25,423,App issues
+779,11084,425,28-Mar-25,211,App issues
+786,1741,6912,02-Feb-25,154,App issues
+802,4954,174,28-Nov-25,713,App issues
+806,9887,435,27-Apr-25,4,App issues
+813,2214,5074,28-Nov-25,212,App issues
+821,6812,53,25-Feb-25,718,App issues
+823,999,5143,27-Jun-25,7001,App issues
+830,11598,4630,05-Jan-25,405,App issues
+831,8593,706,08-Jan-26,195,App issues
+835,7520,255,26-Oct-25,694,App issues
+847,1641,2977,13-Dec-25,203,App issues
+851,7704,2384,02-Dec-25,2005,App issues
+858,3215,1690,03-May-25,700,App issues
+859,9343,140,06-Dec-25,397,App issues
+860,5738,6639,27-Dec-25,4,App issues
+870,4971,1765,23-Dec-25,1990,App issues
+874,1347,6291,14-Dec-25,179,App issues
+881,448,331,15-Jan-26,197,App issues
+887,3180,139,15-Aug-25,402,App issues
+888,5964,1031,11-Jul-25,4014,App issues
+899,9032,4166,30-Aug-25,402,App issues
+905,9321,5837,25-Sep-25,417,App issues
+908,2208,3993,28-Feb-25,383,App issues
+915,11912,1669,22-Mar-25,202,App issues
+930,6643,7260,29-Jul-25,722,App issues
+932,6093,6359,15-Jul-25,176,App issues
+940,4259,2850,20-Jan-25,18,App issues
+944,1610,3722,20-May-25,702,App issues
+951,2573,6413,10-Sep-25,187,App issues
+958,9800,6726,27-Dec-25,191,App issues
+963,6903,3812,17-Dec-25,6973,App issues
+969,11478,5701,08-Oct-25,6988,App issues
+988,9158,737,23-Jun-25,201,App issues
+1009,4645,7875,29-Jul-25,396,App issues
+1023,1081,7533,13-Feb-25,195,App issues
+1024,4306,1960,18-Feb-25,1991,App issues
+1029,9291,4359,18-Sep-25,150,App issues
+1032,312,3362,28-Jan-25,138,App issues
+1064,11600,6549,22-Aug-25,210,App issues
+1081,11630,3803,24-May-25,1,App issues
+1082,987,7394,18-May-25,417,App issues
+1090,7263,7496,12-Jan-26,2007,App issues
+1095,11988,5736,13-May-25,4011,App issues
+1099,7333,6410,03-Jul-25,389,App issues
+1105,6015,5827,17-Apr-25,4003,App issues
+1107,10436,1458,05-Jul-25,3986,App issues
+1115,5329,4681,29-Nov-25,226,App issues
+1121,3394,4527,21-Nov-25,682,App issues
+1131,7180,4468,03-Mar-25,207,App issues
+1132,4680,2859,14-Jun-25,377,App issues
+1133,9468,1715,03-Jan-25,136,App issues
+1139,8746,3494,20-Jun-25,695,App issues
+1142,2321,5400,11-Jan-26,413,App issues
+1152,1891,1725,30-May-25,1,App issues
+1154,3481,7912,19-Oct-25,143,App issues
+1161,10253,2410,04-Jan-25,413,App issues
+1172,9284,924,24-Jun-25,201,App issues
+1173,8654,5537,18-Jan-25,2003,App issues
+1178,8006,3331,16-Aug-25,403,App issues
+1179,4927,5758,09-May-25,151,App issues
+1184,5304,3471,20-Sep-25,4007,App issues
+1185,8617,1952,18-Nov-25,197,App issues
+1187,6329,1427,16-Jun-25,200,App issues
+1188,2067,73,14-Oct-25,15,App issues
+1190,194,4571,15-May-25,3984,App issues
+1192,1361,6654,03-Jan-26,1,App issues
+2,8343,2664,14-Jan-26,9,Other
+4,1567,5807,18-Apr-25,4002,Other
+8,6513,6791,06-Feb-25,2006,Other
+11,9734,6840,15-Apr-25,3977,Other
+20,2625,2864,29-May-25,195,Other
+23,3820,1274,27-Mar-25,4007,Other
+26,2275,6880,26-Jun-25,6991,Other
+28,7651,673,04-May-25,428,Other
+34,556,6992,26-May-25,1985,Other
+45,7676,7069,06-Apr-25,401,Other
+47,8191,5607,18-Jun-25,378,Other
+58,920,4507,09-Oct-25,143,Other
+63,6991,6778,03-Apr-25,397,Other
+64,3744,422,14-Mar-25,4002,Other
+68,10741,1450,23-May-25,401,Other
+77,3796,3449,10-Mar-25,3989,Other
+79,6856,5186,18-Aug-25,407,Other
+86,8460,4888,07-Dec-25,162,Other
+99,7040,3139,13-Apr-25,11,Other
+105,4856,4327,30-Nov-25,195,Other
+106,8914,6413,10-Jun-25,4,Other
+114,3888,2523,15-Aug-25,1999,Other
+117,9181,1897,26-May-25,692,Other
+118,1900,7342,23-Apr-25,192,Other
+121,10580,3007,25-Jun-25,401,Other
+129,3996,4876,18-Jun-25,203,Other
+133,7449,2963,13-Feb-25,2007,Other
+134,7225,534,12-Nov-25,397,Other
+137,5096,516,12-Jun-25,5,Other
+152,11348,2199,25-Aug-25,390,Other
+162,9949,6592,29-Jun-25,390,Other
+173,65,6877,22-Feb-25,7018,Other
+187,10490,2555,30-Apr-25,4003,Other
+190,2554,6712,06-Oct-25,409,Other
+196,11256,3669,20-Dec-25,200,Other
+209,3904,3121,18-Aug-25,7,Other
+211,8009,5016,18-Apr-25,190,Other
+221,8287,780,18-Aug-25,3,Other
+233,6153,700,26-Apr-25,3997,Other
+248,8081,7666,18-Feb-25,7014,Other
+255,10456,6979,24-Jun-25,206,Other
+273,5732,1819,01-Oct-25,148,Other
+274,6494,2205,11-Jul-25,397,Other
+275,4487,2781,15-Aug-25,1,Other
+279,609,5902,11-Nov-25,382,Other
+280,7131,30,14-Apr-25,392,Other
+282,434,6979,26-Jan-25,187,Other
+304,3263,6815,01-Oct-25,210,Other
+309,123,3370,12-Oct-25,147,Other
+315,9840,6798,19-Mar-25,3996,Other
+316,5004,331,25-Jun-25,170,Other
+328,6714,7339,17-Jan-26,194,Other
+330,5447,5788,27-Nov-25,137,Other
+336,9672,7982,01-Apr-25,707,Other
+338,690,1351,21-Jan-25,722,Other
+346,4724,7572,09-Aug-25,404,Other
+347,3198,2341,24-Jun-25,191,Other
+348,2143,7056,12-Nov-25,6,Other
+354,9301,3909,04-Jan-26,403,Other
+357,2457,219,29-Aug-25,2000,Other
+372,10815,292,05-Jan-25,185,Other
+374,8661,866,28-Mar-25,1998,Other
+382,10637,6550,09-Jan-26,7001,Other
+386,3309,3101,01-Feb-25,706,Other
+388,1815,1747,15-Nov-25,388,Other
+390,3517,7691,29-Nov-25,3992,Other
+392,1757,683,04-Nov-25,704,Other
+393,963,1548,30-Apr-25,3,Other
+397,1265,6135,07-Jan-25,3994,Other
+401,9309,1778,14-Jun-25,202,Other
+414,2984,7701,01-Oct-25,2002,Other
+418,11943,3063,08-Jan-25,204,Other
+421,3172,4652,04-Oct-25,1983,Other
+429,9436,3983,10-Apr-25,714,Other
+436,3373,7806,21-Mar-25,134,Other
+437,3115,6128,21-Jan-25,689,Other
+455,9426,895,26-Feb-25,1996,Other
+456,7202,694,23-Dec-25,144,Other
+478,4330,4853,29-Jan-25,7,Other
+479,6421,4221,15-Feb-25,1,Other
+485,6161,5273,01-Nov-25,2013,Other
+494,10206,4446,12-Sep-25,701,Other
+519,4823,2173,10-May-25,1993,Other
+521,2310,286,03-Jun-25,394,Other
+523,4767,7195,14-Mar-25,6996,Other
+528,7954,3373,14-Jan-26,7,Other
+532,11482,6743,27-May-25,393,Other
+533,3939,1215,01-Dec-25,190,Other
+534,9368,5820,21-May-25,197,Other
+536,3876,2200,09-May-25,189,Other
+554,2721,6138,29-Jul-25,429,Other
+556,3836,6568,14-Feb-25,164,Other
+561,1322,3875,31-Mar-25,208,Other
+565,6828,2739,09-May-25,693,Other
+566,1247,5798,14-May-25,1,Other
+573,8131,7239,27-Oct-25,4001,Other
+579,10116,7533,29-Nov-25,6989,Other
+580,8334,5667,21-Nov-25,1,Other
+589,501,7511,23-Jun-25,197,Other
+592,7370,330,01-Apr-25,697,Other
+595,11824,4789,29-Oct-25,6989,Other
+601,1713,4949,26-Sep-25,3999,Other
+602,10270,5890,04-Dec-25,705,Other
+605,9365,3050,19-Nov-25,151,Other
+608,8476,7191,29-Sep-25,208,Other
+616,4178,7013,21-Jun-25,411,Other
+624,2743,6432,09-May-25,6999,Other
+626,4994,4159,13-Dec-25,3998,Other
+641,11571,5758,14-Feb-25,396,Other
+651,6006,287,17-Oct-25,177,Other
+666,608,3604,10-Oct-25,2005,Other
+669,1475,1556,14-Dec-25,189,Other
+677,10641,6710,02-Apr-25,160,Other
+678,11507,2334,25-Apr-25,681,Other
+688,11977,4701,15-Jan-26,9,Other
+689,6473,3046,07-Jun-25,1995,Other
+695,11499,2050,02-Feb-25,6993,Other
+698,2218,4735,12-Feb-25,692,Other
+713,63,2975,24-Jul-25,193,Other
+716,3582,7250,18-Jul-25,403,Other
+725,2162,5565,07-Aug-25,134,Other
+726,3463,364,29-Mar-25,22,Other
+729,11853,370,12-Sep-25,6997,Other
+731,11763,1577,25-May-25,192,Other
+733,5593,102,28-Apr-25,1998,Other
+737,9542,4345,02-Feb-25,202,Other
+739,3453,438,04-Jan-25,148,Other
+749,10618,3013,12-Dec-25,5,Other
+751,4061,1837,27-May-25,197,Other
+757,6556,6626,23-May-25,4007,Other
+759,3444,4589,16-Mar-25,401,Other
+761,8293,2775,13-Sep-25,391,Other
+762,2701,7236,12-Dec-25,192,Other
+774,8675,3865,26-Feb-25,179,Other
+780,6065,4383,01-Oct-25,13,Other
+782,11388,5648,16-Oct-25,2014,Other
+784,8881,7674,24-Jun-25,204,Other
+790,4274,5485,06-May-25,4010,Other
+791,8571,4647,28-May-25,402,Other
+792,8174,5036,16-Sep-25,14,Other
+793,709,5921,26-Sep-25,7003,Other
+798,6963,6623,06-Jan-26,395,Other
+803,6985,1515,18-Jan-25,170,Other
+809,11030,5240,24-Jan-25,6,Other
+816,7874,1470,19-Oct-25,2005,Other
+818,5955,323,21-Sep-25,212,Other
+822,2677,5620,27-Aug-25,3997,Other
+826,5930,3563,14-Apr-25,384,Other
+828,9329,5168,11-Oct-25,200,Other
+829,9732,7151,25-Aug-25,687,Other
+833,3462,2274,12-Aug-25,1978,Other
+836,3418,6125,18-Sep-25,1998,Other
+840,8202,995,21-Jul-25,402,Other
+854,7669,5453,15-Aug-25,140,Other
+855,8370,5044,13-Jul-25,11,Other
+863,10668,7314,11-Apr-25,6,Other
+866,11707,5358,26-Sep-25,401,Other
+867,11416,688,08-Nov-25,1990,Other
+872,965,2559,03-Jul-25,185,Other
+877,11631,3785,22-Jan-25,690,Other
+878,7609,7544,18-Jun-25,202,Other
+894,7850,489,24-Nov-25,387,Other
+898,8117,4464,22-Feb-25,1,Other
+904,4912,447,04-Jun-25,389,Other
+906,10571,621,17-Jun-25,390,Other
+912,10525,7000,26-Jan-25,395,Other
+913,5865,5470,09-Oct-25,693,Other
+916,11248,5564,26-Mar-25,2003,Other
+925,6537,1744,15-Jul-25,704,Other
+956,8290,7522,14-May-25,685,Other
+961,6356,2349,31-Jul-25,4012,Other
+968,3064,6439,03-Dec-25,405,Other
+970,11800,198,22-Jun-25,398,Other
+974,9621,1410,27-Jul-25,3999,Other
+975,1261,1362,13-Mar-25,3995,Other
+977,9817,5850,05-Sep-25,684,Other
+991,4822,5736,09-Feb-25,3987,Other
+1008,7185,3009,10-Dec-25,709,Other
+1010,11334,1672,26-Apr-25,378,Other
+1016,4158,7924,24-Oct-25,739,Other
+1021,1387,548,10-Nov-25,7,Other
+1027,10275,710,29-Sep-25,717,Other
+1049,4106,198,17-Jul-25,202,Other
+1050,11859,4142,31-Jul-25,701,Other
+1055,1988,1919,10-Sep-25,6974,Other
+1084,7080,7314,06-Oct-25,5,Other
+1089,3875,3265,28-Nov-25,207,Other
+1092,10261,4235,05-Jan-26,199,Other
+1093,751,5402,05-May-25,7008,Other
+1097,7042,3980,14-Jan-26,1998,Other
+1100,9557,6771,23-Mar-25,220,Other
+1110,11524,2610,24-Aug-25,399,Other
+1117,8864,3005,17-Jun-25,409,Other
+1118,6121,6041,22-Sep-25,403,Other
+1119,1319,2362,15-Oct-25,216,Other
+1120,4078,5592,13-Feb-25,391,Other
+1123,3889,5758,13-Oct-25,7006,Other
+1125,2155,7275,26-Oct-25,403,Other
+1127,7286,7709,12-Jun-25,1995,Other
+1134,11171,5794,03-Mar-25,147,Other
+1137,11989,979,14-May-25,3994,Other
+1138,1934,4777,17-May-25,698,Other
+1145,2125,5947,12-Jan-25,2001,Other
+1146,5525,6321,14-Jan-26,413,Other
+1155,9970,3713,18-Aug-25,204,Other
+1157,6792,5563,12-Jan-26,8,Other
+1158,157,7162,16-Nov-25,195,Other
+1174,1302,7432,25-Aug-25,2003,Other
+1180,6503,23,11-Nov-25,703,Other
+1189,11756,3095,04-Mar-25,151,Other
+1197,10660,436,27-Jul-25,2,Other
+1,2314,3713,11-Nov-25,194,Charged twice
+7,778,2887,04-Jan-25,181,Charged twice
+9,9609,84,15-Apr-25,1989,Charged twice
+10,10303,6500,20-Jul-25,3997,Charged twice
+12,10954,6053,13-Jan-25,682,Charged twice
+14,5159,1891,29-Aug-25,686,Charged twice
+15,9033,1963,21-Feb-25,21,Charged twice
+22,1805,1243,23-Mar-25,200,Charged twice
+24,2571,1747,15-Mar-25,701,Charged twice
+38,8447,3743,04-Feb-25,2,Charged twice
+40,7691,2614,23-Jul-25,6991,Charged twice
+53,1384,4613,10-Jan-25,384,Charged twice
+54,5747,310,23-Jul-25,389,Charged twice
+57,9991,5270,22-Sep-25,410,Charged twice
+65,951,5488,23-Jun-25,3993,Charged twice
+70,3003,149,07-Aug-25,141,Charged twice
+74,9721,5319,06-Jan-25,7,Charged twice
+91,1411,1136,02-Feb-25,19,Charged twice
+92,333,9,16-Apr-25,399,Charged twice
+96,10428,6243,29-Jul-25,701,Charged twice
+101,8306,4062,26-Apr-25,218,Charged twice
+103,867,6424,28-Aug-25,4012,Charged twice
+104,4428,3587,04-Jul-25,144,Charged twice
+110,3672,4262,07-May-25,6985,Charged twice
+111,7446,35,23-Jun-25,189,Charged twice
+125,5431,2612,26-Feb-25,3987,Charged twice
+126,10656,7211,08-Oct-25,188,Charged twice
+128,5800,5909,17-Jun-25,391,Charged twice
+135,10923,110,22-Feb-25,193,Charged twice
+141,2058,7509,08-May-25,1,Charged twice
+143,2219,2692,28-Dec-25,2013,Charged twice
+149,6296,3097,31-Oct-25,408,Charged twice
+159,3862,5102,15-Aug-25,694,Charged twice
+160,4442,3678,29-Mar-25,1997,Charged twice
+164,10316,6028,27-Nov-25,400,Charged twice
+166,8132,930,05-Apr-25,202,Charged twice
+185,6446,225,04-Oct-25,211,Charged twice
+186,11867,1072,02-Mar-25,397,Charged twice
+189,3062,4274,03-Feb-25,403,Charged twice
+192,10292,7094,10-Aug-25,4013,Charged twice
+198,5285,7295,30-Mar-25,2009,Charged twice
+208,8489,548,07-Nov-25,14,Charged twice
+214,2060,5148,19-Aug-25,1985,Charged twice
+216,7217,3696,29-Mar-25,200,Charged twice
+217,811,6276,16-Jan-25,393,Charged twice
+222,7668,1556,11-May-25,210,Charged twice
+237,1647,6873,03-May-25,698,Charged twice
+240,9751,6643,19-Mar-25,7008,Charged twice
+242,3192,2299,02-Mar-25,7000,Charged twice
+251,7955,3693,01-Dec-25,408,Charged twice
+264,10581,5364,16-Jan-26,6,Charged twice
+266,8276,3441,23-Nov-25,7008,Charged twice
+268,4766,157,06-Jan-26,1993,Charged twice
+269,5136,4936,09-Feb-25,1992,Charged twice
+283,1420,1920,26-Jun-25,6993,Charged twice
+290,4344,122,23-May-25,7,Charged twice
+298,8553,3791,04-Nov-25,155,Charged twice
+299,8309,7381,22-Jun-25,399,Charged twice
+300,9020,6321,13-Aug-25,205,Charged twice
+307,5598,2597,21-Jan-25,204,Charged twice
+339,9972,1904,27-May-25,1992,Charged twice
+344,5120,5146,07-Dec-25,706,Charged twice
+350,8921,5367,10-Jul-25,4,Charged twice
+363,11239,3935,01-Nov-25,3,Charged twice
+366,1981,3218,04-Apr-25,1991,Charged twice
+373,4644,4477,26-Jul-25,402,Charged twice
+379,4066,7228,16-Oct-25,193,Charged twice
+383,4630,5135,19-May-25,699,Charged twice
+396,962,5161,02-Jan-25,707,Charged twice
+399,9134,7398,11-Jul-25,6995,Charged twice
+403,8860,30,19-Apr-25,392,Charged twice
+407,2476,3929,19-Nov-25,200,Charged twice
+410,10744,4800,11-Aug-25,1991,Charged twice
+411,8768,7278,06-Apr-25,6988,Charged twice
+412,8170,7140,06-Apr-25,424,Charged twice
+417,385,7827,05-Aug-25,190,Charged twice
+419,6579,7869,15-Feb-25,6992,Charged twice
+430,10538,5819,27-Jun-25,681,Charged twice
+438,5726,2081,10-Jul-25,1998,Charged twice
+442,9660,4124,16-May-25,404,Charged twice
+451,3926,5934,12-May-25,20,Charged twice
+454,4184,6309,22-Apr-25,197,Charged twice
+457,6080,3141,08-Jan-25,182,Charged twice
+458,11744,2716,07-Oct-25,238,Charged twice
+459,7473,3761,17-May-25,713,Charged twice
+461,4575,4142,11-May-25,691,Charged twice
+465,7083,4073,07-Aug-25,4003,Charged twice
+467,7453,4481,09-Mar-25,208,Charged twice
+481,1761,2826,25-Oct-25,403,Charged twice
+487,692,5225,22-Jan-25,195,Charged twice
+488,4998,1824,08-Jul-25,12,Charged twice
+489,6154,1799,16-Jun-25,392,Charged twice
+493,1389,3017,29-Nov-25,6,Charged twice
+497,10171,3945,29-Oct-25,401,Charged twice
+514,1012,7682,06-Jun-25,394,Charged twice
+518,1704,3673,29-Aug-25,2009,Charged twice
+527,5661,754,25-Nov-25,399,Charged twice
+537,4683,28,01-Sep-25,1989,Charged twice
+538,10453,1471,30-Jun-25,187,Charged twice
+542,6350,6616,28-Oct-25,5,Charged twice
+544,11254,1427,26-Sep-25,186,Charged twice
+547,2593,5883,13-Apr-25,7,Charged twice
+550,10433,4331,06-Sep-25,691,Charged twice
+562,8037,303,15-Jul-25,2007,Charged twice
+564,10574,6529,11-Nov-25,396,Charged twice
+581,9812,4037,13-Jul-25,407,Charged twice
+584,7783,7482,14-Jul-25,205,Charged twice
+588,929,1170,18-Jul-25,9,Charged twice
+611,1650,6304,04-Jan-25,2,Charged twice
+613,8140,1195,02-Sep-25,142,Charged twice
+619,7303,3393,05-May-25,22,Charged twice
+620,9606,7040,01-Feb-25,3990,Charged twice
+622,6543,1760,26-Mar-25,4015,Charged twice
+631,2782,5107,17-Oct-25,5,Charged twice
+645,1407,2230,16-Jun-25,201,Charged twice
+646,9027,1767,22-Sep-25,1998,Charged twice
+649,2858,590,28-Nov-25,200,Charged twice
+659,6434,1423,23-Nov-25,206,Charged twice
+661,3803,7934,30-Oct-25,2002,Charged twice
+663,3981,1761,22-Dec-25,1987,Charged twice
+665,9971,1242,17-Oct-25,384,Charged twice
+670,10331,5213,12-Jun-25,696,Charged twice
+676,11768,1271,18-Jan-25,5,Charged twice
+679,324,7888,24-Feb-25,197,Charged twice
+680,6752,1317,15-Feb-25,154,Charged twice
+682,2642,4194,31-Oct-25,1996,Charged twice
+685,4373,1361,08-Oct-25,3979,Charged twice
+694,11307,3440,06-Dec-25,141,Charged twice
+696,2747,6971,12-Jul-25,396,Charged twice
+705,868,2596,23-Feb-25,193,Charged twice
+710,3027,437,18-Jan-25,152,Charged twice
+718,2046,791,11-Oct-25,3994,Charged twice
+742,325,4223,29-May-25,4001,Charged twice
+747,1194,5040,02-Dec-25,427,Charged twice
+748,5147,7753,18-Dec-25,160,Charged twice
+752,10532,4861,25-Sep-25,3998,Charged twice
+754,2783,5613,08-Nov-25,204,Charged twice
+763,8649,4613,11-Jun-25,398,Charged twice
+767,2647,4133,09-Oct-25,195,Charged twice
+778,11417,1012,27-Apr-25,148,Charged twice
+781,169,4435,31-Jan-25,200,Charged twice
+783,2353,5958,26-Dec-25,207,Charged twice
+785,849,6257,07-Oct-25,3995,Charged twice
+787,145,1339,15-Dec-25,4011,Charged twice
+788,7672,2491,05-Dec-25,217,Charged twice
+789,8798,3331,23-Jun-25,402,Charged twice
+804,7376,5898,14-Nov-25,7000,Charged twice
+808,502,2929,25-Mar-25,391,Charged twice
+814,6414,7063,09-Jul-25,197,Charged twice
+815,3613,4743,08-Nov-25,2011,Charged twice
+824,988,558,08-Sep-25,14,Charged twice
+839,2524,3934,04-Feb-25,1988,Charged twice
+841,5174,1150,06-Jul-25,396,Charged twice
+843,3928,2879,11-Jan-25,3997,Charged twice
+844,9944,975,17-Nov-25,6994,Charged twice
+852,2914,2981,14-Oct-25,6987,Charged twice
+857,485,1840,28-Mar-25,1995,Charged twice
+862,8765,5095,12-Aug-25,207,Charged twice
+879,3400,7930,05-May-25,2002,Charged twice
+880,7644,3511,21-Jan-25,138,Charged twice
+884,1603,5479,12-Jul-25,7008,Charged twice
+885,1278,2181,05-Jun-25,401,Charged twice
+890,3117,5217,25-Nov-25,6997,Charged twice
+892,353,4427,04-Sep-25,196,Charged twice
+901,8101,1176,20-Feb-25,7003,Charged twice
+902,9908,1715,07-Oct-25,706,Charged twice
+909,1865,7815,25-May-25,3995,Charged twice
+910,4534,4384,03-Dec-25,4004,Charged twice
+911,6984,2677,29-Aug-25,143,Charged twice
+923,9513,2292,19-Oct-25,403,Charged twice
+924,3082,5460,17-Jan-25,3,Charged twice
+929,1027,7993,26-Sep-25,394,Charged twice
+931,2188,4748,26-Feb-25,155,Charged twice
+936,5978,2230,07-Jan-26,218,Charged twice
+938,693,5582,12-Jan-26,395,Charged twice
+941,3992,6859,21-Sep-25,154,Charged twice
+945,3908,2715,16-Apr-25,148,Charged twice
+946,3557,3688,28-Jul-25,405,Charged twice
+947,6823,5350,24-Feb-25,7,Charged twice
+955,2318,5638,11-Aug-25,4,Charged twice
+962,11903,783,06-Dec-25,6987,Charged twice
+966,6437,6414,27-Aug-25,186,Charged twice
+967,4527,3132,09-Jan-26,415,Charged twice
+973,4525,3009,26-Feb-25,390,Charged twice
+979,3162,5005,12-Jul-25,407,Charged twice
+980,5662,2822,26-Oct-25,12,Charged twice
+983,6993,3323,09-Mar-25,401,Charged twice
+984,11017,2146,05-Nov-25,682,Charged twice
+995,8062,2133,25-Apr-25,2010,Charged twice
+996,6917,6086,30-Jan-25,2003,Charged twice
+1001,3072,5367,07-May-25,1996,Charged twice
+1004,9720,288,16-Feb-25,393,Charged twice
+1006,4120,6630,19-Oct-25,196,Charged twice
+1013,8754,7669,19-Jun-25,403,Charged twice
+1018,9215,2152,20-Apr-25,4000,Charged twice
+1019,8955,3169,13-Jan-25,24,Charged twice
+1031,1911,5383,01-Jan-25,5,Charged twice
+1039,1052,939,30-Jun-25,8,Charged twice
+1041,6748,6912,03-Oct-25,2020,Charged twice
+1045,7772,5668,09-Oct-25,385,Charged twice
+1057,330,4897,02-Sep-25,7000,Charged twice
+1058,743,266,26-Aug-25,192,Charged twice
+1059,160,4033,16-Nov-25,6994,Charged twice
+1067,6011,2248,09-Sep-25,7003,Charged twice
+1071,8375,6346,20-Aug-25,2001,Charged twice
+1074,5921,7888,09-Aug-25,192,Charged twice
+1077,9611,2020,21-Mar-25,396,Charged twice
+1078,4277,5399,22-Apr-25,1992,Charged twice
+1080,546,5294,20-Feb-25,17,Charged twice
+1088,4032,3736,06-Aug-25,1998,Charged twice
+1096,3879,5598,29-Sep-25,194,Charged twice
+1101,1177,3053,29-Apr-25,380,Charged twice
+1106,5578,1563,15-May-25,7005,Charged twice
+1108,2396,7151,24-Dec-25,701,Charged twice
+1113,11153,7280,02-May-25,192,Charged twice
+1122,2557,7450,25-Jul-25,164,Charged twice
+1124,7362,99,27-Feb-25,7002,Charged twice
+1129,2629,687,15-May-25,396,Charged twice
+1130,4854,7830,02-Jun-25,18,Charged twice
+1136,2787,5983,28-Jun-25,397,Charged twice
+1140,515,5025,10-Feb-25,211,Charged twice
+1147,2215,7068,01-Sep-25,414,Charged twice
+1177,6004,844,19-Oct-25,176,Charged twice
+1186,259,2068,08-May-25,1999,Charged twice
+1194,9614,3365,14-Aug-25,166,Charged twice
+1196,8729,6392,05-Aug-25,210,Charged twice
+1199,6213,6282,07-Jan-26,200,Charged twice
+1200,3748,5163,16-Jul-25,11,Charged twice

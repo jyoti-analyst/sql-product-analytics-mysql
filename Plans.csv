@@ -1,0 +1,9 @@
+﻿plan_id,plan_name,tier,billing_cycle,price_inr,is_active
+1,Free,Free,None,0,TRUE
+2,Basic Monthly,Basic,Monthly,199,TRUE
+3,Pro Monthly,Pro,Monthly,399,TRUE
+4,Premium Monthly,Premium,Monthly,699,TRUE
+5,Basic Annual,Basic,Annual,1999,TRUE
+6,Pro Annual,Pro,Annual,3999,TRUE
+7,Premium Annual,Premium,Annual,6999,TRUE
+8,Student Monthly,Basic,Monthly,149,TRUE

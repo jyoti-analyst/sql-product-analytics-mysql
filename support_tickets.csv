@@ -1,0 +1,3001 @@
+﻿ticket_id,user_id,created_date,resolved_date,priority,category,status,sla_hours
+30,7590,23-Dec-25,,Medium,Feature request,open,24
+44,2536,22-May-25,,Medium,Login,open,24
+70,7868,10-Mar-25,,Medium,Bug,open,24
+93,3615,11-Oct-25,,Medium,Performance,open,24
+114,3383,25-Aug-25,,Medium,Bug,open,24
+124,4204,27-May-25,,Medium,Other,open,24
+184,6536,15-Jan-26,,Medium,Feature request,open,24
+201,7442,09-Apr-25,,Medium,Feature request,open,24
+231,4199,09-Jan-26,,Medium,Login,open,24
+262,7498,26-May-25,,Medium,Performance,open,24
+290,6478,12-Mar-25,,Medium,Bug,open,24
+338,5277,05-Mar-25,,Medium,Login,open,24
+359,1032,28-Nov-25,,Medium,Bug,open,24
+364,3007,17-Feb-25,,Medium,Feature request,open,24
+406,4681,26-Feb-25,,Medium,Performance,open,24
+481,3649,14-Apr-25,,Medium,Performance,open,24
+619,3096,22-Mar-25,,Medium,Login,open,24
+659,5616,01-Jan-25,,Medium,Feature request,open,24
+683,7495,02-Jun-25,,Medium,Feature request,open,24
+685,3489,18-Mar-25,,Medium,Account,open,24
+707,1138,19-Nov-25,,Medium,Other,open,24
+728,4505,24-Dec-25,,Medium,Feature request,open,24
+748,4535,15-Aug-25,,Medium,Login,open,24
+756,2302,15-Jul-25,,Medium,Account,open,24
+801,387,20-Sep-25,,Medium,Feature request,open,24
+847,6278,22-Aug-25,,Medium,Login,open,24
+852,2505,23-Sep-25,,Medium,Performance,open,24
+902,5845,11-Apr-25,,Medium,Bug,open,24
+918,3735,15-Jan-25,,Medium,Feature request,open,24
+930,6921,09-Feb-25,,Medium,Billing,open,24
+1013,4879,14-Jan-25,,Medium,Login,open,24
+1109,3553,13-Dec-25,,Medium,Performance,open,24
+1138,1099,27-Dec-25,,Medium,Account,open,24
+1148,7591,12-Oct-25,,Medium,Other,open,24
+1163,576,03-Dec-25,,Medium,Account,open,24
+1218,7352,27-Oct-25,,Medium,Bug,open,24
+1224,3473,18-Jun-25,,Medium,Account,open,24
+1227,6853,24-Jan-25,,Medium,Feature request,open,24
+1271,7983,06-Aug-25,,Medium,Billing,open,24
+1316,1464,20-Jun-25,,Medium,Billing,open,24
+1321,7468,18-Jan-25,,Medium,Feature request,open,24
+1386,4420,24-Aug-25,,Medium,Performance,open,24
+1444,6131,17-Apr-25,,Medium,Performance,open,24
+1526,7695,29-Jul-25,,Medium,Performance,open,24
+1548,7080,25-Nov-25,,Medium,Other,open,24
+1554,1709,28-Feb-25,,Medium,Billing,open,24
+1602,2142,28-Sep-25,,Medium,Account,open,24
+1611,4619,13-Jan-25,,Medium,Bug,open,24
+1632,5525,31-Jan-25,,Medium,Other,open,24
+1750,2073,09-Jun-25,,Medium,Billing,open,24
+1781,4996,13-Aug-25,,Medium,Bug,open,24
+1783,1963,16-Jan-25,,Medium,Account,open,24
+1861,4301,30-Oct-25,,Medium,Bug,open,24
+1869,6275,26-Oct-25,,Medium,Feature request,open,24
+2015,186,01-Sep-25,,Medium,Billing,open,24
+2049,6307,21-Aug-25,,Medium,Other,open,24
+2058,6339,01-Nov-25,,Medium,Performance,open,24
+2109,5336,19-Sep-25,,Medium,Login,open,24
+2170,1190,02-Jul-25,,Medium,Billing,open,24
+2194,6117,09-Dec-25,,Medium,Login,open,24
+2207,7658,24-Oct-25,,Medium,Account,open,24
+2311,1398,12-Sep-25,,Medium,Feature request,open,24
+2323,3344,23-Oct-25,,Medium,Bug,open,24
+2354,2269,26-Sep-25,,Medium,Account,open,24
+2364,5657,23-Nov-25,,Medium,Account,open,24
+2424,5635,15-Feb-25,,Medium,Billing,open,24
+2456,5961,20-Feb-25,,Medium,Login,open,24
+2467,6890,03-Jul-25,,Medium,Account,open,24
+2490,7210,19-Dec-25,,Medium,Feature request,open,24
+2508,5420,30-Jun-25,,Medium,Feature request,open,24
+2519,3766,08-Nov-25,,Medium,Performance,open,24
+2529,4536,19-Jul-25,,Medium,Feature request,open,24
+2537,6323,09-Apr-25,,Medium,Bug,open,24
+2573,3984,10-Jul-25,,Medium,Performance,open,24
+2646,3685,21-Mar-25,,Medium,Other,open,24
+2734,435,05-Jan-26,,Medium,Login,open,24
+2812,379,09-May-25,,Medium,Performance,open,24
+2867,3652,07-Jul-25,,Medium,Performance,open,24
+2890,1512,27-Aug-25,,Medium,Account,open,24
+2921,6102,17-Jul-25,,Medium,Login,open,24
+2957,2809,14-Nov-25,,Medium,Account,open,24
+2969,5361,29-Jun-25,,Medium,Performance,open,24
+2983,5438,19-Feb-25,,Medium,Billing,open,24
+19,6427,01-Mar-25,,Low,Bug,open,24
+65,6086,28-Oct-25,,Low,Feature request,open,24
+83,6141,22-Aug-25,,Low,Login,open,24
+84,7234,07-Sep-25,,Low,Performance,open,24
+111,3969,21-Jul-25,,Low,Billing,open,24
+209,2808,13-Nov-25,,Low,Bug,open,24
+215,7184,08-May-25,,Low,Performance,open,24
+304,7542,17-Mar-25,,Low,Bug,open,24
+307,2824,30-Jan-25,,Low,Feature request,open,24
+346,5798,20-Oct-25,,Low,Feature request,open,24
+448,5805,07-Apr-25,,Low,Performance,open,24
+485,500,30-Oct-25,,Low,Feature request,open,24
+754,5762,24-Sep-25,,Low,Performance,open,24
+760,4326,31-Aug-25,,Low,Other,open,24
+766,6717,27-Jan-25,,Low,Performance,open,24
+769,896,14-May-25,,Low,Performance,open,24
+834,850,03-Apr-25,,Low,Performance,open,24
+954,6328,19-May-25,,Low,Other,open,24
+1015,4955,15-Jan-25,,Low,Billing,open,24
+1031,5663,13-Apr-25,,Low,Account,open,24
+1057,1702,02-Mar-25,,Low,Bug,open,24
+1141,5867,16-Sep-25,,Low,Billing,open,24
+1179,1063,04-May-25,,Low,Login,open,24
+1264,275,07-Apr-25,,Low,Account,open,24
+1326,3930,14-Mar-25,,Low,Feature request,open,24
+1327,7331,11-Jan-25,,Low,Billing,open,24
+1329,7767,03-Nov-25,,Low,Login,open,24
+1366,5208,20-Sep-25,,Low,Billing,open,24
+1433,2770,13-Nov-25,,Low,Account,open,24
+1449,3368,01-Dec-25,,Low,Other,open,24
+1480,2282,24-Mar-25,,Low,Performance,open,24
+1501,3192,31-Aug-25,,Low,Bug,open,24
+1535,4195,23-Jun-25,,Low,Performance,open,24
+1588,4771,31-Aug-25,,Low,Bug,open,24
+1595,915,10-Nov-25,,Low,Feature request,open,24
+1597,6586,21-Jul-25,,Low,Bug,open,24
+1621,6582,08-Feb-25,,Low,Account,open,24
+1701,5504,14-May-25,,Low,Account,open,24
+1791,58,04-Sep-25,,Low,Billing,open,24
+1815,483,05-Mar-25,,Low,Performance,open,24
+1827,4530,04-Aug-25,,Low,Bug,open,24
+1843,1710,04-Oct-25,,Low,Billing,open,24
+1880,3788,28-Jul-25,,Low,Billing,open,24
+1912,3731,04-Oct-25,,Low,Bug,open,24
+1985,4695,29-Mar-25,,Low,Account,open,24
+1994,3747,10-Feb-25,,Low,Account,open,24
+2082,906,22-Nov-25,,Low,Other,open,24
+2088,770,29-Jun-25,,Low,Feature request,open,24
+2101,3295,01-Apr-25,,Low,Bug,open,24
+2123,7907,13-May-25,,Low,Performance,open,24
+2149,4111,03-Mar-25,,Low,Performance,open,24
+2247,5438,17-Mar-25,,Low,Other,open,24
+2257,6904,06-Aug-25,,Low,Bug,open,24
+2263,353,17-Jul-25,,Low,Bug,open,24
+2416,2840,15-Jul-25,,Low,Bug,open,24
+2466,6494,30-Dec-25,,Low,Other,open,24
+2492,5256,18-Feb-25,,Low,Billing,open,24
+2541,3119,26-Jan-25,,Low,Feature request,open,24
+2546,2905,04-Nov-25,,Low,Account,open,24
+2630,2885,13-Jun-25,,Low,Performance,open,24
+2631,123,16-Jan-26,,Low,Login,open,24
+2638,6747,01-Jan-26,,Low,Account,open,24
+2677,7354,03-Sep-25,,Low,Feature request,open,24
+2776,5356,04-Apr-25,,Low,Performance,open,24
+2886,494,29-Jun-25,,Low,Performance,open,24
+2892,6954,17-Apr-25,,Low,Other,open,24
+2920,152,13-Nov-25,,Low,Billing,open,24
+2962,4674,26-Feb-25,,Low,Other,open,24
+2992,4375,23-Apr-25,,Low,Feature request,open,24
+18,1373,28-May-25,,High,Login,open,24
+53,5095,20-Jul-25,,High,Feature request,open,24
+255,5606,31-May-25,,High,Performance,open,24
+305,6209,23-Sep-25,,High,Performance,open,24
+310,7587,25-Jul-25,,High,Login,open,24
+393,4295,15-Sep-25,,High,Feature request,open,24
+557,7968,02-Sep-25,,Critical,Feature request,open,24
+567,2130,10-Mar-25,,High,Bug,open,24
+594,333,18-Jan-26,,High,Billing,open,24
+1192,3587,26-Jan-25,,High,Login,open,24
+1251,7938,12-Jan-26,,High,Account,open,24
+1330,5177,13-Jan-26,,High,Other,open,24
+1349,2330,07-Jul-25,,High,Performance,open,24
+1453,6533,26-Jul-25,,Critical,Performance,open,24
+1515,1011,01-Jan-25,,Critical,Feature request,open,24
+1635,7790,03-Mar-25,,High,Feature request,open,24
+1777,368,22-Aug-25,,High,Account,open,24
+1790,7490,22-Jul-25,,Critical,Performance,open,24
+1922,5573,19-Jun-25,,High,Bug,open,24
+2001,3111,13-Mar-25,,High,Performance,open,24
+2102,1517,28-Sep-25,,High,Login,open,24
+2156,5528,21-Jan-25,,High,Login,open,24
+2186,288,24-Feb-25,,Critical,Performance,open,24
+2447,2976,19-Jan-25,,High,Bug,open,24
+2494,2091,13-Sep-25,,Critical,Billing,open,24
+2563,1079,29-Sep-25,,High,Bug,open,24
+2663,5619,30-Aug-25,,High,Other,open,24
+2679,600,09-Dec-25,,High,Performance,open,24
+2688,2594,12-Dec-25,,High,Other,open,24
+2702,7930,21-May-25,,High,Billing,open,24
+2715,5597,27-Oct-25,,High,Account,open,24
+2766,6156,26-Feb-25,,High,Billing,open,24
+2772,4625,28-Jun-25,,High,Login,open,24
+4,5613,26-Aug-25,,Low,Feature request,open,48
+6,6354,07-Jun-25,,Low,Other,open,48
+14,1759,10-Jun-25,,Low,Performance,open,48
+31,1968,26-Apr-25,,High,Login,open,48
+63,5473,23-Sep-25,,Low,Bug,open,48
+120,2747,08-Aug-25,,High,Feature request,open,48
+148,2361,09-Oct-25,,High,Feature request,open,48
+153,7594,13-Jun-25,,Low,Bug,open,48
+194,4265,29-Apr-25,,Low,Account,open,48
+225,2714,29-Mar-25,,Low,Performance,open,48
+226,2238,24-Jul-25,,High,Other,open,48
+229,2605,22-Apr-25,,High,Bug,open,48
+240,5732,23-Jun-25,,High,Account,open,48
+245,1677,02-May-25,,High,Account,open,48
+247,6953,08-May-25,,Low,Login,open,48
+289,7945,02-Sep-25,,High,Billing,open,48
+322,1627,28-Aug-25,,High,Other,open,48
+358,6820,27-Dec-25,,Low,Login,open,48
+367,6782,19-May-25,,Low,Billing,open,48
+427,528,01-Mar-25,,High,Other,open,48
+439,7223,01-Oct-25,,High,Performance,open,48
+458,726,12-Nov-25,,Low,Billing,open,48
+470,261,26-Feb-25,,High,Billing,open,48
+473,966,04-Jan-25,,Low,Feature request,open,48
+522,5402,12-Jan-26,,Low,Other,open,48
+537,5955,03-Dec-25,,Low,Bug,open,48
+550,3566,11-Mar-25,,Low,Performance,open,48
+590,7085,02-Jul-25,,Low,Performance,open,48
+661,4298,14-Dec-25,,Low,Login,open,48
+665,5334,02-Jan-26,,Low,Other,open,48
+719,2269,28-Oct-25,,Critical,Login,open,48
+735,6527,15-Apr-25,,High,Billing,open,48
+772,4883,12-Aug-25,,Critical,Performance,open,48
+782,3944,30-Dec-25,,Low,Login,open,48
+883,5349,07-Oct-25,,Low,Billing,open,48
+908,4099,24-Apr-25,,Low,Billing,open,48
+1058,540,08-Aug-25,,Low,Performance,open,48
+1083,1998,30-Mar-25,,Low,Feature request,open,48
+1117,7124,01-Jul-25,,Low,Other,open,48
+1156,2980,18-Oct-25,,Low,Login,open,48
+1205,4997,13-Apr-25,,Low,Performance,open,48
+1207,517,27-Aug-25,,High,Other,open,48
+1311,7523,25-Mar-25,,Low,Bug,open,48
+1356,5887,10-Feb-25,,Low,Feature request,open,48
+1402,3590,12-Jul-25,,Low,Bug,open,48
+1562,3979,22-Feb-25,,Low,Other,open,48
+1574,4154,21-Nov-25,,Low,Bug,open,48
+1677,3040,25-Apr-25,,High,Bug,open,48
+1690,4772,30-May-25,,High,Login,open,48
+1722,5596,16-May-25,,Low,Performance,open,48
+1736,6135,09-Mar-25,,High,Login,open,48
+1782,3501,03-Dec-25,,Low,Feature request,open,48
+1800,3166,19-Aug-25,,Low,Account,open,48
+1850,2565,22-Apr-25,,Low,Login,open,48
+1914,5656,13-Jul-25,,Critical,Feature request,open,48
+1980,4356,13-Mar-25,,Low,Account,open,48
+2073,5353,08-Aug-25,,Low,Billing,open,48
+2079,7822,28-Sep-25,,Low,Login,open,48
+2110,786,11-Jul-25,,Low,Account,open,48
+2129,1792,10-Jan-26,,Low,Bug,open,48
+2213,452,09-Oct-25,,Low,Login,open,48
+2230,4858,23-Mar-25,,Low,Other,open,48
+2249,249,19-Apr-25,,High,Performance,open,48
+2304,7544,22-Jun-25,,Low,Bug,open,48
+2409,1817,03-Aug-25,,Low,Login,open,48
+2415,2998,17-Apr-25,,Low,Bug,open,48
+2423,2596,16-Oct-25,,High,Account,open,48
+2515,7176,16-Aug-25,,Low,Other,open,48
+2598,7919,16-Nov-25,,High,Performance,open,48
+2622,4137,14-Aug-25,,Low,Feature request,open,48
+2636,6580,16-Jun-25,,High,Other,open,48
+2650,1306,14-Aug-25,,High,Bug,open,48
+2670,7365,19-Aug-25,,High,Performance,open,48
+2686,7046,20-Sep-25,,Low,Login,open,48
+2749,7826,14-Sep-25,,High,Account,open,48
+2751,3692,12-Jul-25,,Low,Other,open,48
+2758,1672,07-Sep-25,,Low,Performance,open,48
+2830,6765,07-Jan-25,,Low,Other,open,48
+2856,1358,18-Jan-25,,High,Feature request,open,48
+2873,4469,07-Mar-25,,Low,Login,open,48
+2937,6782,21-Dec-25,,Low,Feature request,open,48
+2967,6381,09-Dec-25,,High,Performance,open,48
+57,4764,14-Sep-25,,Medium,Billing,open,48
+72,1686,07-Nov-25,,Medium,Account,open,48
+73,4401,11-Dec-25,,Medium,Performance,open,48
+88,3525,17-Feb-25,,Medium,Billing,open,48
+123,3341,01-May-25,,Medium,Bug,open,48
+132,7704,14-Mar-25,,Medium,Login,open,48
+142,7100,21-Nov-25,,Medium,Billing,open,48
+162,2918,14-Jan-25,,Medium,Login,open,48
+192,2971,01-Jul-25,,Medium,Feature request,open,48
+264,7261,11-Apr-25,,Medium,Account,open,48
+324,4014,01-Nov-25,,Medium,Feature request,open,48
+501,2520,02-Aug-25,,Medium,Billing,open,48
+503,5279,14-Oct-25,,Medium,Billing,open,48
+553,2806,30-Apr-25,,Medium,Other,open,48
+602,3884,02-Sep-25,,Medium,Account,open,48
+607,216,12-Nov-25,,Medium,Account,open,48
+632,1003,28-Sep-25,,Medium,Login,open,48
+693,2718,06-Feb-25,,Medium,Bug,open,48
+708,3652,19-Apr-25,,Medium,Login,open,48
+823,1042,27-Sep-25,,Medium,Account,open,48
+909,2402,04-Jul-25,,Medium,Login,open,48
+994,133,03-Mar-25,,Medium,Billing,open,48
+1017,737,15-Sep-25,,Medium,Login,open,48
+1064,2648,10-Dec-25,,Medium,Billing,open,48
+1093,2801,09-Dec-25,,Medium,Feature request,open,48
+1101,954,03-Jul-25,,Medium,Performance,open,48
+1125,7631,02-May-25,,Medium,Feature request,open,48
+1279,1882,25-Sep-25,,Medium,Bug,open,48
+1290,1241,03-Apr-25,,Medium,Billing,open,48
+1346,5496,22-Feb-25,,Medium,Bug,open,48
+1373,5115,26-Oct-25,,Medium,Feature request,open,48
+1377,5458,06-Nov-25,,Medium,Account,open,48
+1425,987,03-May-25,,Medium,Performance,open,48
+1459,7852,25-May-25,,Medium,Bug,open,48
+1516,3227,20-Dec-25,,Medium,Account,open,48
+1607,5057,23-Jan-25,,Medium,Performance,open,48
+1671,5462,05-Aug-25,,Medium,Bug,open,48
+1679,2523,22-Jan-25,,Medium,Login,open,48
+1691,3514,03-Mar-25,,Medium,Feature request,open,48
+1700,609,29-Nov-25,,Medium,Other,open,48
+1731,4895,09-Jan-26,,Medium,Performance,open,48
+1876,690,19-Dec-25,,Medium,Feature request,open,48
+1903,4075,01-Jul-25,,Medium,Other,open,48
+1942,7476,12-Dec-25,,Medium,Performance,open,48
+2002,4660,24-Jul-25,,Medium,Feature request,open,48
+2020,5931,31-Oct-25,,Medium,Other,open,48
+2031,4706,08-Jul-25,,Medium,Account,open,48
+2122,428,08-Dec-25,,Medium,Performance,open,48
+2193,830,07-Aug-25,,Medium,Bug,open,48
+2195,2247,25-Jun-25,,Medium,Bug,open,48
+2203,5956,18-Jan-26,,Medium,Bug,open,48
+2330,6063,04-Nov-25,,Medium,Account,open,48
+2389,4178,25-Jun-25,,Medium,Billing,open,48
+2421,4134,10-Sep-25,,Medium,Account,open,48
+2451,3865,15-Apr-25,,Medium,Performance,open,48
+2522,3165,27-Aug-25,,Medium,Billing,open,48
+2525,6920,03-Mar-25,,Medium,Feature request,open,48
+2532,6082,03-Mar-25,,Medium,Bug,open,48
+2580,7120,12-Sep-25,,Medium,Account,open,48
+2617,5883,16-May-25,,Medium,Other,open,48
+2685,2135,12-Aug-25,,Medium,Bug,open,48
+2695,6917,10-Oct-25,,Medium,Billing,open,48
+2730,6713,14-Mar-25,,Medium,Other,open,48
+2883,5760,03-Jan-25,,Medium,Login,open,48
+2902,6194,18-Aug-25,,Medium,Bug,open,48
+2960,80,13-Apr-25,,Medium,Other,open,48
+9,5843,14-Jan-25,,Medium,Bug,open,72
+16,4370,13-Jul-25,,Low,Other,open,72
+28,6244,03-Oct-25,,Low,Account,open,72
+69,2521,23-Apr-25,,Medium,Bug,open,72
+98,4794,26-Jun-25,,High,Bug,open,72
+102,6559,24-Mar-25,,Low,Account,open,72
+180,2817,22-Dec-25,,High,Feature request,open,72
+252,4508,20-Jul-25,,Low,Bug,open,72
+263,2341,21-Apr-25,,Medium,Billing,open,72
+300,7140,09-Mar-25,,Medium,Billing,open,72
+306,3278,23-Jan-25,,High,Bug,open,72
+336,1460,05-Sep-25,,Medium,Bug,open,72
+342,2736,03-Sep-25,,High,Performance,open,72
+375,1246,05-Sep-25,,Critical,Performance,open,72
+415,4185,17-Aug-25,,Medium,Login,open,72
+443,2992,05-Jan-26,,Medium,Feature request,open,72
+463,7129,06-Jul-25,,Medium,Feature request,open,72
+491,2054,27-Aug-25,,Low,Account,open,72
+502,4890,28-Sep-25,,Low,Feature request,open,72
+674,7688,04-Oct-25,,Low,Account,open,72
+688,1591,13-Nov-25,,Medium,Login,open,72
+732,1555,04-Aug-25,,High,Feature request,open,72
+750,3345,13-Jan-25,,Medium,Feature request,open,72
+767,4069,28-Jan-25,,Medium,Other,open,72
+779,5657,11-Mar-25,,Medium,Feature request,open,72
+814,5751,04-May-25,,Low,Bug,open,72
+851,1916,30-Nov-25,,Low,Performance,open,72
+854,6405,13-Mar-25,,Medium,Other,open,72
+878,287,24-Mar-25,,Low,Account,open,72
+885,4455,03-Nov-25,,High,Performance,open,72
+991,7720,27-Aug-25,,Low,Other,open,72
+1002,7853,19-Oct-25,,Medium,Account,open,72
+1040,6519,07-Jan-25,,Low,Account,open,72
+1061,5852,18-Jul-25,,Medium,Performance,open,72
+1080,2793,14-Aug-25,,Medium,Account,open,72
+1088,3806,01-Apr-25,,Medium,Bug,open,72
+1106,212,31-Jul-25,,Medium,Other,open,72
+1153,5588,14-Jan-26,,Low,Other,open,72
+1203,1029,21-Mar-25,,Medium,Billing,open,72
+1246,6625,17-Jan-25,,Medium,Feature request,open,72
+1309,3659,13-Apr-25,,High,Other,open,72
+1384,2079,26-Sep-25,,Low,Billing,open,72
+1412,4942,13-Feb-25,,High,Performance,open,72
+1421,4603,28-Sep-25,,Medium,Other,open,72
+1492,3163,08-Aug-25,,Critical,Login,open,72
+1534,6126,10-Feb-25,,Medium,Billing,open,72
+1552,6149,28-Sep-25,,Low,Billing,open,72
+1609,2217,27-Feb-25,,High,Performance,open,72
+1625,902,07-Dec-25,,Medium,Other,open,72
+1636,3818,22-Aug-25,,Low,Feature request,open,72
+1684,7296,30-Nov-25,,High,Feature request,open,72
+1702,5321,12-Jan-25,,Medium,Other,open,72
+1715,5755,28-May-25,,Medium,Other,open,72
+1771,4651,02-May-25,,Medium,Account,open,72
+1772,7322,08-Jun-25,,Medium,Login,open,72
+1788,3270,23-Feb-25,,Medium,Billing,open,72
+1793,4468,14-Jun-25,,Medium,Performance,open,72
+1801,6109,02-Jan-25,,Medium,Other,open,72
+1873,1183,12-Mar-25,,High,Account,open,72
+1900,5752,20-Apr-25,,Medium,Bug,open,72
+1901,4787,04-Jan-25,,Low,Account,open,72
+1906,2544,23-Mar-25,,High,Other,open,72
+1961,1835,24-May-25,,Medium,Bug,open,72
+2035,1188,31-Jul-25,,Low,Other,open,72
+2099,7427,31-May-25,,High,Feature request,open,72
+2128,1550,31-May-25,,High,Performance,open,72
+2137,5722,08-May-25,,Low,Performance,open,72
+2229,2419,20-Mar-25,,Medium,Bug,open,72
+2255,7063,22-Aug-25,,Medium,Performance,open,72
+2277,1007,21-Jul-25,,Low,Account,open,72
+2309,2232,22-Feb-25,,Medium,Bug,open,72
+2384,6055,29-Jan-25,,High,Feature request,open,72
+2446,4313,17-Aug-25,,Medium,Performance,open,72
+2459,5719,29-Jun-25,,Low,Other,open,72
+2523,2986,11-Jul-25,,High,Login,open,72
+2551,5541,05-Feb-25,,Low,Other,open,72
+2556,910,23-Jul-25,,Medium,Performance,open,72
+2567,1616,21-Nov-25,,Medium,Bug,open,72
+2625,3438,30-Jan-25,,Low,Billing,open,72
+2641,4870,29-Jan-25,,Low,Other,open,72
+2786,2279,19-Apr-25,,Low,Login,open,72
+2787,7492,25-May-25,,High,Performance,open,72
+2805,4887,08-Jun-25,,Medium,Billing,open,72
+2831,7437,01-Jun-25,,Low,Feature request,open,72
+2837,284,28-Mar-25,,Medium,Account,open,72
+2942,5277,30-May-25,,Low,Billing,open,72
+2945,5606,27-Dec-25,,High,Other,open,72
+2961,3194,11-Jun-25,,High,Billing,open,72
+2973,2008,18-Mar-25,,Medium,Other,open,72
+50,3563,15-Jun-25,,Medium,Account,open,8
+64,7326,02-Mar-25,,Medium,Login,open,8
+90,3126,20-Sep-25,,High,Feature request,open,8
+135,4505,28-Sep-25,,Medium,Account,open,8
+149,4924,14-Sep-25,,Low,Feature request,open,8
+222,5147,22-Sep-25,,Medium,Performance,open,8
+384,3503,24-Oct-25,,Low,Other,open,8
+419,4181,17-Sep-25,,Low,Other,open,8
+426,3285,19-Aug-25,,Medium,Account,open,8
+475,5531,11-Jan-25,,Medium,Account,open,8
+489,7187,12-Jan-25,,Medium,Account,open,8
+526,2656,24-Apr-25,,Low,Feature request,open,8
+563,5643,29-Nov-25,,Medium,Performance,open,8
+597,7202,24-Dec-25,,Low,Feature request,open,8
+670,5014,09-Mar-25,,Medium,Performance,open,8
+774,7189,05-Jul-25,,Medium,Other,open,8
+825,2439,28-Oct-25,,Medium,Other,open,8
+900,1872,14-May-25,,Medium,Billing,open,8
+933,5526,15-Jan-25,,Medium,Login,open,8
+936,2877,30-Sep-25,,Low,Bug,open,8
+937,3072,04-Aug-25,,Low,Feature request,open,8
+970,6429,17-Apr-25,,Medium,Login,open,8
+984,4352,03-May-25,,Low,Billing,open,8
+1024,5025,30-Dec-25,,Low,Performance,open,8
+1051,3787,04-Jul-25,,Low,Billing,open,8
+1184,1881,26-May-25,,Medium,Feature request,open,8
+1398,6543,16-Mar-25,,Critical,Login,open,8
+1399,4345,14-Mar-25,,Low,Billing,open,8
+1509,5015,09-Jan-26,,Medium,Bug,open,8
+1567,2278,10-Aug-25,,Low,Account,open,8
+1603,3541,25-Jan-25,,Medium,Account,open,8
+1664,2355,09-Jul-25,,Medium,Other,open,8
+1676,3324,23-Dec-25,,Medium,Billing,open,8
+1703,4096,30-Apr-25,,Low,Login,open,8
+1752,3602,02-Jun-25,,Medium,Login,open,8
+1774,1073,20-Nov-25,,Low,Account,open,8
+1892,6913,15-Dec-25,,High,Login,open,8
+1936,3380,22-Jan-25,,Medium,Feature request,open,8
+1945,1608,24-Jun-25,,Medium,Account,open,8
+1983,6040,16-Oct-25,,Critical,Other,open,8
+2040,2362,13-Jan-26,,Medium,Login,open,8
+2054,4236,04-Oct-25,,Low,Account,open,8
+2148,3891,26-Jun-25,,Medium,Performance,open,8
+2155,424,22-Sep-25,,Low,Other,open,8
+2173,6536,26-Mar-25,,High,Bug,open,8
+2187,1336,17-Mar-25,,Low,Account,open,8
+2190,723,06-Dec-25,,Low,Other,open,8
+2232,573,20-Sep-25,,Medium,Login,open,8
+2264,681,25-Nov-25,,Critical,Billing,open,8
+2292,7504,22-Oct-25,,Medium,Feature request,open,8
+2481,9,14-Dec-25,,High,Performance,open,8
+2542,7293,03-Jun-25,,Low,Feature request,open,8
+2558,3468,25-Oct-25,,High,Account,open,8
+2602,4884,12-May-25,,Low,Performance,open,8
+2719,4262,15-Dec-25,,Low,Login,open,8
+2737,753,15-May-25,,High,Other,open,8
+2747,1904,23-Nov-25,,Low,Login,open,8
+2840,7432,08-Sep-25,,Low,Performance,open,8
+2910,3361,04-Jul-25,,Low,Feature request,open,8
+2919,1775,13-Apr-25,,Medium,Billing,open,8
+2946,3456,18-Sep-25,,Low,Login,open,8
+2950,4883,16-Mar-25,,Medium,Other,open,8
+2955,17,04-Sep-25,,Medium,Other,open,8
+2972,3744,03-Aug-25,,Low,Other,open,8
+24,3117,27-May-25,,Critical,Feature request,open,4
+32,460,10-Feb-25,,Medium,Other,open,4
+113,3969,02-Apr-25,,Medium,Login,open,4
+365,1223,30-Sep-25,,Low,Feature request,open,4
+373,5867,03-Nov-25,,Low,Feature request,open,4
+454,814,03-Jul-25,,Low,Bug,open,4
+464,4265,31-Mar-25,,Medium,Login,open,4
+465,334,13-Sep-25,,High,Login,open,4
+533,5939,23-Sep-25,,High,Other,open,4
+546,5993,06-Nov-25,,Medium,Billing,open,4
+658,2414,29-Oct-25,,High,Feature request,open,4
+682,6395,18-Sep-25,,Medium,Other,open,4
+687,6396,06-Sep-25,,Low,Other,open,4
+698,7086,06-Jul-25,,Low,Other,open,4
+724,4394,13-Jun-25,,Medium,Account,open,4
+848,7026,09-Mar-25,,Low,Feature request,open,4
+1087,5659,20-Jul-25,,Medium,Feature request,open,4
+1095,2872,14-Sep-25,,High,Account,open,4
+1110,1834,17-Jan-26,,Medium,Login,open,4
+1149,6239,30-Dec-25,,Medium,Account,open,4
+1186,817,09-May-25,,Low,Billing,open,4
+1197,1396,04-Oct-25,,Medium,Billing,open,4
+1418,4125,05-Dec-25,,Medium,Bug,open,4
+1514,5609,12-Jan-26,,Medium,Account,open,4
+1728,5963,23-Nov-25,,High,Bug,open,4
+1837,1134,13-Feb-25,,Medium,Performance,open,4
+1898,4466,26-May-25,,Low,Login,open,4
+1905,3233,10-Feb-25,,Medium,Bug,open,4
+1947,4504,25-Apr-25,,Medium,Feature request,open,4
+1975,2822,28-Jul-25,,Medium,Feature request,open,4
+1977,5762,09-Jul-25,,Medium,Account,open,4
+2027,256,28-Feb-25,,Medium,Other,open,4
+2081,5631,25-Sep-25,,Low,Account,open,4
+2104,920,11-Jun-25,,Low,Other,open,4
+2215,6812,05-Oct-25,,Medium,Feature request,open,4
+2223,3300,03-Jun-25,,High,Login,open,4
+2238,2241,29-Jul-25,,Low,Bug,open,4
+2317,7622,25-Oct-25,,Medium,Bug,open,4
+2328,3095,30-Nov-25,,Medium,Billing,open,4
+2376,3909,16-Dec-25,,High,Bug,open,4
+2422,1162,27-Mar-25,,Medium,Performance,open,4
+2501,6479,01-Jul-25,,Medium,Performance,open,4
+2517,5583,18-Apr-25,,Critical,Billing,open,4
+2605,6215,12-Dec-25,,Low,Other,open,4
+2657,3998,20-Jul-25,,Medium,Bug,open,4
+2681,2932,20-Nov-25,,High,Login,open,4
+2713,1334,16-Apr-25,,Medium,Account,open,4
+2722,7259,11-Jul-25,,Medium,Bug,open,4
+2767,688,20-Nov-25,,Low,Performance,open,4
+2843,4512,21-May-25,,Low,Performance,open,4
+2863,510,12-May-25,,High,Bug,open,4
+34,1608,22-Apr-25,23-Apr-25,Low,Other,closed,4
+94,3023,13-Jan-25,14-Jan-25,Low,Performance,closed,4
+227,715,27-Aug-25,05-Sep-25,Medium,Other,closed,4
+239,2932,08-Nov-25,09-Nov-25,Low,Billing,closed,4
+303,7665,18-May-25,26-May-25,High,Performance,closed,4
+409,6967,14-Oct-25,23-Oct-25,Low,Feature request,closed,4
+725,2801,17-Feb-25,22-Feb-25,Medium,Billing,closed,4
+838,3779,18-Sep-25,27-Sep-25,Medium,Billing,closed,4
+977,5810,07-Apr-25,16-Apr-25,High,Feature request,closed,4
+1019,6379,08-May-25,08-May-25,Low,Other,closed,4
+1076,3774,25-Jul-25,03-Aug-25,Low,Login,closed,4
+1147,5897,11-Oct-25,13-Oct-25,Medium,Account,closed,4
+1170,6327,31-Dec-25,05-Jan-26,Low,Billing,closed,4
+1254,3013,29-Jan-25,03-Feb-25,Low,Billing,closed,4
+1297,247,23-Sep-25,23-Sep-25,Medium,Feature request,closed,4
+1419,4887,26-Sep-25,02-Oct-25,Medium,Performance,closed,4
+1446,285,07-Feb-25,08-Feb-25,Medium,Performance,closed,4
+1477,963,15-Jun-25,15-Jun-25,High,Feature request,closed,4
+1527,318,10-Jan-25,16-Jan-25,High,Account,closed,4
+1649,4399,30-Apr-25,01-May-25,High,Account,closed,4
+1743,7152,06-Jan-26,11-Jan-26,Low,Other,closed,4
+1744,1328,06-May-25,06-May-25,Low,Bug,closed,4
+1814,4640,05-Sep-25,06-Sep-25,Low,Other,closed,4
+1834,1240,24-Jul-25,30-Jul-25,High,Bug,closed,4
+1853,1222,30-Apr-25,03-May-25,Low,Account,closed,4
+1889,2625,18-Mar-25,21-Mar-25,Medium,Billing,closed,4
+1917,4460,02-Feb-25,06-Feb-25,Low,Billing,closed,4
+1935,4731,31-Dec-25,01-Jan-26,Medium,Bug,closed,4
+1944,3689,15-Jan-25,20-Jan-25,Medium,Feature request,closed,4
+1955,1874,03-Dec-25,07-Dec-25,Low,Login,closed,4
+1999,1137,02-Apr-25,08-Apr-25,Medium,Login,closed,4
+2025,2410,30-Sep-25,09-Oct-25,Medium,Other,closed,4
+2172,1215,15-May-25,15-May-25,Low,Other,closed,4
+2206,5795,16-Sep-25,20-Sep-25,Medium,Billing,closed,4
+2221,5178,07-May-25,12-May-25,High,Bug,closed,4
+2227,5017,28-Dec-25,06-Jan-26,Medium,Other,closed,4
+2271,4387,11-May-25,13-May-25,Medium,Other,closed,4
+2394,6198,17-Dec-25,23-Dec-25,Medium,Billing,closed,4
+2460,2825,17-Aug-25,18-Aug-25,Medium,Feature request,closed,4
+2512,1431,31-Jan-25,04-Feb-25,Medium,Bug,closed,4
+2560,2204,04-Sep-25,04-Sep-25,High,Account,closed,4
+2632,408,23-Aug-25,31-Aug-25,Low,Feature request,closed,4
+2667,4578,24-Jan-25,30-Jan-25,Medium,Feature request,closed,4
+2827,6212,11-Jun-25,13-Jun-25,Low,Bug,closed,4
+2991,5196,29-Apr-25,30-Apr-25,Low,Billing,closed,4
+2,6051,19-Jan-25,21-Jan-25,Low,Performance,closed,8
+42,510,26-May-25,01-Jun-25,High,Login,closed,8
+71,5189,02-Nov-25,11-Nov-25,Low,Login,closed,8
+188,7366,05-Nov-25,13-Nov-25,Medium,Feature request,closed,8
+348,5893,07-Apr-25,14-Apr-25,Low,Other,closed,8
+457,7587,08-May-25,12-May-25,High,Feature request,closed,8
+603,6350,01-Mar-25,02-Mar-25,Medium,Performance,closed,8
+610,288,16-Sep-25,23-Sep-25,Medium,Other,closed,8
+664,3245,02-Jun-25,02-Jun-25,Medium,Bug,closed,8
+686,3429,08-Nov-25,10-Nov-25,Low,Billing,closed,8
+711,3190,21-May-25,21-May-25,Low,Billing,closed,8
+770,276,18-Dec-25,18-Dec-25,Low,Performance,closed,8
+788,1828,02-Jan-25,02-Jan-25,Medium,Performance,closed,8
+869,431,27-Jun-25,30-Jun-25,Medium,Account,closed,8
+870,4329,03-Feb-25,03-Feb-25,Low,Billing,closed,8
+896,3830,01-Oct-25,01-Oct-25,Medium,Billing,closed,8
+935,2655,01-Feb-25,04-Feb-25,Medium,Bug,closed,8
+950,3711,25-Jan-25,02-Feb-25,Medium,Login,closed,8
+955,6260,06-Sep-25,12-Sep-25,Medium,Account,closed,8
+1022,2346,31-Jan-25,01-Feb-25,Medium,Feature request,closed,8
+1033,6183,12-Nov-25,19-Nov-25,Medium,Other,closed,8
+1036,4899,08-Sep-25,15-Sep-25,Low,Account,closed,8
+1060,3077,16-Sep-25,16-Sep-25,Low,Performance,closed,8
+1137,2010,16-Jan-25,22-Jan-25,Medium,Bug,closed,8
+1176,891,27-Aug-25,01-Sep-25,High,Login,closed,8
+1196,4762,23-Jun-25,24-Jun-25,Low,Billing,closed,8
+1272,7047,19-Jul-25,19-Jul-25,Medium,Bug,closed,8
+1291,6188,18-Jul-25,18-Jul-25,High,Login,closed,8
+1301,6239,22-Aug-25,23-Aug-25,Medium,Other,closed,8
+1380,1699,16-Apr-25,23-Apr-25,Low,Bug,closed,8
+1416,4327,18-Jun-25,18-Jun-25,Critical,Bug,closed,8
+1462,1087,20-Sep-25,28-Sep-25,Medium,Other,closed,8
+1464,6840,13-Jan-26,21-Jan-26,Medium,Billing,closed,8
+1495,1783,17-Sep-25,25-Sep-25,Low,Other,closed,8
+1563,505,02-Jan-25,09-Jan-25,Low,Other,closed,8
+1624,635,21-Sep-25,29-Sep-25,Medium,Other,closed,8
+1643,5925,17-Sep-25,24-Sep-25,Medium,Other,closed,8
+1704,6705,05-Apr-25,13-Apr-25,High,Billing,closed,8
+1749,533,17-Apr-25,25-Apr-25,Low,Other,closed,8
+1769,4220,09-Dec-25,15-Dec-25,Medium,Login,closed,8
+1792,2028,24-Apr-25,30-Apr-25,Medium,Feature request,closed,8
+1832,2559,07-Jan-26,10-Jan-26,Medium,Billing,closed,8
+1891,7814,08-Dec-25,11-Dec-25,Medium,Feature request,closed,8
+1893,1479,08-Jan-26,14-Jan-26,High,Other,closed,8
+1895,3224,14-Mar-25,15-Mar-25,Low,Billing,closed,8
+1949,6083,01-Sep-25,09-Sep-25,Low,Bug,closed,8
+1965,522,07-Aug-25,11-Aug-25,Medium,Billing,closed,8
+1988,7108,08-Oct-25,15-Oct-25,Medium,Billing,closed,8
+2084,1684,17-Feb-25,19-Feb-25,Medium,Performance,closed,8
+2085,7384,30-Nov-25,06-Dec-25,Low,Performance,closed,8
+2114,5954,16-Mar-25,24-Mar-25,Medium,Bug,closed,8
+2196,2641,16-May-25,23-May-25,High,Bug,closed,8
+2262,4110,10-Dec-25,11-Dec-25,Medium,Performance,closed,8
+2274,6863,02-Feb-25,09-Feb-25,Medium,Other,closed,8
+2275,1251,04-Feb-25,08-Feb-25,Medium,Billing,closed,8
+2297,1509,13-Dec-25,18-Dec-25,High,Other,closed,8
+2308,3049,06-May-25,08-May-25,Medium,Login,closed,8
+2335,3475,30-Dec-25,06-Jan-26,Medium,Billing,closed,8
+2381,6693,24-Jul-25,31-Jul-25,Medium,Feature request,closed,8
+2405,1256,09-Jan-25,18-Jan-25,Medium,Feature request,closed,8
+2513,2701,17-Apr-25,18-Apr-25,Low,Login,closed,8
+2616,7125,15-Sep-25,20-Sep-25,Medium,Billing,closed,8
+2649,499,07-Feb-25,16-Feb-25,Medium,Feature request,closed,8
+2674,2973,15-Mar-25,21-Mar-25,Low,Account,closed,8
+2692,7048,07-May-25,14-May-25,Low,Billing,closed,8
+2728,2660,27-Apr-25,27-Apr-25,Low,Bug,closed,8
+2748,6843,16-Jul-25,22-Jul-25,Low,Feature request,closed,8
+2790,3157,09-Mar-25,11-Mar-25,Medium,Performance,closed,8
+2833,4666,20-Jul-25,25-Jul-25,High,Bug,closed,8
+2846,4652,24-Sep-25,30-Sep-25,Medium,Other,closed,8
+2862,7556,11-Jun-25,11-Jun-25,Medium,Billing,closed,8
+2872,3105,18-Dec-25,19-Dec-25,Medium,Login,closed,8
+2911,2883,01-Mar-25,06-Mar-25,Low,Other,closed,8
+2926,4532,18-Aug-25,24-Aug-25,Low,Login,closed,8
+2953,6447,16-Oct-25,25-Oct-25,Low,Billing,closed,8
+2954,1151,12-Oct-25,19-Oct-25,Medium,Account,closed,8
+2966,2075,23-Jun-25,28-Jun-25,Low,Bug,closed,8
+2986,1951,24-Jun-25,27-Jun-25,Medium,Account,closed,8
+10,1332,03-Jan-25,10-Jan-25,Medium,Bug,closed,72
+12,6744,21-Jul-25,27-Jul-25,Medium,Login,closed,72
+56,2388,01-May-25,03-May-25,Medium,Billing,closed,72
+81,6560,13-Sep-25,18-Sep-25,Medium,Performance,closed,72
+105,4450,18-Jun-25,18-Jun-25,Low,Other,closed,72
+151,955,24-Feb-25,05-Mar-25,Low,Feature request,closed,72
+161,1602,01-Jun-25,03-Jun-25,Medium,Billing,closed,72
+258,7096,14-Oct-25,23-Oct-25,High,Login,closed,72
+330,5092,26-May-25,04-Jun-25,Low,Performance,closed,72
+344,430,15-Nov-25,22-Nov-25,Low,Login,closed,72
+347,7530,30-Jul-25,07-Aug-25,Low,Bug,closed,72
+376,579,26-Jan-25,03-Feb-25,Medium,Login,closed,72
+425,2947,09-Nov-25,11-Nov-25,Medium,Bug,closed,72
+428,5885,17-Nov-25,20-Nov-25,Medium,Performance,closed,72
+436,1733,28-Jul-25,03-Aug-25,Medium,Account,closed,72
+459,4348,10-Jun-25,18-Jun-25,High,Billing,closed,72
+469,1852,12-Jan-26,16-Jan-26,Low,Performance,closed,72
+539,422,05-Nov-25,10-Nov-25,Medium,Account,closed,72
+551,3792,11-Aug-25,14-Aug-25,Low,Billing,closed,72
+579,1905,28-Jan-25,30-Jan-25,Medium,Bug,closed,72
+583,672,25-Jan-25,01-Feb-25,Low,Account,closed,72
+676,4218,24-Sep-25,24-Sep-25,High,Login,closed,72
+762,6573,11-Jan-26,15-Jan-26,High,Performance,closed,72
+798,4073,02-Jul-25,11-Jul-25,High,Billing,closed,72
+812,7274,28-Jul-25,05-Aug-25,Low,Login,closed,72
+819,665,04-Jun-25,05-Jun-25,Low,Feature request,closed,72
+829,1497,08-Nov-25,11-Nov-25,High,Login,closed,72
+841,2630,07-Mar-25,14-Mar-25,High,Login,closed,72
+874,6387,25-Oct-25,26-Oct-25,High,Feature request,closed,72
+879,1977,23-Apr-25,30-Apr-25,Medium,Other,closed,72
+889,3684,07-Nov-25,15-Nov-25,Medium,Performance,closed,72
+917,4050,09-Sep-25,16-Sep-25,Medium,Login,closed,72
+921,1037,26-Jan-25,27-Jan-25,Critical,Other,closed,72
+925,4122,13-Apr-25,19-Apr-25,Low,Other,closed,72
+931,1838,21-Mar-25,27-Mar-25,Medium,Login,closed,72
+995,5108,31-Aug-25,31-Aug-25,Medium,Billing,closed,72
+1016,7614,22-Mar-25,27-Mar-25,High,Bug,closed,72
+1127,7886,19-Oct-25,24-Oct-25,Low,Feature request,closed,72
+1150,7368,20-Mar-25,29-Mar-25,High,Feature request,closed,72
+1166,714,09-Oct-25,10-Oct-25,High,Billing,closed,72
+1209,2336,06-Feb-25,09-Feb-25,High,Billing,closed,72
+1223,7958,17-Mar-25,21-Mar-25,Low,Account,closed,72
+1225,1709,11-Feb-25,15-Feb-25,Medium,Account,closed,72
+1248,4636,09-May-25,11-May-25,Medium,Account,closed,72
+1351,6427,11-May-25,19-May-25,Medium,Account,closed,72
+1370,1574,01-Aug-25,10-Aug-25,Medium,Performance,closed,72
+1417,5923,02-Jun-25,03-Jun-25,Low,Other,closed,72
+1505,6464,26-Nov-25,04-Dec-25,Low,Other,closed,72
+1518,1155,02-Jul-25,08-Jul-25,Medium,Login,closed,72
+1550,7372,29-Sep-25,29-Sep-25,Medium,Feature request,closed,72
+1592,6456,29-Oct-25,04-Nov-25,Medium,Bug,closed,72
+1596,5686,21-Nov-25,25-Nov-25,Critical,Account,closed,72
+1600,7792,21-May-25,29-May-25,High,Billing,closed,72
+1616,4360,04-Jul-25,07-Jul-25,Low,Feature request,closed,72
+1666,870,15-Jan-25,18-Jan-25,Medium,Other,closed,72
+1692,3959,26-Jan-25,26-Jan-25,Medium,Feature request,closed,72
+1713,1606,20-Apr-25,21-Apr-25,High,Other,closed,72
+1723,7875,17-May-25,24-May-25,Medium,Feature request,closed,72
+1732,6518,26-May-25,01-Jun-25,Low,Login,closed,72
+1770,930,19-Nov-25,20-Nov-25,Low,Billing,closed,72
+1795,768,16-Jun-25,16-Jun-25,Medium,Billing,closed,72
+1797,6905,28-Oct-25,05-Nov-25,Medium,Performance,closed,72
+1809,3384,21-Apr-25,24-Apr-25,Low,Bug,closed,72
+1916,4832,11-Dec-25,17-Dec-25,Medium,Performance,closed,72
+1924,5471,11-Jun-25,20-Jun-25,Medium,Account,closed,72
+1929,5253,19-Feb-25,26-Feb-25,Medium,Account,closed,72
+1963,6953,16-May-25,19-May-25,Low,Other,closed,72
+2030,710,03-Nov-25,06-Nov-25,High,Billing,closed,72
+2077,4248,25-Nov-25,29-Nov-25,Low,Login,closed,72
+2089,5068,10-Mar-25,11-Mar-25,Medium,Login,closed,72
+2130,5424,11-Jun-25,16-Jun-25,Medium,Account,closed,72
+2147,4675,24-Apr-25,26-Apr-25,High,Bug,closed,72
+2160,2851,10-Jan-25,13-Jan-25,High,Feature request,closed,72
+2161,7793,19-Feb-25,28-Feb-25,Medium,Performance,closed,72
+2175,1882,04-Nov-25,11-Nov-25,Medium,Other,closed,72
+2179,1014,14-May-25,20-May-25,Low,Bug,closed,72
+2214,1829,04-Mar-25,05-Mar-25,Low,Account,closed,72
+2268,6018,02-Mar-25,03-Mar-25,Low,Account,closed,72
+2299,6006,04-Oct-25,08-Oct-25,Medium,Login,closed,72
+2336,5200,11-Mar-25,15-Mar-25,High,Other,closed,72
+2397,2987,13-Jan-26,14-Jan-26,Critical,Feature request,closed,72
+2406,3675,05-May-25,14-May-25,Medium,Performance,closed,72
+2468,2903,09-Dec-25,14-Dec-25,High,Bug,closed,72
+2520,5939,19-Sep-25,21-Sep-25,Low,Performance,closed,72
+2579,3881,30-Aug-25,02-Sep-25,Low,Login,closed,72
+2586,673,22-Jun-25,22-Jun-25,Low,Feature request,closed,72
+2600,6185,08-Dec-25,11-Dec-25,Medium,Login,closed,72
+2691,2702,05-Jun-25,10-Jun-25,High,Bug,closed,72
+2740,1963,17-Feb-25,24-Feb-25,Medium,Performance,closed,72
+2750,1386,23-Nov-25,02-Dec-25,Low,Bug,closed,72
+2773,4612,28-Feb-25,05-Mar-25,Medium,Other,closed,72
+2780,312,24-Oct-25,31-Oct-25,Low,Performance,closed,72
+2783,5853,27-Jun-25,02-Jul-25,Medium,Billing,closed,72
+2893,7868,26-Dec-25,02-Jan-26,Medium,Bug,closed,72
+2896,6710,14-Jan-25,17-Jan-25,Low,Billing,closed,72
+2904,7409,22-Jul-25,26-Jul-25,High,Feature request,closed,72
+2952,1412,04-Feb-25,10-Feb-25,High,Account,closed,72
+2994,5971,15-Aug-25,20-Aug-25,Medium,Account,closed,72
+2995,7781,20-Jan-25,29-Jan-25,Medium,Feature request,closed,72
+2998,4009,18-Nov-25,25-Nov-25,Low,Login,closed,72
+60,7208,08-May-25,09-May-25,Low,Account,closed,48
+74,289,22-Sep-25,30-Sep-25,Medium,Performance,closed,48
+78,2707,06-Sep-25,14-Sep-25,Medium,Bug,closed,48
+82,6471,18-Jan-25,25-Jan-25,Low,Billing,closed,48
+87,7657,02-Jul-25,07-Jul-25,Medium,Feature request,closed,48
+117,3891,15-Feb-25,18-Feb-25,Medium,Feature request,closed,48
+150,4502,08-Jun-25,11-Jun-25,Medium,Login,closed,48
+163,2262,13-Jul-25,15-Jul-25,Low,Bug,closed,48
+165,628,29-Jun-25,30-Jun-25,Medium,Billing,closed,48
+171,2403,31-Dec-25,05-Jan-26,Low,Feature request,closed,48
+177,6891,18-Nov-25,24-Nov-25,Medium,Performance,closed,48
+230,7102,15-Mar-25,16-Mar-25,Medium,Other,closed,48
+291,7515,10-Apr-25,18-Apr-25,Medium,Performance,closed,48
+292,426,15-Feb-25,18-Feb-25,Low,Other,closed,48
+327,387,27-Nov-25,29-Nov-25,Medium,Billing,closed,48
+349,5253,18-Sep-25,21-Sep-25,Medium,Account,closed,48
+350,7500,13-Apr-25,19-Apr-25,High,Billing,closed,48
+420,3061,02-Sep-25,06-Sep-25,Low,Billing,closed,48
+441,4972,13-Jan-25,16-Jan-25,Low,Login,closed,48
+492,1511,14-Jun-25,22-Jun-25,High,Login,closed,48
+512,4318,03-Apr-25,10-Apr-25,Medium,Login,closed,48
+525,753,21-Jul-25,26-Jul-25,Medium,Billing,closed,48
+561,5309,26-Apr-25,26-Apr-25,Low,Login,closed,48
+578,3377,26-Dec-25,01-Jan-26,Low,Bug,closed,48
+591,3793,12-Jan-25,13-Jan-25,Medium,Feature request,closed,48
+601,5512,08-Jul-25,15-Jul-25,High,Login,closed,48
+694,1157,01-Dec-25,05-Dec-25,Medium,Account,closed,48
+701,2778,24-Jun-25,27-Jun-25,Low,Feature request,closed,48
+836,5005,18-Feb-25,21-Feb-25,Medium,Billing,closed,48
+850,1996,29-Sep-25,06-Oct-25,Medium,Account,closed,48
+860,2418,17-Mar-25,24-Mar-25,Low,Performance,closed,48
+903,4356,18-Jul-25,19-Jul-25,Medium,Account,closed,48
+910,7454,18-Jul-25,18-Jul-25,Medium,Performance,closed,48
+912,7127,11-Jan-25,12-Jan-25,Low,Performance,closed,48
+915,412,07-Jul-25,07-Jul-25,Low,Performance,closed,48
+924,457,05-Oct-25,11-Oct-25,Medium,Feature request,closed,48
+942,5284,05-Jul-25,09-Jul-25,Medium,Bug,closed,48
+981,1378,13-Dec-25,22-Dec-25,Medium,Feature request,closed,48
+983,2413,01-Jan-26,08-Jan-26,High,Performance,closed,48
+1030,836,15-Dec-25,17-Dec-25,Medium,Bug,closed,48
+1048,1818,01-Feb-25,05-Feb-25,Low,Login,closed,48
+1068,749,20-Jul-25,22-Jul-25,Medium,Account,closed,48
+1086,6763,08-May-25,14-May-25,Medium,Other,closed,48
+1128,3611,15-Apr-25,24-Apr-25,Low,Bug,closed,48
+1200,4855,23-Mar-25,26-Mar-25,Medium,Feature request,closed,48
+1233,4589,04-May-25,12-May-25,Medium,Other,closed,48
+1253,6116,24-Jul-25,02-Aug-25,High,Bug,closed,48
+1266,5653,12-Feb-25,17-Feb-25,High,Bug,closed,48
+1281,6126,12-Aug-25,18-Aug-25,Medium,Login,closed,48
+1286,6270,18-May-25,21-May-25,Medium,Account,closed,48
+1296,7542,01-Sep-25,02-Sep-25,High,Bug,closed,48
+1302,3238,21-Apr-25,24-Apr-25,Medium,Login,closed,48
+1340,2315,26-Jan-25,02-Feb-25,Medium,Other,closed,48
+1341,228,31-Jul-25,07-Aug-25,Low,Bug,closed,48
+1360,3105,01-Nov-25,01-Nov-25,Low,Other,closed,48
+1363,1494,09-Feb-25,09-Feb-25,Medium,Other,closed,48
+1376,3021,27-Oct-25,03-Nov-25,Medium,Login,closed,48
+1390,2546,12-May-25,20-May-25,Low,Login,closed,48
+1394,1301,10-Sep-25,12-Sep-25,High,Other,closed,48
+1395,3509,20-Feb-25,22-Feb-25,Low,Bug,closed,48
+1472,3843,05-Jan-26,14-Jan-26,Medium,Other,closed,48
+1510,4315,28-Jul-25,02-Aug-25,Low,Bug,closed,48
+1525,3636,24-Jul-25,25-Jul-25,High,Bug,closed,48
+1528,6804,03-May-25,04-May-25,Low,Performance,closed,48
+1540,1869,13-Feb-25,17-Feb-25,Low,Performance,closed,48
+1547,1870,06-Feb-25,12-Feb-25,Low,Performance,closed,48
+1553,5165,05-Dec-25,09-Dec-25,High,Other,closed,48
+1569,176,29-May-25,31-May-25,Medium,Billing,closed,48
+1570,3826,02-Nov-25,08-Nov-25,High,Account,closed,48
+1576,1760,18-Apr-25,23-Apr-25,Low,Bug,closed,48
+1578,2334,05-Jan-26,07-Jan-26,Medium,Billing,closed,48
+1608,7377,03-Sep-25,07-Sep-25,High,Bug,closed,48
+1612,681,01-Sep-25,04-Sep-25,Low,Other,closed,48
+1672,5669,27-Jan-25,01-Feb-25,Low,Billing,closed,48
+1696,375,23-Jan-25,27-Jan-25,Medium,Login,closed,48
+1748,4271,05-Feb-25,12-Feb-25,Low,Performance,closed,48
+1764,1626,24-Mar-25,02-Apr-25,Low,Performance,closed,48
+1813,807,11-Jul-25,16-Jul-25,Medium,Billing,closed,48
+1859,5227,05-Jan-26,10-Jan-26,Medium,Billing,closed,48
+1902,2696,03-Jul-25,07-Jul-25,Medium,Bug,closed,48
+1920,7267,02-May-25,05-May-25,Low,Feature request,closed,48
+1939,7236,12-May-25,12-May-25,Medium,Feature request,closed,48
+1952,6551,05-Jan-25,05-Jan-25,Low,Billing,closed,48
+1958,4680,09-Jul-25,10-Jul-25,Low,Other,closed,48
+1962,1300,10-Aug-25,14-Aug-25,Low,Billing,closed,48
+1990,2220,09-Nov-25,16-Nov-25,Medium,Billing,closed,48
+2043,3008,06-Dec-25,06-Dec-25,Low,Login,closed,48
+2060,4153,06-Sep-25,10-Sep-25,Low,Performance,closed,48
+2067,3622,14-Sep-25,21-Sep-25,Low,Other,closed,48
+2200,6931,14-Aug-25,21-Aug-25,Medium,Other,closed,48
+2243,337,06-Aug-25,11-Aug-25,Medium,Other,closed,48
+2254,7385,23-Jan-25,26-Jan-25,Low,Bug,closed,48
+2265,1695,16-Jan-25,22-Jan-25,Medium,Other,closed,48
+2273,4918,17-Jan-25,24-Jan-25,Medium,Billing,closed,48
+2283,7079,03-Jan-25,07-Jan-25,Medium,Feature request,closed,48
+2285,1561,09-Feb-25,12-Feb-25,Low,Billing,closed,48
+2291,907,23-Aug-25,01-Sep-25,Low,Account,closed,48
+2356,5122,01-Nov-25,05-Nov-25,Low,Bug,closed,48
+2371,3207,21-Sep-25,26-Sep-25,Medium,Other,closed,48
+2374,4906,22-Dec-25,31-Dec-25,Low,Account,closed,48
+2391,134,29-Jun-25,02-Jul-25,Low,Account,closed,48
+2417,1093,01-Jan-25,01-Jan-25,Medium,Performance,closed,48
+2419,1602,22-May-25,30-May-25,High,Login,closed,48
+2470,7402,09-Oct-25,14-Oct-25,Low,Account,closed,48
+2496,1697,06-Jun-25,11-Jun-25,Medium,Login,closed,48
+2504,3259,13-Dec-25,21-Dec-25,Medium,Login,closed,48
+2509,5681,23-Mar-25,24-Mar-25,High,Account,closed,48
+2518,3898,11-Dec-25,19-Dec-25,High,Account,closed,48
+2562,417,03-Jan-25,07-Jan-25,Medium,Account,closed,48
+2583,3651,30-Jun-25,01-Jul-25,Medium,Login,closed,48
+2587,7582,05-Aug-25,14-Aug-25,Medium,Account,closed,48
+2596,3871,02-Aug-25,09-Aug-25,Medium,Account,closed,48
+2618,621,11-Jan-26,15-Jan-26,Low,Other,closed,48
+2619,3017,03-Aug-25,12-Aug-25,Medium,Bug,closed,48
+2626,3795,07-Jun-25,16-Jun-25,High,Billing,closed,48
+2648,1857,23-Oct-25,28-Oct-25,High,Feature request,closed,48
+2705,5154,27-Mar-25,31-Mar-25,Medium,Feature request,closed,48
+2708,3267,17-Apr-25,22-Apr-25,Low,Account,closed,48
+2716,451,07-Dec-25,15-Dec-25,Critical,Other,closed,48
+2724,336,08-Apr-25,11-Apr-25,Critical,Bug,closed,48
+2733,2346,11-Mar-25,18-Mar-25,Medium,Other,closed,48
+2769,5316,05-Jan-26,14-Jan-26,Low,Performance,closed,48
+2774,2457,04-Apr-25,08-Apr-25,High,Performance,closed,48
+2832,624,17-Nov-25,17-Nov-25,Medium,Other,closed,48
+2851,1844,31-Jan-25,31-Jan-25,Low,Bug,closed,48
+2869,5419,06-Aug-25,11-Aug-25,Low,Bug,closed,48
+2895,4451,24-Jan-25,31-Jan-25,High,Billing,closed,48
+2916,188,22-Mar-25,27-Mar-25,High,Performance,closed,48
+2924,4481,08-Sep-25,13-Sep-25,Medium,Other,closed,48
+2930,2928,04-Jun-25,11-Jun-25,High,Bug,closed,48
+2938,3824,11-Apr-25,12-Apr-25,High,Bug,closed,48
+2949,4401,09-Apr-25,12-Apr-25,Low,Login,closed,48
+2976,4192,15-May-25,16-May-25,Low,Bug,closed,48
+2987,4191,11-May-25,18-May-25,Medium,Login,closed,48
+2999,113,22-Dec-25,27-Dec-25,Low,Other,closed,48
+59,2120,01-May-25,04-May-25,High,Billing,closed,24
+110,930,30-Mar-25,05-Apr-25,High,Billing,closed,24
+139,7223,14-Apr-25,21-Apr-25,High,Login,closed,24
+140,1114,20-Aug-25,20-Aug-25,Critical,Login,closed,24
+410,6804,25-Apr-25,01-May-25,High,Other,closed,24
+417,189,15-Nov-25,24-Nov-25,High,Bug,closed,24
+527,1983,06-Oct-25,14-Oct-25,High,Billing,closed,24
+543,3757,02-Jan-26,08-Jan-26,High,Performance,closed,24
+699,4887,04-Oct-25,07-Oct-25,Critical,Feature request,closed,24
+805,6473,23-Jun-25,25-Jun-25,High,Bug,closed,24
+963,269,10-Aug-25,10-Aug-25,High,Feature request,closed,24
+1042,1445,16-Feb-25,23-Feb-25,High,Performance,closed,24
+1053,2435,01-Oct-25,03-Oct-25,High,Performance,closed,24
+1084,4832,12-Aug-25,17-Aug-25,Critical,Bug,closed,24
+1121,489,13-Jul-25,17-Jul-25,High,Other,closed,24
+1122,7440,06-Sep-25,06-Sep-25,High,Feature request,closed,24
+1134,3251,17-Aug-25,26-Aug-25,High,Bug,closed,24
+1226,6544,29-Jan-25,05-Feb-25,High,Login,closed,24
+1257,5902,19-Oct-25,24-Oct-25,High,Bug,closed,24
+1471,114,22-Apr-25,28-Apr-25,High,Performance,closed,24
+1615,4609,25-Nov-25,02-Dec-25,High,Billing,closed,24
+1682,3385,18-Dec-25,24-Dec-25,High,Other,closed,24
+1761,6008,22-Jul-25,29-Jul-25,High,Billing,closed,24
+1839,792,03-Apr-25,05-Apr-25,High,Feature request,closed,24
+1907,6339,27-May-25,28-May-25,High,Account,closed,24
+2039,5415,21-Sep-25,29-Sep-25,Critical,Account,closed,24
+2057,5897,14-Jan-25,18-Jan-25,High,Account,closed,24
+2435,7468,29-Sep-25,08-Oct-25,High,Performance,closed,24
+2545,835,17-Jul-25,21-Jul-25,High,Bug,closed,24
+2595,3916,13-Jul-25,22-Jul-25,Critical,Billing,closed,24
+2621,1396,20-Mar-25,20-Mar-25,High,Other,closed,24
+2714,7986,27-Jun-25,29-Jun-25,Critical,Other,closed,24
+2792,4554,15-Jun-25,15-Jun-25,Critical,Login,closed,24
+2928,5806,01-Nov-25,01-Nov-25,High,Billing,closed,24
+2978,5557,31-Dec-25,07-Jan-26,High,Feature request,closed,24
+15,6998,13-May-25,21-May-25,Low,Bug,closed,24
+39,88,07-Aug-25,15-Aug-25,Low,Bug,closed,24
+99,5061,02-Dec-25,07-Dec-25,Low,Other,closed,24
+119,5049,28-Sep-25,02-Oct-25,Low,Other,closed,24
+187,1620,14-Oct-25,18-Oct-25,Low,Login,closed,24
+190,2173,16-Feb-25,23-Feb-25,Low,Other,closed,24
+199,3671,21-Dec-25,26-Dec-25,Low,Feature request,closed,24
+206,7867,27-Dec-25,31-Dec-25,Low,Account,closed,24
+211,5652,07-Dec-25,16-Dec-25,Low,Other,closed,24
+212,4927,12-Mar-25,18-Mar-25,Low,Performance,closed,24
+236,4747,30-Dec-25,07-Jan-26,Low,Billing,closed,24
+274,480,05-Mar-25,08-Mar-25,Low,Other,closed,24
+377,884,27-Jul-25,30-Jul-25,Low,Feature request,closed,24
+437,815,23-Jun-25,23-Jun-25,Low,Billing,closed,24
+509,5873,19-Oct-25,19-Oct-25,Low,Feature request,closed,24
+521,6857,25-Jul-25,26-Jul-25,Low,Performance,closed,24
+540,2412,23-Oct-25,26-Oct-25,Low,Other,closed,24
+593,2576,14-Aug-25,20-Aug-25,Low,Performance,closed,24
+627,6892,18-Jan-26,26-Jan-26,Low,Login,closed,24
+630,789,01-Oct-25,07-Oct-25,Low,Login,closed,24
+675,2067,09-Jan-26,15-Jan-26,Low,Login,closed,24
+705,2752,25-Dec-25,29-Dec-25,Low,Bug,closed,24
+717,1205,16-Mar-25,22-Mar-25,Low,Feature request,closed,24
+718,5245,24-May-25,27-May-25,Low,Bug,closed,24
+758,2946,24-Aug-25,27-Aug-25,Low,Other,closed,24
+793,6822,03-Jun-25,04-Jun-25,Low,Billing,closed,24
+799,495,21-Aug-25,26-Aug-25,Low,Login,closed,24
+816,3891,02-Jul-25,03-Jul-25,Low,Login,closed,24
+857,2269,12-Dec-25,21-Dec-25,Low,Account,closed,24
+911,6901,21-Mar-25,29-Mar-25,Low,Bug,closed,24
+939,1425,19-Apr-25,21-Apr-25,Low,Feature request,closed,24
+941,5322,17-May-25,25-May-25,Low,Performance,closed,24
+945,1989,30-Aug-25,30-Aug-25,Low,Account,closed,24
+951,6345,06-Jan-26,10-Jan-26,Low,Feature request,closed,24
+980,7536,24-Feb-25,24-Feb-25,Low,Account,closed,24
+987,1427,21-Sep-25,28-Sep-25,Low,Bug,closed,24
+1003,6022,19-Dec-25,26-Dec-25,Low,Account,closed,24
+1006,3476,31-Mar-25,04-Apr-25,Low,Login,closed,24
+1026,7254,19-Mar-25,19-Mar-25,Low,Performance,closed,24
+1118,3726,04-Mar-25,07-Mar-25,Low,Account,closed,24
+1135,3714,16-Oct-25,25-Oct-25,Low,Feature request,closed,24
+1212,2407,17-Dec-25,23-Dec-25,Low,Performance,closed,24
+1228,42,17-Sep-25,23-Sep-25,Low,Billing,closed,24
+1299,2667,06-Nov-25,10-Nov-25,Low,Billing,closed,24
+1331,5015,12-Mar-25,20-Mar-25,Low,Account,closed,24
+1334,1201,16-Jul-25,19-Jul-25,Low,Feature request,closed,24
+1441,4727,31-Dec-25,09-Jan-26,Low,Bug,closed,24
+1493,5805,06-Jun-25,08-Jun-25,Low,Feature request,closed,24
+1503,2258,25-Mar-25,28-Mar-25,Low,Other,closed,24
+1513,4907,20-Dec-25,22-Dec-25,Low,Account,closed,24
+1532,3900,24-Jun-25,03-Jul-25,Low,Login,closed,24
+1585,6351,23-Sep-25,29-Sep-25,Low,Billing,closed,24
+1622,1589,02-Jan-26,02-Jan-26,Low,Bug,closed,24
+1646,7982,25-Oct-25,01-Nov-25,Low,Login,closed,24
+1673,7687,19-Jan-25,23-Jan-25,Low,Account,closed,24
+1686,3201,23-Nov-25,29-Nov-25,Low,Billing,closed,24
+1693,3880,01-Jan-26,10-Jan-26,Low,Other,closed,24
+1757,228,25-Apr-25,28-Apr-25,Low,Other,closed,24
+1785,6343,21-Apr-25,29-Apr-25,Low,Account,closed,24
+1864,2633,28-Mar-25,05-Apr-25,Low,Account,closed,24
+1959,2546,08-Feb-25,15-Feb-25,Low,Bug,closed,24
+1973,7007,10-Sep-25,13-Sep-25,Low,Billing,closed,24
+2024,1504,24-Sep-25,03-Oct-25,Low,Login,closed,24
+2029,2841,11-Apr-25,16-Apr-25,Low,Bug,closed,24
+2047,7677,21-Jan-25,21-Jan-25,Low,Other,closed,24
+2093,7650,03-Jan-26,03-Jan-26,Low,Billing,closed,24
+2125,4660,24-Aug-25,01-Sep-25,Low,Account,closed,24
+2131,1900,02-Feb-25,09-Feb-25,Low,Other,closed,24
+2134,7227,19-Nov-25,24-Nov-25,Low,Performance,closed,24
+2198,3544,08-Jan-25,12-Jan-25,Low,Other,closed,24
+2298,7678,25-Aug-25,01-Sep-25,Low,Billing,closed,24
+2301,6996,20-Apr-25,27-Apr-25,Low,Performance,closed,24
+2366,6564,23-Oct-25,24-Oct-25,Low,Feature request,closed,24
+2475,4990,06-Dec-25,15-Dec-25,Low,Bug,closed,24
+2566,2683,24-Aug-25,02-Sep-25,Low,Billing,closed,24
+2568,2700,08-Sep-25,10-Sep-25,Low,Performance,closed,24
+2574,7606,16-Jul-25,17-Jul-25,Low,Other,closed,24
+2581,6357,26-Jun-25,28-Jun-25,Low,Feature request,closed,24
+2594,5013,24-May-25,24-May-25,Low,Bug,closed,24
+2652,4188,06-Mar-25,10-Mar-25,Low,Other,closed,24
+2704,1030,23-Nov-25,25-Nov-25,Low,Login,closed,24
+2765,1314,30-Jul-25,06-Aug-25,Low,Billing,closed,24
+2778,705,12-Jan-25,18-Jan-25,Low,Billing,closed,24
+2796,433,19-May-25,25-May-25,Low,Account,closed,24
+2980,5295,11-Jun-25,17-Jun-25,Low,Other,closed,24
+49,3788,16-May-25,24-May-25,Medium,Bug,closed,24
+68,1942,22-Mar-25,28-Mar-25,Medium,Login,closed,24
+75,6959,13-Sep-25,21-Sep-25,Medium,Login,closed,24
+116,3526,10-Mar-25,10-Mar-25,Medium,Feature request,closed,24
+178,6974,07-Apr-25,15-Apr-25,Medium,Feature request,closed,24
+193,5605,24-Jul-25,28-Jul-25,Medium,Billing,closed,24
+217,976,27-Oct-25,02-Nov-25,Medium,Other,closed,24
+256,7544,19-Apr-25,25-Apr-25,Medium,Bug,closed,24
+260,1060,22-Sep-25,23-Sep-25,Medium,Bug,closed,24
+261,6442,16-Jan-25,23-Jan-25,Medium,Bug,closed,24
+270,5921,23-Jun-25,26-Jun-25,Medium,Billing,closed,24
+285,1310,15-Feb-25,15-Feb-25,Medium,Other,closed,24
+297,7542,24-Jun-25,02-Jul-25,Medium,Billing,closed,24
+302,4296,29-May-25,30-May-25,Medium,Bug,closed,24
+308,7306,16-Jan-25,25-Jan-25,Medium,Other,closed,24
+311,6943,07-Feb-25,08-Feb-25,Medium,Bug,closed,24
+362,7501,12-Apr-25,13-Apr-25,Medium,Bug,closed,24
+370,7066,20-Oct-25,28-Oct-25,Medium,Account,closed,24
+401,5941,15-Dec-25,20-Dec-25,Medium,Feature request,closed,24
+467,6797,30-Nov-25,09-Dec-25,Medium,Other,closed,24
+479,1685,28-Jul-25,05-Aug-25,Medium,Feature request,closed,24
+483,3475,29-Oct-25,02-Nov-25,Medium,Other,closed,24
+519,5565,23-Jul-25,01-Aug-25,Medium,Login,closed,24
+588,2603,24-Aug-25,26-Aug-25,Medium,Billing,closed,24
+611,7109,30-Jun-25,08-Jul-25,Medium,Bug,closed,24
+613,7935,10-Mar-25,12-Mar-25,Medium,Billing,closed,24
+654,7029,25-Jan-25,03-Feb-25,Medium,Billing,closed,24
+726,2440,22-Jul-25,30-Jul-25,Medium,Feature request,closed,24
+734,6661,09-Sep-25,09-Sep-25,Medium,Account,closed,24
+787,7992,03-Jan-25,04-Jan-25,Medium,Performance,closed,24
+905,7531,04-Aug-25,11-Aug-25,Medium,Account,closed,24
+944,6112,03-Dec-25,05-Dec-25,Medium,Billing,closed,24
+997,351,04-Mar-25,09-Mar-25,Medium,Account,closed,24
+1034,6584,23-Feb-25,02-Mar-25,Medium,Account,closed,24
+1067,6070,12-Oct-25,20-Oct-25,Medium,Login,closed,24
+1079,7040,16-Feb-25,18-Feb-25,Medium,Other,closed,24
+1116,4617,30-Jun-25,07-Jul-25,Medium,Billing,closed,24
+1119,1162,09-Dec-25,10-Dec-25,Medium,Feature request,closed,24
+1159,1506,13-Nov-25,15-Nov-25,Medium,Login,closed,24
+1164,5961,28-Jan-25,28-Jan-25,Medium,Performance,closed,24
+1231,4449,02-Nov-25,04-Nov-25,Medium,Login,closed,24
+1232,7056,13-Feb-25,13-Feb-25,Medium,Feature request,closed,24
+1259,1559,08-Oct-25,10-Oct-25,Medium,Other,closed,24
+1278,6840,27-Apr-25,05-May-25,Medium,Bug,closed,24
+1285,103,30-Jul-25,06-Aug-25,Medium,Billing,closed,24
+1361,44,16-Nov-25,19-Nov-25,Medium,Other,closed,24
+1397,6403,15-May-25,20-May-25,Medium,Billing,closed,24
+1407,2904,06-Nov-25,09-Nov-25,Medium,Billing,closed,24
+1435,7569,12-Jan-26,17-Jan-26,Medium,Other,closed,24
+1443,2579,16-Nov-25,18-Nov-25,Medium,Other,closed,24
+1475,2209,13-Jan-25,22-Jan-25,Medium,Account,closed,24
+1476,74,12-Nov-25,12-Nov-25,Medium,Bug,closed,24
+1531,4550,28-May-25,04-Jun-25,Medium,Other,closed,24
+1542,6556,20-Nov-25,28-Nov-25,Medium,Feature request,closed,24
+1571,2268,01-Oct-25,05-Oct-25,Medium,Login,closed,24
+1623,4344,11-Jan-26,14-Jan-26,Medium,Feature request,closed,24
+1642,2357,22-May-25,25-May-25,Medium,Billing,closed,24
+1670,6305,18-Oct-25,24-Oct-25,Medium,Feature request,closed,24
+1724,7034,10-Oct-25,18-Oct-25,Medium,Login,closed,24
+1766,2704,22-Nov-25,29-Nov-25,Medium,Performance,closed,24
+1833,1938,05-Jan-26,08-Jan-26,Medium,Billing,closed,24
+1878,3410,05-Apr-25,12-Apr-25,Medium,Account,closed,24
+1997,3637,01-Jun-25,05-Jun-25,Medium,Account,closed,24
+2236,1125,12-Jun-25,21-Jun-25,Medium,Bug,closed,24
+2313,3464,23-Jan-25,28-Jan-25,Medium,Other,closed,24
+2318,6126,16-Mar-25,20-Mar-25,Medium,Account,closed,24
+2350,853,03-Sep-25,05-Sep-25,Medium,Feature request,closed,24
+2390,5647,10-Apr-25,12-Apr-25,Medium,Performance,closed,24
+2412,3627,13-Feb-25,21-Feb-25,Medium,Login,closed,24
+2444,1894,22-Apr-25,27-Apr-25,Medium,Billing,closed,24
+2454,934,15-Sep-25,20-Sep-25,Medium,Bug,closed,24
+2480,3223,18-Jan-25,21-Jan-25,Medium,Performance,closed,24
+2498,2386,28-Feb-25,02-Mar-25,Medium,Performance,closed,24
+2561,4325,21-Mar-25,29-Mar-25,Medium,Account,closed,24
+2590,4590,27-Jul-25,28-Jul-25,Medium,Account,closed,24
+2601,2808,01-Jan-25,07-Jan-25,Medium,Account,closed,24
+2647,6147,24-Dec-25,29-Dec-25,Medium,Feature request,closed,24
+2661,5859,16-Jan-26,22-Jan-26,Medium,Performance,closed,24
+2662,2605,22-Nov-25,28-Nov-25,Medium,Bug,closed,24
+2683,2718,13-Jan-26,14-Jan-26,Medium,Feature request,closed,24
+2709,6956,01-Mar-25,02-Mar-25,Medium,Billing,closed,24
+2727,3723,10-Jan-25,14-Jan-25,Medium,Login,closed,24
+2752,2219,16-Aug-25,24-Aug-25,Medium,Other,closed,24
+2850,6788,25-Jul-25,29-Jul-25,Medium,Other,closed,24
+2853,1113,05-Apr-25,09-Apr-25,Medium,Other,closed,24
+2870,4461,03-Dec-25,10-Dec-25,Medium,Feature request,closed,24
+2877,4764,02-Aug-25,06-Aug-25,Medium,Account,closed,24
+2944,7511,05-Jul-25,14-Jul-25,Medium,Billing,closed,24
+2963,1497,10-Jan-26,15-Jan-26,Medium,Account,closed,24
+2988,4669,16-May-25,18-May-25,Medium,Performance,closed,24
+52,81,17-Dec-25,24-Dec-25,Low,Performance,resolved,8
+58,1852,18-Mar-25,26-Mar-25,Low,Performance,resolved,8
+112,2499,23-May-25,29-May-25,Low,Feature request,resolved,8
+136,7762,14-Aug-25,20-Aug-25,Low,Bug,resolved,8
+170,5398,08-Jan-26,16-Jan-26,Low,Bug,resolved,8
+221,6975,28-May-25,31-May-25,Low,Bug,resolved,8
+242,3603,16-Aug-25,17-Aug-25,Low,Bug,resolved,8
+403,165,12-Aug-25,17-Aug-25,Low,Login,resolved,8
+498,5704,23-Jul-25,31-Jul-25,Low,Other,resolved,8
+534,3414,08-Sep-25,17-Sep-25,Low,Performance,resolved,8
+542,5492,31-Dec-25,06-Jan-26,Low,Feature request,resolved,8
+564,6539,28-Feb-25,28-Feb-25,Low,Login,resolved,8
+653,6735,19-Nov-25,20-Nov-25,Low,Performance,resolved,8
+692,7762,24-Mar-25,25-Mar-25,Low,Billing,resolved,8
+704,4918,01-May-25,07-May-25,Low,Other,resolved,8
+743,6182,23-Feb-25,25-Feb-25,Low,Other,resolved,8
+789,3529,04-Nov-25,10-Nov-25,Low,Feature request,resolved,8
+800,13,17-Feb-25,22-Feb-25,Low,Bug,resolved,8
+934,877,17-Oct-25,25-Oct-25,Low,Other,resolved,8
+982,477,15-Jul-25,16-Jul-25,Low,Bug,resolved,8
+1065,3140,21-Aug-25,22-Aug-25,Low,Performance,resolved,8
+1094,1272,13-Sep-25,22-Sep-25,Low,Billing,resolved,8
+1105,5609,18-Jan-25,18-Jan-25,Low,Account,resolved,8
+1261,5448,06-Aug-25,09-Aug-25,Low,Bug,resolved,8
+1305,1416,14-Oct-25,21-Oct-25,Low,Account,resolved,8
+1314,1797,10-Dec-25,16-Dec-25,Low,Login,resolved,8
+1372,6062,14-Sep-25,21-Sep-25,Low,Feature request,resolved,8
+1387,1186,28-May-25,29-May-25,Low,Login,resolved,8
+1406,1710,22-Oct-25,23-Oct-25,Low,Performance,resolved,8
+1428,7325,26-Nov-25,02-Dec-25,Low,Performance,resolved,8
+1506,4607,17-Nov-25,22-Nov-25,Low,Feature request,resolved,8
+1599,4788,01-Mar-25,03-Mar-25,Low,Performance,resolved,8
+1610,7577,30-Jun-25,08-Jul-25,Low,Other,resolved,8
+1648,5167,14-Jul-25,22-Jul-25,Low,Billing,resolved,8
+1650,4444,19-Jul-25,24-Jul-25,Low,Login,resolved,8
+1660,7899,01-Sep-25,02-Sep-25,Low,Feature request,resolved,8
+1678,2594,07-Feb-25,08-Feb-25,Low,Account,resolved,8
+1698,6356,20-Feb-25,21-Feb-25,Low,Bug,resolved,8
+1721,483,23-Jan-25,27-Jan-25,Low,Account,resolved,8
+1740,524,11-Mar-25,19-Mar-25,Low,Feature request,resolved,8
+1805,1701,19-May-25,23-May-25,Low,Login,resolved,8
+1840,1313,23-Apr-25,01-May-25,Low,Billing,resolved,8
+1844,4828,15-Aug-25,20-Aug-25,Low,Performance,resolved,8
+1846,3251,07-Jul-25,07-Jul-25,Low,Login,resolved,8
+1875,4940,01-May-25,03-May-25,Low,Billing,resolved,8
+1938,7640,07-Jul-25,14-Jul-25,Low,Other,resolved,8
+2034,164,27-Jan-25,29-Jan-25,Low,Performance,resolved,8
+2096,5168,15-May-25,16-May-25,Low,Other,resolved,8
+2220,3125,01-Nov-25,10-Nov-25,Low,Account,resolved,8
+2244,7241,16-Jan-25,18-Jan-25,Low,Performance,resolved,8
+2246,2695,14-Jan-26,14-Jan-26,Low,Billing,resolved,8
+2321,121,04-Jul-25,04-Jul-25,Low,Billing,resolved,8
+2343,303,21-Apr-25,23-Apr-25,Low,Bug,resolved,8
+2379,6255,13-Aug-25,16-Aug-25,Low,Billing,resolved,8
+2398,1911,25-Dec-25,27-Dec-25,Low,Other,resolved,8
+2505,5571,20-Apr-25,21-Apr-25,Low,Account,resolved,8
+2514,4720,24-Nov-25,25-Nov-25,Low,Bug,resolved,8
+2533,7656,05-Sep-25,07-Sep-25,Low,Login,resolved,8
+2637,1317,03-Jan-26,10-Jan-26,Low,Account,resolved,8
+2665,6115,21-Sep-25,23-Sep-25,Low,Account,resolved,8
+2687,2671,20-Oct-25,20-Oct-25,Low,Feature request,resolved,8
+2697,5012,16-Sep-25,25-Sep-25,Low,Billing,resolved,8
+2744,4241,27-Aug-25,02-Sep-25,Low,Billing,resolved,8
+2788,7605,26-Apr-25,05-May-25,Low,Performance,resolved,8
+2860,3287,16-Feb-25,17-Feb-25,Low,Bug,resolved,8
+2936,5894,15-Nov-25,17-Nov-25,Low,Performance,resolved,8
+2997,6280,31-Aug-25,31-Aug-25,Low,Billing,resolved,8
+35,1961,21-Oct-25,26-Oct-25,High,Feature request,resolved,8
+38,5014,17-Oct-25,21-Oct-25,Critical,Account,resolved,8
+164,1018,04-Apr-25,08-Apr-25,High,Other,resolved,8
+167,563,07-Nov-25,13-Nov-25,Critical,Login,resolved,8
+205,7582,07-Oct-25,12-Oct-25,High,Login,resolved,8
+213,1133,15-Oct-25,15-Oct-25,High,Login,resolved,8
+394,3737,25-Feb-25,28-Feb-25,High,Login,resolved,8
+570,6501,10-Aug-25,18-Aug-25,High,Other,resolved,8
+625,6329,29-Mar-25,29-Mar-25,High,Performance,resolved,8
+641,3506,07-Feb-25,09-Feb-25,Critical,Billing,resolved,8
+662,4156,22-Feb-25,25-Feb-25,High,Login,resolved,8
+751,4700,30-Sep-25,09-Oct-25,High,Bug,resolved,8
+998,2214,04-Jan-25,08-Jan-25,High,Feature request,resolved,8
+1066,2471,09-Jul-25,17-Jul-25,High,Feature request,resolved,8
+1140,1340,23-Apr-25,01-May-25,High,Billing,resolved,8
+1249,525,16-Dec-25,20-Dec-25,High,Bug,resolved,8
+1255,4818,02-Dec-25,02-Dec-25,High,Account,resolved,8
+1627,1264,13-Jul-25,22-Jul-25,High,Billing,resolved,8
+1634,2242,29-Mar-25,31-Mar-25,High,Feature request,resolved,8
+1638,6229,07-Aug-25,13-Aug-25,High,Feature request,resolved,8
+1657,5883,21-Dec-25,24-Dec-25,High,Billing,resolved,8
+1717,6374,28-Aug-25,31-Aug-25,High,Bug,resolved,8
+1725,2080,13-Jan-25,16-Jan-25,High,Billing,resolved,8
+1836,7979,31-Dec-25,09-Jan-26,High,Login,resolved,8
+1881,5812,13-Mar-25,15-Mar-25,High,Billing,resolved,8
+1890,3670,05-Oct-25,09-Oct-25,High,Performance,resolved,8
+1970,1641,19-Jun-25,19-Jun-25,High,Performance,resolved,8
+2136,5847,25-Apr-25,26-Apr-25,High,Performance,resolved,8
+2146,3902,12-Oct-25,14-Oct-25,High,Bug,resolved,8
+2176,5769,11-Jan-26,20-Jan-26,Critical,Login,resolved,8
+2440,1835,07-Jul-25,10-Jul-25,High,Bug,resolved,8
+2443,4108,08-Sep-25,09-Sep-25,High,Feature request,resolved,8
+2503,1397,18-Mar-25,18-Mar-25,High,Account,resolved,8
+2634,6827,01-Mar-25,07-Mar-25,Critical,Performance,resolved,8
+2696,4622,29-Dec-25,03-Jan-26,High,Feature request,resolved,8
+2775,35,18-Aug-25,25-Aug-25,High,Account,resolved,8
+2866,4488,01-Jun-25,04-Jun-25,High,Billing,resolved,8
+2925,1740,02-Apr-25,10-Apr-25,Critical,Feature request,resolved,8
+26,3502,09-Aug-25,09-Aug-25,Medium,Feature request,resolved,8
+54,3639,16-Sep-25,18-Sep-25,Medium,Feature request,resolved,8
+109,6866,21-Feb-25,21-Feb-25,Medium,Billing,resolved,8
+152,3556,29-Aug-25,30-Aug-25,Medium,Bug,resolved,8
+157,3263,29-Jul-25,07-Aug-25,Medium,Login,resolved,8
+197,3737,30-Apr-25,30-Apr-25,Medium,Bug,resolved,8
+204,6650,05-Jan-26,06-Jan-26,Medium,Login,resolved,8
+234,3165,10-Jan-26,12-Jan-26,Medium,Other,resolved,8
+283,7378,14-Jan-25,20-Jan-25,Medium,Account,resolved,8
+361,7509,17-Jan-25,25-Jan-25,Medium,Bug,resolved,8
+404,1665,08-Jan-25,10-Jan-25,Medium,Feature request,resolved,8
+414,5434,20-Jul-25,28-Jul-25,Medium,Account,resolved,8
+431,6152,21-Jul-25,21-Jul-25,Medium,Performance,resolved,8
+446,5975,06-Apr-25,14-Apr-25,Medium,Feature request,resolved,8
+453,4271,23-Feb-25,03-Mar-25,Medium,Login,resolved,8
+504,5036,26-May-25,27-May-25,Medium,Feature request,resolved,8
+510,5797,13-Mar-25,17-Mar-25,Medium,Feature request,resolved,8
+523,2279,09-Mar-25,12-Mar-25,Medium,Bug,resolved,8
+575,2877,31-Oct-25,02-Nov-25,Medium,Feature request,resolved,8
+612,3314,24-Jan-25,28-Jan-25,Medium,Billing,resolved,8
+635,3289,10-Jan-25,18-Jan-25,Medium,Bug,resolved,8
+651,885,30-Mar-25,02-Apr-25,Medium,Performance,resolved,8
+680,3239,02-Sep-25,03-Sep-25,Medium,Bug,resolved,8
+681,3585,14-May-25,19-May-25,Medium,Login,resolved,8
+715,7251,04-Apr-25,04-Apr-25,Medium,Billing,resolved,8
+731,1498,30-Jul-25,07-Aug-25,Medium,Feature request,resolved,8
+755,7302,02-Jul-25,10-Jul-25,Medium,Account,resolved,8
+846,6985,27-Jun-25,29-Jun-25,Medium,Feature request,resolved,8
+855,6581,13-Dec-25,20-Dec-25,Medium,Bug,resolved,8
+872,2887,12-Aug-25,13-Aug-25,Medium,Account,resolved,8
+876,454,02-Aug-25,11-Aug-25,Medium,Performance,resolved,8
+894,2529,06-Oct-25,12-Oct-25,Medium,Bug,resolved,8
+920,4253,09-Aug-25,14-Aug-25,Medium,Feature request,resolved,8
+922,3366,21-Mar-25,28-Mar-25,Medium,Other,resolved,8
+1044,3790,09-Dec-25,11-Dec-25,Medium,Other,resolved,8
+1046,966,20-Apr-25,29-Apr-25,Medium,Feature request,resolved,8
+1059,4276,26-Feb-25,27-Feb-25,Medium,Other,resolved,8
+1085,4444,11-Apr-25,12-Apr-25,Medium,Feature request,resolved,8
+1090,4718,12-Dec-25,19-Dec-25,Medium,Bug,resolved,8
+1096,603,10-Oct-25,17-Oct-25,Medium,Feature request,resolved,8
+1103,7981,03-Feb-25,07-Feb-25,Medium,Performance,resolved,8
+1131,7732,21-Aug-25,25-Aug-25,Medium,Login,resolved,8
+1145,7121,25-May-25,27-May-25,Medium,Login,resolved,8
+1160,5318,19-May-25,24-May-25,Medium,Bug,resolved,8
+1195,4508,01-Dec-25,03-Dec-25,Medium,Billing,resolved,8
+1252,4078,05-Sep-25,08-Sep-25,Medium,Account,resolved,8
+1265,7425,31-Aug-25,31-Aug-25,Medium,Bug,resolved,8
+1267,231,25-May-25,29-May-25,Medium,Account,resolved,8
+1274,660,08-Nov-25,13-Nov-25,Medium,Login,resolved,8
+1300,5006,17-May-25,24-May-25,Medium,Login,resolved,8
+1319,2711,11-Jan-26,19-Jan-26,Medium,Other,resolved,8
+1328,2120,26-Jul-25,31-Jul-25,Medium,Bug,resolved,8
+1345,7330,05-Oct-25,10-Oct-25,Medium,Other,resolved,8
+1357,6656,17-Jun-25,17-Jun-25,Medium,Other,resolved,8
+1404,7499,28-Jun-25,29-Jun-25,Medium,Performance,resolved,8
+1432,4890,02-Jan-26,07-Jan-26,Medium,Feature request,resolved,8
+1440,726,20-Oct-25,28-Oct-25,Medium,Other,resolved,8
+1460,2193,31-Dec-25,03-Jan-26,Medium,Login,resolved,8
+1496,1884,04-Nov-25,06-Nov-25,Medium,Billing,resolved,8
+1507,6238,28-May-25,29-May-25,Medium,Account,resolved,8
+1511,323,19-Mar-25,26-Mar-25,Medium,Performance,resolved,8
+1517,7275,30-Sep-25,09-Oct-25,Medium,Login,resolved,8
+1523,7956,25-Jun-25,04-Jul-25,Medium,Feature request,resolved,8
+1584,3919,27-Feb-25,28-Feb-25,Medium,Feature request,resolved,8
+1620,5181,19-Jul-25,26-Jul-25,Medium,Other,resolved,8
+1665,7982,12-Sep-25,21-Sep-25,Medium,Account,resolved,8
+1699,3207,25-May-25,28-May-25,Medium,Feature request,resolved,8
+1727,6496,01-May-25,02-May-25,Medium,Other,resolved,8
+1733,1188,17-Aug-25,22-Aug-25,Medium,Performance,resolved,8
+1751,1482,01-Nov-25,04-Nov-25,Medium,Login,resolved,8
+1817,4771,27-May-25,03-Jun-25,Medium,Feature request,resolved,8
+1822,1628,02-May-25,08-May-25,Medium,Login,resolved,8
+1870,7743,23-Jun-25,29-Jun-25,Medium,Feature request,resolved,8
+1872,5246,29-Sep-25,01-Oct-25,Medium,Performance,resolved,8
+1913,3917,08-May-25,09-May-25,Medium,Performance,resolved,8
+1934,405,11-Jan-25,18-Jan-25,Medium,Bug,resolved,8
+1941,4368,18-Aug-25,20-Aug-25,Medium,Performance,resolved,8
+1943,5174,27-Mar-25,02-Apr-25,Medium,Performance,resolved,8
+1956,7418,25-Dec-25,25-Dec-25,Medium,Other,resolved,8
+1966,5229,24-Aug-25,29-Aug-25,Medium,Performance,resolved,8
+1969,3916,15-Oct-25,21-Oct-25,Medium,Other,resolved,8
+2051,6654,16-Jul-25,16-Jul-25,Medium,Other,resolved,8
+2074,5343,19-Nov-25,26-Nov-25,Medium,Performance,resolved,8
+2080,2044,04-Feb-25,11-Feb-25,Medium,Billing,resolved,8
+2083,1307,21-Apr-25,21-Apr-25,Medium,Billing,resolved,8
+2212,7381,09-Oct-25,16-Oct-25,Medium,Login,resolved,8
+2241,5270,18-Jul-25,26-Jul-25,Medium,Account,resolved,8
+2270,4122,10-Oct-25,11-Oct-25,Medium,Billing,resolved,8
+2465,4893,09-Aug-25,15-Aug-25,Medium,Billing,resolved,8
+2553,5499,21-Apr-25,22-Apr-25,Medium,Account,resolved,8
+2555,1792,01-Sep-25,09-Sep-25,Medium,Other,resolved,8
+2607,5559,04-Oct-25,13-Oct-25,Medium,Billing,resolved,8
+2620,1728,01-Nov-25,03-Nov-25,Medium,Bug,resolved,8
+2660,1793,24-May-25,25-May-25,Medium,Other,resolved,8
+2664,3923,09-Aug-25,15-Aug-25,Medium,Other,resolved,8
+2669,4575,16-May-25,21-May-25,Medium,Billing,resolved,8
+2694,7325,05-May-25,14-May-25,Medium,Other,resolved,8
+2729,125,04-Nov-25,11-Nov-25,Medium,Login,resolved,8
+2743,3771,13-Jul-25,15-Jul-25,Medium,Other,resolved,8
+2760,561,20-Jun-25,27-Jun-25,Medium,Feature request,resolved,8
+2794,979,20-Jan-25,22-Jan-25,Medium,Other,resolved,8
+2820,800,31-Jan-25,08-Feb-25,Medium,Performance,resolved,8
+2854,1236,07-May-25,11-May-25,Medium,Account,resolved,8
+2887,7586,26-Apr-25,03-May-25,Medium,Feature request,resolved,8
+2915,3958,02-Jan-25,10-Jan-25,Medium,Billing,resolved,8
+2982,7005,03-Jan-25,12-Jan-25,Medium,Account,resolved,8
+5,7064,11-Nov-25,16-Nov-25,Medium,Performance,resolved,4
+47,5230,30-Dec-25,06-Jan-26,High,Other,resolved,4
+55,1356,13-Oct-25,17-Oct-25,Medium,Login,resolved,4
+77,1919,03-Jun-25,10-Jun-25,Low,Account,resolved,4
+79,1110,10-Jan-25,15-Jan-25,Low,Login,resolved,4
+176,92,08-Oct-25,16-Oct-25,Low,Performance,resolved,4
+179,7430,07-Jan-25,07-Jan-25,High,Performance,resolved,4
+181,4890,31-Jul-25,31-Jul-25,Medium,Feature request,resolved,4
+198,3775,31-Mar-25,08-Apr-25,Medium,Bug,resolved,4
+248,5483,20-Mar-25,24-Mar-25,Low,Feature request,resolved,4
+259,891,10-Jan-26,10-Jan-26,High,Performance,resolved,4
+279,280,21-Jun-25,26-Jun-25,High,Account,resolved,4
+356,580,11-Apr-25,16-Apr-25,Medium,Feature request,resolved,4
+360,3893,12-May-25,19-May-25,High,Feature request,resolved,4
+380,5732,30-Aug-25,31-Aug-25,Low,Billing,resolved,4
+399,7263,23-Oct-25,26-Oct-25,Medium,Other,resolved,4
+432,4034,13-Jan-26,18-Jan-26,Low,Bug,resolved,4
+438,2179,17-Apr-25,25-Apr-25,Medium,Performance,resolved,4
+474,4238,23-Apr-25,26-Apr-25,Medium,Bug,resolved,4
+486,6419,18-May-25,23-May-25,Low,Performance,resolved,4
+499,6361,13-Jan-26,18-Jan-26,Medium,Billing,resolved,4
+532,1424,15-Jun-25,19-Jun-25,High,Billing,resolved,4
+569,726,07-Oct-25,12-Oct-25,Medium,Feature request,resolved,4
+616,1358,02-Jan-25,09-Jan-25,Medium,Performance,resolved,4
+624,557,18-Mar-25,23-Mar-25,Low,Bug,resolved,4
+645,7899,25-Jul-25,02-Aug-25,Medium,Other,resolved,4
+669,6354,29-Dec-25,31-Dec-25,High,Feature request,resolved,4
+678,2374,21-Nov-25,27-Nov-25,Medium,Other,resolved,4
+730,4436,08-Sep-25,11-Sep-25,Medium,Account,resolved,4
+747,700,23-Sep-25,24-Sep-25,Low,Feature request,resolved,4
+763,4638,10-Oct-25,11-Oct-25,Low,Other,resolved,4
+796,2858,14-Aug-25,22-Aug-25,Low,Performance,resolved,4
+820,5232,28-Nov-25,01-Dec-25,Medium,Other,resolved,4
+897,4404,13-Dec-25,13-Dec-25,Medium,Feature request,resolved,4
+956,6835,15-Jul-25,23-Jul-25,Medium,Account,resolved,4
+968,7458,12-Sep-25,21-Sep-25,Low,Other,resolved,4
+985,3553,23-Apr-25,28-Apr-25,Low,Bug,resolved,4
+1023,3548,20-Nov-25,29-Nov-25,Medium,Login,resolved,4
+1028,2559,03-Aug-25,05-Aug-25,High,Billing,resolved,4
+1035,5229,29-Aug-25,31-Aug-25,Low,Other,resolved,4
+1050,2837,29-Apr-25,29-Apr-25,Low,Account,resolved,4
+1107,6789,15-Jan-25,18-Jan-25,Medium,Account,resolved,4
+1142,4476,05-Jun-25,11-Jun-25,Low,Bug,resolved,4
+1144,602,14-Oct-25,15-Oct-25,Medium,Billing,resolved,4
+1162,5033,01-Apr-25,06-Apr-25,Low,Billing,resolved,4
+1167,5207,07-Oct-25,11-Oct-25,Medium,Bug,resolved,4
+1172,1059,09-Apr-25,15-Apr-25,High,Feature request,resolved,4
+1174,7065,12-Aug-25,13-Aug-25,Medium,Bug,resolved,4
+1211,7716,09-Mar-25,15-Mar-25,Critical,Account,resolved,4
+1215,5634,12-Jul-25,13-Jul-25,High,Account,resolved,4
+1222,6220,05-Dec-25,12-Dec-25,Medium,Feature request,resolved,4
+1238,7176,17-Nov-25,17-Nov-25,High,Other,resolved,4
+1242,7401,27-Mar-25,31-Mar-25,Low,Billing,resolved,4
+1313,688,13-May-25,22-May-25,Low,Other,resolved,4
+1333,3088,19-May-25,20-May-25,Medium,Login,resolved,4
+1335,5689,17-Jul-25,25-Jul-25,Medium,Account,resolved,4
+1342,1968,29-Nov-25,29-Nov-25,High,Billing,resolved,4
+1393,3512,19-Apr-25,23-Apr-25,Medium,Login,resolved,4
+1401,6094,11-Jan-25,20-Jan-25,Critical,Other,resolved,4
+1414,2640,23-Jul-25,30-Jul-25,High,Billing,resolved,4
+1424,6034,23-Nov-25,26-Nov-25,Low,Feature request,resolved,4
+1461,3738,11-Oct-25,17-Oct-25,Low,Performance,resolved,4
+1491,4818,14-Feb-25,18-Feb-25,Low,Billing,resolved,4
+1499,4290,03-Apr-25,11-Apr-25,Medium,Bug,resolved,4
+1543,5465,09-Jan-26,09-Jan-26,Low,Billing,resolved,4
+1546,2082,06-Oct-25,12-Oct-25,High,Billing,resolved,4
+1560,1852,28-May-25,29-May-25,Medium,Account,resolved,4
+1568,6112,01-Jan-26,06-Jan-26,High,Login,resolved,4
+1606,5365,04-Sep-25,12-Sep-25,Low,Other,resolved,4
+1656,1201,12-Apr-25,12-Apr-25,Low,Bug,resolved,4
+1726,3897,26-Mar-25,29-Mar-25,Low,Billing,resolved,4
+1746,7147,31-Aug-25,01-Sep-25,Low,Bug,resolved,4
+1755,3544,28-Jan-25,01-Feb-25,Medium,Account,resolved,4
+1775,7910,07-Jul-25,07-Jul-25,Low,Performance,resolved,4
+1796,7107,29-Jan-25,31-Jan-25,Low,Performance,resolved,4
+1825,7297,13-May-25,15-May-25,Medium,Bug,resolved,4
+1838,7381,17-Aug-25,17-Aug-25,Low,Billing,resolved,4
+1855,1995,23-Jan-25,31-Jan-25,High,Performance,resolved,4
+1858,7576,01-Aug-25,07-Aug-25,Low,Performance,resolved,4
+1865,3980,08-Jul-25,13-Jul-25,High,Other,resolved,4
+1877,847,22-Apr-25,01-May-25,High,Other,resolved,4
+1927,7123,03-Feb-25,11-Feb-25,High,Billing,resolved,4
+1933,743,21-Jul-25,29-Jul-25,High,Feature request,resolved,4
+1937,7520,28-Oct-25,01-Nov-25,Medium,Account,resolved,4
+1974,2677,02-May-25,03-May-25,Medium,Account,resolved,4
+1976,1763,21-Apr-25,30-Apr-25,Medium,Billing,resolved,4
+1987,2587,14-Jun-25,19-Jun-25,High,Account,resolved,4
+2011,598,20-Feb-25,28-Feb-25,Critical,Account,resolved,4
+2016,1194,28-Dec-25,05-Jan-26,Medium,Feature request,resolved,4
+2018,7158,31-Oct-25,07-Nov-25,Low,Billing,resolved,4
+2050,168,20-Sep-25,21-Sep-25,Low,Login,resolved,4
+2055,3347,09-Apr-25,09-Apr-25,Medium,Other,resolved,4
+2095,1060,08-Apr-25,16-Apr-25,Medium,Account,resolved,4
+2108,3059,09-Sep-25,12-Sep-25,Medium,Bug,resolved,4
+2120,7777,13-Mar-25,22-Mar-25,Medium,Performance,resolved,4
+2168,879,25-Oct-25,29-Oct-25,Low,Performance,resolved,4
+2182,3018,21-Oct-25,27-Oct-25,High,Bug,resolved,4
+2188,7783,17-Aug-25,23-Aug-25,Medium,Bug,resolved,4
+2218,2038,31-Oct-25,08-Nov-25,Medium,Other,resolved,4
+2233,5486,22-Feb-25,03-Mar-25,Medium,Billing,resolved,4
+2234,2529,18-Aug-25,18-Aug-25,Low,Billing,resolved,4
+2240,5188,09-Oct-25,10-Oct-25,Low,Account,resolved,4
+2248,1218,20-Dec-25,21-Dec-25,Low,Bug,resolved,4
+2251,882,02-Sep-25,07-Sep-25,Low,Feature request,resolved,4
+2266,4818,11-Jun-25,14-Jun-25,Medium,Bug,resolved,4
+2326,7230,31-May-25,31-May-25,Medium,Performance,resolved,4
+2337,1167,31-Dec-25,01-Jan-26,Medium,Feature request,resolved,4
+2385,4166,23-Dec-25,23-Dec-25,Medium,Billing,resolved,4
+2396,5389,28-Nov-25,01-Dec-25,Medium,Account,resolved,4
+2439,4522,31-Mar-25,01-Apr-25,High,Account,resolved,4
+2457,6710,04-Jun-25,08-Jun-25,Medium,Login,resolved,4
+2474,3982,27-Jul-25,30-Jul-25,Low,Feature request,resolved,4
+2485,6307,02-Feb-25,07-Feb-25,High,Login,resolved,4
+2489,6569,14-Jan-26,19-Jan-26,High,Login,resolved,4
+2535,3563,24-Dec-25,26-Dec-25,Medium,Feature request,resolved,4
+2552,5329,26-Feb-25,03-Mar-25,Medium,Feature request,resolved,4
+2564,7639,20-Aug-25,27-Aug-25,High,Login,resolved,4
+2582,7033,11-Jan-26,11-Jan-26,High,Bug,resolved,4
+2611,27,05-Jun-25,12-Jun-25,High,Bug,resolved,4
+2629,6249,21-Mar-25,21-Mar-25,High,Performance,resolved,4
+2644,2686,20-Feb-25,28-Feb-25,Low,Account,resolved,4
+2672,1466,13-Dec-25,17-Dec-25,Low,Bug,resolved,4
+2689,1042,10-Aug-25,18-Aug-25,Low,Performance,resolved,4
+2701,864,07-Feb-25,12-Feb-25,Medium,Bug,resolved,4
+2720,7976,06-Mar-25,11-Mar-25,Low,Feature request,resolved,4
+2736,3294,12-Feb-25,14-Feb-25,High,Feature request,resolved,4
+2754,6835,08-Oct-25,15-Oct-25,Low,Billing,resolved,4
+2784,3288,17-Jan-26,21-Jan-26,Medium,Login,resolved,4
+2808,4314,31-Mar-25,04-Apr-25,Medium,Login,resolved,4
+2815,4047,30-Jan-25,03-Feb-25,Low,Billing,resolved,4
+2834,1593,17-Oct-25,17-Oct-25,Low,Other,resolved,4
+2855,2234,25-Dec-25,02-Jan-26,Medium,Performance,resolved,4
+2865,1008,15-Dec-25,16-Dec-25,Medium,Feature request,resolved,4
+2878,7794,14-Feb-25,17-Feb-25,Low,Billing,resolved,4
+2880,7479,25-Jun-25,03-Jul-25,High,Bug,resolved,4
+2917,708,08-Feb-25,15-Feb-25,Low,Bug,resolved,4
+2996,2759,16-May-25,25-May-25,Medium,Performance,resolved,4
+3000,1280,28-Dec-25,28-Dec-25,Medium,Bug,resolved,4
+147,7522,08-Feb-25,12-Feb-25,Critical,Bug,resolved,72
+154,5079,10-Sep-25,15-Sep-25,Critical,Bug,resolved,72
+275,2954,10-Aug-25,16-Aug-25,Critical,Billing,resolved,72
+325,5446,26-Apr-25,04-May-25,Critical,Account,resolved,72
+514,1638,06-Oct-25,15-Oct-25,Critical,Billing,resolved,72
+696,7931,08-Jul-25,17-Jul-25,Critical,Other,resolved,72
+844,4971,24-Nov-25,30-Nov-25,Critical,Other,resolved,72
+949,5605,25-Feb-25,02-Mar-25,Critical,Feature request,resolved,72
+1558,969,24-Jul-25,24-Jul-25,Critical,Billing,resolved,72
+2627,631,14-Mar-25,22-Mar-25,Critical,Billing,resolved,72
+2905,2384,31-May-25,04-Jun-25,Critical,Feature request,resolved,72
+115,5480,17-Dec-25,26-Dec-25,High,Performance,resolved,72
+158,1167,03-Jun-25,12-Jun-25,High,Login,resolved,72
+166,792,23-Dec-25,28-Dec-25,High,Billing,resolved,72
+200,934,14-Jan-26,17-Jan-26,High,Billing,resolved,72
+219,2908,01-Feb-25,02-Feb-25,High,Billing,resolved,72
+228,3301,15-Feb-25,22-Feb-25,High,Other,resolved,72
+278,6696,17-Feb-25,24-Feb-25,High,Performance,resolved,72
+282,1807,04-Jan-26,07-Jan-26,High,Other,resolved,72
+574,7805,19-Aug-25,23-Aug-25,High,Feature request,resolved,72
+626,689,01-Jul-25,04-Jul-25,High,Performance,resolved,72
+644,5436,12-Dec-25,17-Dec-25,High,Other,resolved,72
+677,7928,16-Nov-25,22-Nov-25,High,Login,resolved,72
+709,2668,05-Jan-26,10-Jan-26,High,Performance,resolved,72
+759,7861,10-Nov-25,13-Nov-25,High,Feature request,resolved,72
+764,5553,14-May-25,23-May-25,High,Performance,resolved,72
+785,2652,16-Jan-25,25-Jan-25,High,Login,resolved,72
+790,7250,29-Aug-25,31-Aug-25,High,Account,resolved,72
+831,7210,05-Feb-25,06-Feb-25,High,Other,resolved,72
+882,3236,14-Aug-25,20-Aug-25,High,Login,resolved,72
+979,7608,16-Jan-26,19-Jan-26,High,Other,resolved,72
+1025,4982,25-Feb-25,28-Feb-25,High,Bug,resolved,72
+1136,523,11-May-25,17-May-25,High,Bug,resolved,72
+1183,1599,09-Dec-25,16-Dec-25,High,Bug,resolved,72
+1287,3430,31-Jan-25,09-Feb-25,High,Bug,resolved,72
+1293,2132,06-Apr-25,14-Apr-25,High,Billing,resolved,72
+1306,1997,26-Jan-25,03-Feb-25,High,Bug,resolved,72
+1337,2832,08-Jan-26,14-Jan-26,High,Bug,resolved,72
+1400,5404,05-Aug-25,13-Aug-25,High,Login,resolved,72
+1454,7957,11-Jul-25,11-Jul-25,High,Account,resolved,72
+1467,2944,14-Nov-25,19-Nov-25,High,Performance,resolved,72
+1544,4885,05-Sep-25,05-Sep-25,High,Performance,resolved,72
+1555,7854,23-Sep-25,24-Sep-25,High,Feature request,resolved,72
+1617,2164,28-Jun-25,02-Jul-25,High,Login,resolved,72
+1647,774,02-Dec-25,05-Dec-25,High,Other,resolved,72
+1674,464,19-May-25,20-May-25,High,Billing,resolved,72
+1720,2787,10-Dec-25,13-Dec-25,High,Bug,resolved,72
+1741,3624,15-Apr-25,15-Apr-25,High,Feature request,resolved,72
+1802,3085,15-Apr-25,24-Apr-25,High,Bug,resolved,72
+1812,7450,12-Jan-26,13-Jan-26,High,Login,resolved,72
+1818,2177,12-Jan-26,21-Jan-26,High,Billing,resolved,72
+1849,2718,03-Jan-25,09-Jan-25,High,Bug,resolved,72
+1882,2550,06-Mar-25,14-Mar-25,High,Login,resolved,72
+1930,5527,17-Apr-25,23-Apr-25,High,Login,resolved,72
+1950,7339,08-May-25,09-May-25,High,Login,resolved,72
+1951,3485,11-May-25,14-May-25,High,Other,resolved,72
+1954,3913,15-Jul-25,20-Jul-25,High,Performance,resolved,72
+1968,3885,25-Nov-25,29-Nov-25,High,Other,resolved,72
+1972,2411,26-Jun-25,26-Jun-25,High,Other,resolved,72
+2042,2209,15-Jul-25,24-Jul-25,High,Account,resolved,72
+2048,60,19-Dec-25,24-Dec-25,High,Performance,resolved,72
+2053,247,19-May-25,26-May-25,High,Account,resolved,72
+2091,4039,11-Oct-25,20-Oct-25,High,Performance,resolved,72
+2141,3536,03-May-25,07-May-25,High,Bug,resolved,72
+2210,6369,16-Apr-25,16-Apr-25,High,Feature request,resolved,72
+2231,7496,03-Aug-25,09-Aug-25,High,Bug,resolved,72
+2348,3007,17-Aug-25,21-Aug-25,High,Login,resolved,72
+2357,1834,12-May-25,16-May-25,High,Bug,resolved,72
+2372,1866,15-Jul-25,18-Jul-25,High,Billing,resolved,72
+2407,4690,25-Sep-25,04-Oct-25,High,Other,resolved,72
+2430,3791,21-Sep-25,24-Sep-25,High,Account,resolved,72
+2528,721,21-Apr-25,28-Apr-25,High,Billing,resolved,72
+2571,454,05-Mar-25,14-Mar-25,High,Other,resolved,72
+2593,5241,02-May-25,06-May-25,High,Other,resolved,72
+2606,2108,13-Nov-25,19-Nov-25,High,Login,resolved,72
+2684,7614,16-Aug-25,18-Aug-25,High,Account,resolved,72
+2703,6888,28-May-25,05-Jun-25,High,Bug,resolved,72
+2710,3770,20-Mar-25,20-Mar-25,High,Performance,resolved,72
+2718,3844,22-Jan-25,23-Jan-25,High,Other,resolved,72
+2806,2596,08-Jun-25,10-Jun-25,High,Other,resolved,72
+2816,6697,24-Sep-25,01-Oct-25,High,Account,resolved,72
+2826,6844,20-Aug-25,28-Aug-25,High,Login,resolved,72
+2857,1119,05-Apr-25,07-Apr-25,High,Login,resolved,72
+2977,1342,19-Nov-25,23-Nov-25,High,Login,resolved,72
+21,7019,23-Jun-25,28-Jun-25,Low,Performance,resolved,72
+36,7944,17-Oct-25,26-Oct-25,Low,Bug,resolved,72
+37,5138,28-Sep-25,05-Oct-25,Low,Login,resolved,72
+80,1006,17-Jun-25,18-Jun-25,Low,Performance,resolved,72
+141,2613,02-Dec-25,06-Dec-25,Low,Other,resolved,72
+156,2573,05-Nov-25,14-Nov-25,Low,Bug,resolved,72
+160,6487,27-Feb-25,01-Mar-25,Low,Bug,resolved,72
+168,2949,20-May-25,23-May-25,Low,Billing,resolved,72
+189,1149,21-Apr-25,23-Apr-25,Low,Login,resolved,72
+214,3447,18-Jan-25,26-Jan-25,Low,Billing,resolved,72
+295,4246,14-Mar-25,16-Mar-25,Low,Feature request,resolved,72
+298,1916,18-Jan-25,21-Jan-25,Low,Other,resolved,72
+351,7098,01-Dec-25,06-Dec-25,Low,Performance,resolved,72
+366,6979,31-Jul-25,04-Aug-25,Low,Other,resolved,72
+388,733,15-Nov-25,19-Nov-25,Low,Account,resolved,72
+396,194,08-Nov-25,17-Nov-25,Low,Bug,resolved,72
+424,6336,20-Jul-25,26-Jul-25,Low,Other,resolved,72
+447,4039,04-May-25,12-May-25,Low,Login,resolved,72
+455,7609,11-Nov-25,11-Nov-25,Low,Bug,resolved,72
+496,4289,18-Sep-25,21-Sep-25,Low,Bug,resolved,72
+573,5927,08-Sep-25,17-Sep-25,Low,Bug,resolved,72
+585,6259,24-Dec-25,24-Dec-25,Low,Other,resolved,72
+595,7599,23-Sep-25,02-Oct-25,Low,Other,resolved,72
+615,7541,31-Aug-25,05-Sep-25,Low,Account,resolved,72
+639,4575,12-Jun-25,18-Jun-25,Low,Other,resolved,72
+646,6890,02-Sep-25,04-Sep-25,Low,Login,resolved,72
+673,6892,31-Jul-25,09-Aug-25,Low,Login,resolved,72
+722,1128,06-Dec-25,10-Dec-25,Low,Billing,resolved,72
+736,4610,03-Sep-25,07-Sep-25,Low,Feature request,resolved,72
+742,4692,02-Jun-25,11-Jun-25,Low,Account,resolved,72
+746,2434,21-Sep-25,29-Sep-25,Low,Other,resolved,72
+786,2863,02-May-25,03-May-25,Low,Other,resolved,72
+813,3865,13-Jul-25,16-Jul-25,Low,Feature request,resolved,72
+822,2033,12-Jan-26,19-Jan-26,Low,Bug,resolved,72
+859,3087,06-Jan-25,09-Jan-25,Low,Login,resolved,72
+881,2989,04-Jun-25,12-Jun-25,Low,Bug,resolved,72
+923,5947,23-Oct-25,23-Oct-25,Low,Feature request,resolved,72
+971,5036,01-May-25,08-May-25,Low,Other,resolved,72
+1041,6293,28-Jul-25,31-Jul-25,Low,Login,resolved,72
+1099,7169,16-Jan-25,24-Jan-25,Low,Feature request,resolved,72
+1114,6370,21-Jun-25,25-Jun-25,Low,Performance,resolved,72
+1124,1330,27-Oct-25,05-Nov-25,Low,Bug,resolved,72
+1143,4718,01-Sep-25,04-Sep-25,Low,Bug,resolved,72
+1157,4813,13-May-25,18-May-25,Low,Bug,resolved,72
+1173,101,24-Apr-25,30-Apr-25,Low,Bug,resolved,72
+1180,3599,05-Feb-25,12-Feb-25,Low,Feature request,resolved,72
+1240,2350,15-Jan-25,22-Jan-25,Low,Billing,resolved,72
+1260,7406,10-Sep-25,13-Sep-25,Low,Login,resolved,72
+1273,1665,19-Jul-25,21-Jul-25,Low,Other,resolved,72
+1282,3167,19-Mar-25,22-Mar-25,Low,Feature request,resolved,72
+1308,1737,26-May-25,28-May-25,Low,Bug,resolved,72
+1352,2810,23-Sep-25,28-Sep-25,Low,Feature request,resolved,72
+1368,5961,22-Sep-25,01-Oct-25,Low,Account,resolved,72
+1389,6326,24-Sep-25,27-Sep-25,Low,Login,resolved,72
+1436,4031,19-Jun-25,25-Jun-25,Low,Other,resolved,72
+1502,3647,03-Jul-25,10-Jul-25,Low,Account,resolved,72
+1522,7367,26-Oct-25,28-Oct-25,Low,Billing,resolved,72
+1572,7458,24-Apr-25,01-May-25,Low,Feature request,resolved,72
+1575,3297,26-Feb-25,07-Mar-25,Low,Other,resolved,72
+1579,329,19-Nov-25,21-Nov-25,Low,Billing,resolved,72
+1583,5352,11-May-25,19-May-25,Low,Feature request,resolved,72
+1587,6450,10-Jan-26,17-Jan-26,Low,Login,resolved,72
+1614,1408,28-Sep-25,07-Oct-25,Low,Billing,resolved,72
+1641,6850,16-Feb-25,16-Feb-25,Low,Login,resolved,72
+1644,2403,19-Jul-25,25-Jul-25,Low,Performance,resolved,72
+1652,5648,20-Jan-25,22-Jan-25,Low,Account,resolved,72
+1661,2273,17-Oct-25,24-Oct-25,Low,Other,resolved,72
+1683,3147,17-Nov-25,21-Nov-25,Low,Billing,resolved,72
+1687,6041,31-Mar-25,07-Apr-25,Low,Other,resolved,72
+1707,2598,08-Dec-25,13-Dec-25,Low,Account,resolved,72
+1714,6418,05-Sep-25,10-Sep-25,Low,Billing,resolved,72
+1742,383,20-Aug-25,23-Aug-25,Low,Performance,resolved,72
+1798,205,07-May-25,11-May-25,Low,Billing,resolved,72
+1824,1569,30-May-25,06-Jun-25,Low,Feature request,resolved,72
+1866,5628,16-Oct-25,25-Oct-25,Low,Bug,resolved,72
+1883,6223,24-Nov-25,27-Nov-25,Low,Billing,resolved,72
+1926,1197,04-Mar-25,12-Mar-25,Low,Other,resolved,72
+1946,3121,04-Sep-25,05-Sep-25,Low,Account,resolved,72
+1986,2563,20-Apr-25,28-Apr-25,Low,Billing,resolved,72
+1996,7743,30-Sep-25,07-Oct-25,Low,Feature request,resolved,72
+1998,7621,22-Aug-25,23-Aug-25,Low,Bug,resolved,72
+2075,6033,08-Nov-25,16-Nov-25,Low,Other,resolved,72
+2103,5458,21-May-25,24-May-25,Low,Feature request,resolved,72
+2112,926,09-Jan-25,10-Jan-25,Low,Login,resolved,72
+2142,2498,23-Mar-25,29-Mar-25,Low,Performance,resolved,72
+2145,1759,03-Feb-25,08-Feb-25,Low,Billing,resolved,72
+2158,6141,12-May-25,18-May-25,Low,Other,resolved,72
+2163,5730,24-Sep-25,24-Sep-25,Low,Billing,resolved,72
+2164,5865,13-May-25,21-May-25,Low,Billing,resolved,72
+2189,5675,20-Jun-25,21-Jun-25,Low,Other,resolved,72
+2197,2163,03-Aug-25,06-Aug-25,Low,Other,resolved,72
+2226,4429,09-Jan-26,09-Jan-26,Low,Login,resolved,72
+2237,4516,21-Jul-25,25-Jul-25,Low,Feature request,resolved,72
+2286,5330,13-Jul-25,22-Jul-25,Low,Account,resolved,72
+2290,916,28-Nov-25,28-Nov-25,Low,Performance,resolved,72
+2316,7871,14-Jan-25,15-Jan-25,Low,Login,resolved,72
+2320,4508,06-Jul-25,07-Jul-25,Low,Billing,resolved,72
+2347,1781,05-Mar-25,11-Mar-25,Low,Performance,resolved,72
+2410,1079,04-Nov-25,11-Nov-25,Low,Bug,resolved,72
+2431,7625,20-Jul-25,29-Jul-25,Low,Feature request,resolved,72
+2463,5066,21-Mar-25,23-Mar-25,Low,Account,resolved,72
+2482,6915,22-Jul-25,31-Jul-25,Low,Feature request,resolved,72
+2538,4205,01-Sep-25,03-Sep-25,Low,Feature request,resolved,72
+2550,4210,14-Jul-25,23-Jul-25,Low,Account,resolved,72
+2565,4624,13-Feb-25,21-Feb-25,Low,Bug,resolved,72
+2578,5329,23-Sep-25,24-Sep-25,Low,Bug,resolved,72
+2615,3159,07-Nov-25,07-Nov-25,Low,Billing,resolved,72
+2642,7164,02-May-25,11-May-25,Low,Billing,resolved,72
+2655,7468,08-Feb-25,16-Feb-25,Low,Performance,resolved,72
+2746,4245,24-Dec-25,29-Dec-25,Low,Account,resolved,72
+2755,7578,12-May-25,15-May-25,Low,Billing,resolved,72
+2770,6560,17-Apr-25,17-Apr-25,Low,Login,resolved,72
+2771,4316,12-Apr-25,13-Apr-25,Low,Performance,resolved,72
+2839,6944,30-Jul-25,31-Jul-25,Low,Billing,resolved,72
+2875,4474,02-Sep-25,11-Sep-25,Low,Other,resolved,72
+2879,542,24-Apr-25,25-Apr-25,Low,Performance,resolved,72
+2951,6994,03-Oct-25,05-Oct-25,Low,Other,resolved,72
+2990,7038,27-Apr-25,30-Apr-25,Low,Account,resolved,72
+1,6552,16-May-25,18-May-25,Medium,Login,resolved,72
+7,3952,25-Apr-25,30-Apr-25,Medium,Account,resolved,72
+20,5718,10-Dec-25,11-Dec-25,Medium,Bug,resolved,72
+41,2669,25-Jan-25,03-Feb-25,Medium,Login,resolved,72
+66,5133,25-Dec-25,26-Dec-25,Medium,Billing,resolved,72
+134,2752,11-Jul-25,17-Jul-25,Medium,Other,resolved,72
+138,6134,25-Jul-25,27-Jul-25,Medium,Bug,resolved,72
+144,5459,12-Aug-25,19-Aug-25,Medium,Performance,resolved,72
+159,207,22-Dec-25,30-Dec-25,Medium,Feature request,resolved,72
+174,1591,25-Jul-25,30-Jul-25,Medium,Account,resolved,72
+175,2580,18-Jun-25,23-Jun-25,Medium,Bug,resolved,72
+223,2657,30-Jul-25,05-Aug-25,Medium,Bug,resolved,72
+235,4620,26-Mar-25,04-Apr-25,Medium,Performance,resolved,72
+267,4046,14-Apr-25,18-Apr-25,Medium,Login,resolved,72
+277,3735,22-Aug-25,22-Aug-25,Medium,Feature request,resolved,72
+294,7692,07-Sep-25,11-Sep-25,Medium,Feature request,resolved,72
+314,2729,14-Mar-25,19-Mar-25,Medium,Billing,resolved,72
+331,399,16-Aug-25,16-Aug-25,Medium,Bug,resolved,72
+402,7507,03-Dec-25,03-Dec-25,Medium,Performance,resolved,72
+416,5964,10-Nov-25,17-Nov-25,Medium,Bug,resolved,72
+422,7267,30-Jan-25,07-Feb-25,Medium,Login,resolved,72
+444,8,23-Dec-25,23-Dec-25,Medium,Billing,resolved,72
+476,3724,12-Sep-25,19-Sep-25,Medium,Login,resolved,72
+488,2224,16-Aug-25,23-Aug-25,Medium,Login,resolved,72
+490,4498,13-Feb-25,20-Feb-25,Medium,Performance,resolved,72
+511,6592,20-Nov-25,25-Nov-25,Medium,Other,resolved,72
+547,5157,17-Feb-25,22-Feb-25,Medium,Other,resolved,72
+572,3951,15-Dec-25,22-Dec-25,Medium,Performance,resolved,72
+609,3958,13-Jan-25,14-Jan-25,Medium,Billing,resolved,72
+621,5276,23-Jan-25,24-Jan-25,Medium,Feature request,resolved,72
+642,6952,26-Oct-25,04-Nov-25,Medium,Bug,resolved,72
+647,7526,10-Dec-25,14-Dec-25,Medium,Bug,resolved,72
+648,5519,31-Aug-25,01-Sep-25,Medium,Other,resolved,72
+656,4155,24-Jun-25,28-Jun-25,Medium,Account,resolved,72
+663,6370,23-Nov-25,29-Nov-25,Medium,Other,resolved,72
+695,5106,24-Jan-25,01-Feb-25,Medium,Performance,resolved,72
+720,720,13-Aug-25,22-Aug-25,Medium,Performance,resolved,72
+723,4356,09-Oct-25,16-Oct-25,Medium,Bug,resolved,72
+741,3835,22-Feb-25,02-Mar-25,Medium,Account,resolved,72
+749,2514,28-Aug-25,05-Sep-25,Medium,Login,resolved,72
+771,2071,18-Jan-25,22-Jan-25,Medium,Performance,resolved,72
+776,4515,14-Apr-25,14-Apr-25,Medium,Feature request,resolved,72
+809,3064,22-Dec-25,25-Dec-25,Medium,Login,resolved,72
+821,5112,02-May-25,06-May-25,Medium,Account,resolved,72
+837,7989,01-Jul-25,04-Jul-25,Medium,Other,resolved,72
+842,2129,16-Aug-25,25-Aug-25,Medium,Other,resolved,72
+863,3149,30-Nov-25,09-Dec-25,Medium,Bug,resolved,72
+877,803,16-Feb-25,19-Feb-25,Medium,Feature request,resolved,72
+884,6136,16-Jun-25,24-Jun-25,Medium,Bug,resolved,72
+891,3966,30-Apr-25,08-May-25,Medium,Login,resolved,72
+928,4619,24-Feb-25,04-Mar-25,Medium,Account,resolved,72
+938,6048,29-Jul-25,29-Jul-25,Medium,Bug,resolved,72
+958,5404,28-May-25,03-Jun-25,Medium,Billing,resolved,72
+961,4241,05-Nov-25,12-Nov-25,Medium,Login,resolved,72
+964,4195,12-Jan-25,19-Jan-25,Medium,Login,resolved,72
+967,1437,20-Apr-25,27-Apr-25,Medium,Feature request,resolved,72
+1000,951,05-Dec-25,12-Dec-25,Medium,Billing,resolved,72
+1014,7167,04-Oct-25,10-Oct-25,Medium,Bug,resolved,72
+1029,3283,29-Jun-25,07-Jul-25,Medium,Account,resolved,72
+1039,433,02-Jan-25,05-Jan-25,Medium,Billing,resolved,72
+1074,3386,27-Aug-25,01-Sep-25,Medium,Billing,resolved,72
+1092,1835,21-Jun-25,26-Jun-25,Medium,Login,resolved,72
+1097,2144,06-Jun-25,15-Jun-25,Medium,Performance,resolved,72
+1126,6828,12-Oct-25,13-Oct-25,Medium,Bug,resolved,72
+1139,4532,07-May-25,14-May-25,Medium,Account,resolved,72
+1185,3208,06-Jan-25,06-Jan-25,Medium,Performance,resolved,72
+1193,815,30-Sep-25,06-Oct-25,Medium,Performance,resolved,72
+1210,2846,05-Apr-25,06-Apr-25,Medium,Performance,resolved,72
+1234,63,12-Dec-25,21-Dec-25,Medium,Billing,resolved,72
+1243,1986,01-Feb-25,05-Feb-25,Medium,Feature request,resolved,72
+1277,6802,23-Apr-25,01-May-25,Medium,Account,resolved,72
+1283,889,01-Nov-25,02-Nov-25,Medium,Account,resolved,72
+1284,1420,22-Nov-25,27-Nov-25,Medium,Feature request,resolved,72
+1295,7799,19-Oct-25,27-Oct-25,Medium,Bug,resolved,72
+1320,6182,14-Mar-25,23-Mar-25,Medium,Billing,resolved,72
+1324,5807,10-Jun-25,19-Jun-25,Medium,Account,resolved,72
+1325,41,25-Dec-25,26-Dec-25,Medium,Bug,resolved,72
+1339,618,27-Nov-25,05-Dec-25,Medium,Bug,resolved,72
+1343,3235,21-Oct-25,27-Oct-25,Medium,Performance,resolved,72
+1354,3175,07-Dec-25,15-Dec-25,Medium,Performance,resolved,72
+1364,5926,29-Dec-25,01-Jan-26,Medium,Bug,resolved,72
+1431,2722,19-Jul-25,26-Jul-25,Medium,Other,resolved,72
+1438,211,17-Apr-25,19-Apr-25,Medium,Login,resolved,72
+1439,879,03-Dec-25,03-Dec-25,Medium,Other,resolved,72
+1468,3862,24-Mar-25,01-Apr-25,Medium,Bug,resolved,72
+1469,5290,16-Feb-25,23-Feb-25,Medium,Performance,resolved,72
+1478,28,04-May-25,04-May-25,Medium,Account,resolved,72
+1487,3403,20-Jun-25,23-Jun-25,Medium,Account,resolved,72
+1504,1470,01-Sep-25,10-Sep-25,Medium,Login,resolved,72
+1530,4482,20-Jan-25,29-Jan-25,Medium,Feature request,resolved,72
+1545,7210,08-Jan-25,12-Jan-25,Medium,Feature request,resolved,72
+1551,4163,16-May-25,17-May-25,Medium,Account,resolved,72
+1565,7408,17-Feb-25,24-Feb-25,Medium,Performance,resolved,72
+1580,837,11-Oct-25,17-Oct-25,Medium,Billing,resolved,72
+1581,1582,19-Jun-25,23-Jun-25,Medium,Account,resolved,72
+1619,6416,18-Dec-25,19-Dec-25,Medium,Billing,resolved,72
+1631,3500,11-Jan-25,11-Jan-25,Medium,Account,resolved,72
+1639,4348,22-Jun-25,26-Jun-25,Medium,Feature request,resolved,72
+1655,6584,17-Dec-25,21-Dec-25,Medium,Performance,resolved,72
+1685,5601,29-Oct-25,31-Oct-25,Medium,Billing,resolved,72
+1705,1625,27-Mar-25,04-Apr-25,Medium,Feature request,resolved,72
+1708,7262,01-Sep-25,03-Sep-25,Medium,Feature request,resolved,72
+1709,6793,12-Aug-25,14-Aug-25,Medium,Billing,resolved,72
+1734,7892,27-Nov-25,02-Dec-25,Medium,Feature request,resolved,72
+1745,2276,22-Jul-25,31-Jul-25,Medium,Account,resolved,72
+1759,1619,15-May-25,17-May-25,Medium,Bug,resolved,72
+1767,6062,31-Dec-25,08-Jan-26,Medium,Billing,resolved,72
+1784,4465,01-Apr-25,04-Apr-25,Medium,Bug,resolved,72
+1787,6250,07-Apr-25,14-Apr-25,Medium,Billing,resolved,72
+1811,6015,03-Jul-25,09-Jul-25,Medium,Performance,resolved,72
+1848,6074,20-Oct-25,20-Oct-25,Medium,Billing,resolved,72
+1894,1112,14-Apr-25,16-Apr-25,Medium,Billing,resolved,72
+1896,6662,08-Aug-25,12-Aug-25,Medium,Login,resolved,72
+1915,2153,19-Jul-25,20-Jul-25,Medium,Other,resolved,72
+2009,7509,20-Feb-25,27-Feb-25,Medium,Other,resolved,72
+2019,3205,30-Jun-25,04-Jul-25,Medium,Performance,resolved,72
+2036,1600,12-Apr-25,21-Apr-25,Medium,Other,resolved,72
+2063,6817,27-Mar-25,30-Mar-25,Medium,Performance,resolved,72
+2072,6093,14-Aug-25,15-Aug-25,Medium,Feature request,resolved,72
+2078,4490,03-Jul-25,04-Jul-25,Medium,Account,resolved,72
+2098,6995,02-Nov-25,11-Nov-25,Medium,Bug,resolved,72
+2111,7430,21-Feb-25,25-Feb-25,Medium,Feature request,resolved,72
+2113,2916,26-Oct-25,04-Nov-25,Medium,Performance,resolved,72
+2117,1904,29-Nov-25,02-Dec-25,Medium,Account,resolved,72
+2126,5675,17-Sep-25,19-Sep-25,Medium,Login,resolved,72
+2139,4411,08-Sep-25,12-Sep-25,Medium,Other,resolved,72
+2151,5229,02-Aug-25,05-Aug-25,Medium,Bug,resolved,72
+2166,7250,17-May-25,17-May-25,Medium,Performance,resolved,72
+2169,7884,26-Aug-25,30-Aug-25,Medium,Bug,resolved,72
+2201,626,08-May-25,13-May-25,Medium,Login,resolved,72
+2253,1300,13-Apr-25,18-Apr-25,Medium,Performance,resolved,72
+2289,263,21-Aug-25,25-Aug-25,Medium,Login,resolved,72
+2355,1621,10-Oct-25,16-Oct-25,Medium,Feature request,resolved,72
+2360,3800,10-Jun-25,18-Jun-25,Medium,Feature request,resolved,72
+2367,7421,11-Apr-25,17-Apr-25,Medium,Account,resolved,72
+2368,7386,11-Jan-26,11-Jan-26,Medium,Feature request,resolved,72
+2375,2992,22-Oct-25,25-Oct-25,Medium,Login,resolved,72
+2378,3405,23-Jan-25,26-Jan-25,Medium,Feature request,resolved,72
+2380,1332,05-Apr-25,05-Apr-25,Medium,Other,resolved,72
+2386,5338,14-Jan-25,17-Jan-25,Medium,Performance,resolved,72
+2395,4633,26-May-25,31-May-25,Medium,Other,resolved,72
+2436,2057,23-Mar-25,31-Mar-25,Medium,Billing,resolved,72
+2442,3539,31-Aug-25,08-Sep-25,Medium,Feature request,resolved,72
+2487,1564,08-Apr-25,17-Apr-25,Medium,Billing,resolved,72
+2527,5664,23-Sep-25,24-Sep-25,Medium,Billing,resolved,72
+2543,3967,02-Sep-25,03-Sep-25,Medium,Login,resolved,72
+2576,5372,14-Jan-26,15-Jan-26,Medium,Billing,resolved,72
+2592,2242,09-Jan-26,15-Jan-26,Medium,Bug,resolved,72
+2623,1668,07-Jul-25,08-Jul-25,Medium,Performance,resolved,72
+2635,2425,29-Aug-25,29-Aug-25,Medium,Performance,resolved,72
+2723,2836,15-Aug-25,22-Aug-25,Medium,Other,resolved,72
+2738,3130,18-Dec-25,25-Dec-25,Medium,Account,resolved,72
+2777,4542,08-Aug-25,14-Aug-25,Medium,Bug,resolved,72
+2782,2649,17-Jan-26,17-Jan-26,Medium,Login,resolved,72
+2797,4296,31-Jan-25,09-Feb-25,Medium,Login,resolved,72
+2800,2744,08-Aug-25,13-Aug-25,Medium,Billing,resolved,72
+2825,799,11-Apr-25,20-Apr-25,Medium,Other,resolved,72
+2881,1398,14-Feb-25,19-Feb-25,Medium,Billing,resolved,72
+2882,4480,23-Sep-25,26-Sep-25,Medium,Bug,resolved,72
+2885,7614,31-Jan-25,07-Feb-25,Medium,Bug,resolved,72
+2943,2745,14-Aug-25,21-Aug-25,Medium,Billing,resolved,72
+2958,7459,01-May-25,05-May-25,Medium,Bug,resolved,72
+13,5339,23-Aug-25,25-Aug-25,Low,Login,resolved,48
+40,4429,25-Jul-25,28-Jul-25,Low,Bug,resolved,48
+43,7269,08-Jun-25,17-Jun-25,Low,Bug,resolved,48
+67,1643,16-Oct-25,20-Oct-25,Low,Feature request,resolved,48
+96,5864,03-Mar-25,06-Mar-25,Low,Account,resolved,48
+129,6075,13-Aug-25,17-Aug-25,Low,Performance,resolved,48
+131,6178,11-Aug-25,18-Aug-25,Low,Performance,resolved,48
+183,3272,25-Jan-25,28-Jan-25,Low,Account,resolved,48
+191,3270,25-Nov-25,27-Nov-25,Low,Feature request,resolved,48
+210,4443,14-Jun-25,23-Jun-25,Low,Billing,resolved,48
+238,36,16-Aug-25,19-Aug-25,Low,Bug,resolved,48
+249,5628,23-Mar-25,01-Apr-25,Low,Performance,resolved,48
+265,7334,25-Apr-25,26-Apr-25,Low,Account,resolved,48
+268,1903,03-Jan-26,06-Jan-26,Low,Performance,resolved,48
+269,6747,30-May-25,05-Jun-25,Low,Account,resolved,48
+284,1665,19-Feb-25,24-Feb-25,Low,Feature request,resolved,48
+286,1835,25-Mar-25,26-Mar-25,Low,Performance,resolved,48
+299,264,21-Mar-25,22-Mar-25,Low,Billing,resolved,48
+301,1818,11-Oct-25,15-Oct-25,Low,Account,resolved,48
+317,4991,04-Mar-25,06-Mar-25,Low,Billing,resolved,48
+323,1923,01-Feb-25,06-Feb-25,Low,Billing,resolved,48
+340,6061,20-Aug-25,22-Aug-25,Low,Feature request,resolved,48
+343,4171,27-Dec-25,04-Jan-26,Low,Other,resolved,48
+378,4697,26-Jul-25,29-Jul-25,Low,Bug,resolved,48
+385,1626,31-Mar-25,04-Apr-25,Low,Account,resolved,48
+390,3412,12-Sep-25,19-Sep-25,Low,Account,resolved,48
+405,1674,09-Feb-25,18-Feb-25,Low,Other,resolved,48
+418,250,27-Oct-25,27-Oct-25,Low,Account,resolved,48
+421,1600,03-Jan-26,07-Jan-26,Low,Bug,resolved,48
+433,1159,16-Nov-25,17-Nov-25,Low,Other,resolved,48
+445,876,12-May-25,13-May-25,Low,Other,resolved,48
+517,917,26-Feb-25,05-Mar-25,Low,Feature request,resolved,48
+518,1975,15-Sep-25,23-Sep-25,Low,Bug,resolved,48
+524,6028,26-Feb-25,04-Mar-25,Low,Account,resolved,48
+528,4044,21-Mar-25,25-Mar-25,Low,Other,resolved,48
+535,4329,23-Jan-25,23-Jan-25,Low,Login,resolved,48
+559,325,06-Jan-26,07-Jan-26,Low,Login,resolved,48
+562,7642,15-Apr-25,15-Apr-25,Low,Other,resolved,48
+568,321,09-Nov-25,09-Nov-25,Low,Billing,resolved,48
+576,2851,15-Jan-25,20-Jan-25,Low,Bug,resolved,48
+581,3748,08-Feb-25,16-Feb-25,Low,Billing,resolved,48
+587,3274,18-Jan-25,21-Jan-25,Low,Billing,resolved,48
+628,940,01-May-25,03-May-25,Low,Other,resolved,48
+643,2891,28-Apr-25,03-May-25,Low,Feature request,resolved,48
+689,2416,01-Mar-25,08-Mar-25,Low,Billing,resolved,48
+691,6250,24-Jul-25,26-Jul-25,Low,Account,resolved,48
+727,2952,31-Aug-25,06-Sep-25,Low,Other,resolved,48
+729,2225,27-Feb-25,02-Mar-25,Low,Login,resolved,48
+737,6730,05-Oct-25,08-Oct-25,Low,Login,resolved,48
+745,6939,17-Dec-25,26-Dec-25,Low,Billing,resolved,48
+783,4183,17-Mar-25,17-Mar-25,Low,Billing,resolved,48
+802,6603,09-Jan-25,13-Jan-25,Low,Account,resolved,48
+832,7781,07-Oct-25,11-Oct-25,Low,Feature request,resolved,48
+849,1108,25-Jan-25,29-Jan-25,Low,Performance,resolved,48
+861,7389,22-Mar-25,23-Mar-25,Low,Account,resolved,48
+880,38,10-Jan-25,16-Jan-25,Low,Feature request,resolved,48
+890,402,13-Jan-25,18-Jan-25,Low,Bug,resolved,48
+906,2579,14-Aug-25,17-Aug-25,Low,Login,resolved,48
+916,6013,02-Apr-25,06-Apr-25,Low,Feature request,resolved,48
+932,6275,14-Jul-25,20-Jul-25,Low,Billing,resolved,48
+947,2489,12-Dec-25,18-Dec-25,Low,Feature request,resolved,48
+976,7354,05-Jul-25,11-Jul-25,Low,Account,resolved,48
+1004,6277,10-Dec-25,11-Dec-25,Low,Billing,resolved,48
+1043,2677,23-Jun-25,28-Jun-25,Low,Bug,resolved,48
+1055,7078,19-Apr-25,22-Apr-25,Low,Performance,resolved,48
+1056,4611,28-Apr-25,29-Apr-25,Low,Login,resolved,48
+1062,7644,14-Apr-25,18-Apr-25,Low,Account,resolved,48
+1072,3062,09-Dec-25,16-Dec-25,Low,Performance,resolved,48
+1091,1173,05-Sep-25,06-Sep-25,Low,Billing,resolved,48
+1098,2685,24-Nov-25,30-Nov-25,Low,Account,resolved,48
+1115,2281,10-Jun-25,15-Jun-25,Low,Feature request,resolved,48
+1129,5879,07-Aug-25,07-Aug-25,Low,Performance,resolved,48
+1132,664,05-Apr-25,05-Apr-25,Low,Account,resolved,48
+1151,4958,25-Jul-25,01-Aug-25,Low,Account,resolved,48
+1154,3342,28-Apr-25,02-May-25,Low,Account,resolved,48
+1165,5686,12-Dec-25,16-Dec-25,Low,Billing,resolved,48
+1181,3521,17-Jan-26,26-Jan-26,Low,Login,resolved,48
+1182,938,14-Mar-25,23-Mar-25,Low,Login,resolved,48
+1187,7185,31-Aug-25,08-Sep-25,Low,Account,resolved,48
+1189,3691,19-Apr-25,27-Apr-25,Low,Account,resolved,48
+1206,4374,25-Nov-25,28-Nov-25,Low,Bug,resolved,48
+1219,6369,25-Aug-25,25-Aug-25,Low,Bug,resolved,48
+1250,2830,21-Apr-25,23-Apr-25,Low,Billing,resolved,48
+1304,1544,07-Oct-25,07-Oct-25,Low,Billing,resolved,48
+1353,1603,28-Oct-25,28-Oct-25,Low,Other,resolved,48
+1367,7147,09-Apr-25,14-Apr-25,Low,Feature request,resolved,48
+1369,979,05-Oct-25,05-Oct-25,Low,Bug,resolved,48
+1375,3680,09-Oct-25,15-Oct-25,Low,Bug,resolved,48
+1379,3455,25-Nov-25,26-Nov-25,Low,Login,resolved,48
+1388,3239,28-Apr-25,28-Apr-25,Low,Login,resolved,48
+1396,7551,11-Jan-25,19-Jan-25,Low,Performance,resolved,48
+1405,128,25-Jan-25,28-Jan-25,Low,Performance,resolved,48
+1447,2841,13-May-25,14-May-25,Low,Performance,resolved,48
+1451,3842,17-Dec-25,22-Dec-25,Low,Feature request,resolved,48
+1474,2788,27-Sep-25,30-Sep-25,Low,Bug,resolved,48
+1519,6924,19-Jun-25,26-Jun-25,Low,Bug,resolved,48
+1529,5769,10-Mar-25,12-Mar-25,Low,Other,resolved,48
+1549,4845,19-Dec-25,28-Dec-25,Low,Feature request,resolved,48
+1557,6177,29-Sep-25,03-Oct-25,Low,Other,resolved,48
+1559,1543,01-Oct-25,06-Oct-25,Low,Bug,resolved,48
+1591,3295,10-Jan-26,18-Jan-26,Low,Login,resolved,48
+1601,4514,19-Aug-25,20-Aug-25,Low,Billing,resolved,48
+1618,2445,01-Feb-25,08-Feb-25,Low,Feature request,resolved,48
+1628,569,05-Jan-26,14-Jan-26,Low,Login,resolved,48
+1645,6025,12-May-25,16-May-25,Low,Login,resolved,48
+1711,7007,11-Jul-25,15-Jul-25,Low,Bug,resolved,48
+1778,6591,10-Sep-25,13-Sep-25,Low,Feature request,resolved,48
+1851,4241,30-Jun-25,30-Jun-25,Low,Account,resolved,48
+1886,5798,12-Mar-25,16-Mar-25,Low,Feature request,resolved,48
+1887,1666,08-Jan-26,13-Jan-26,Low,Other,resolved,48
+1921,7768,23-Oct-25,27-Oct-25,Low,Billing,resolved,48
+1964,1594,28-May-25,06-Jun-25,Low,Account,resolved,48
+1971,2508,24-Feb-25,27-Feb-25,Low,Feature request,resolved,48
+1978,6688,27-Nov-25,27-Nov-25,Low,Performance,resolved,48
+1979,2875,20-May-25,27-May-25,Low,Billing,resolved,48
+1989,543,23-May-25,28-May-25,Low,Feature request,resolved,48
+2000,1256,13-Sep-25,15-Sep-25,Low,Login,resolved,48
+2038,1586,29-Oct-25,01-Nov-25,Low,Feature request,resolved,48
+2068,372,10-Jan-26,14-Jan-26,Low,Performance,resolved,48
+2070,7585,23-Nov-25,02-Dec-25,Low,Account,resolved,48
+2071,7684,22-Apr-25,26-Apr-25,Low,Account,resolved,48
+2092,5214,06-Jun-25,07-Jun-25,Low,Login,resolved,48
+2097,1482,07-Apr-25,08-Apr-25,Low,Feature request,resolved,48
+2127,6604,30-Sep-25,01-Oct-25,Low,Bug,resolved,48
+2132,5863,27-Mar-25,05-Apr-25,Low,Account,resolved,48
+2150,4940,26-Jan-25,01-Feb-25,Low,Login,resolved,48
+2159,2751,28-Oct-25,30-Oct-25,Low,Other,resolved,48
+2162,564,15-Jan-25,18-Jan-25,Low,Other,resolved,48
+2174,2984,08-Jun-25,16-Jun-25,Low,Account,resolved,48
+2208,1137,04-Jan-25,13-Jan-25,Low,Login,resolved,48
+2245,3952,05-Aug-25,09-Aug-25,Low,Login,resolved,48
+2259,7097,07-Feb-25,08-Feb-25,Low,Bug,resolved,48
+2267,4407,01-May-25,02-May-25,Low,Bug,resolved,48
+2276,4087,31-Oct-25,04-Nov-25,Low,Performance,resolved,48
+2284,7979,16-Mar-25,22-Mar-25,Low,Performance,resolved,48
+2287,735,10-Sep-25,17-Sep-25,Low,Other,resolved,48
+2302,1390,28-Mar-25,03-Apr-25,Low,Account,resolved,48
+2325,7340,09-Nov-25,09-Nov-25,Low,Billing,resolved,48
+2327,6318,18-Oct-25,27-Oct-25,Low,Feature request,resolved,48
+2334,6032,30-Jan-25,08-Feb-25,Low,Other,resolved,48
+2341,2861,25-Mar-25,02-Apr-25,Low,Billing,resolved,48
+2414,5288,10-Oct-25,10-Oct-25,Low,Billing,resolved,48
+2438,6926,25-Jan-25,29-Jan-25,Low,Bug,resolved,48
+2458,1574,05-Jul-25,12-Jul-25,Low,Feature request,resolved,48
+2472,147,11-Dec-25,17-Dec-25,Low,Billing,resolved,48
+2486,6614,30-Jun-25,04-Jul-25,Low,Bug,resolved,48
+2493,5534,24-Feb-25,01-Mar-25,Low,Billing,resolved,48
+2502,3233,08-Jan-26,11-Jan-26,Low,Other,resolved,48
+2506,6884,22-Jul-25,23-Jul-25,Low,Bug,resolved,48
+2534,2265,23-Aug-25,26-Aug-25,Low,Performance,resolved,48
+2539,2240,31-Oct-25,02-Nov-25,Low,Billing,resolved,48
+2584,7995,01-Jul-25,08-Jul-25,Low,Feature request,resolved,48
+2682,4853,31-May-25,08-Jun-25,Low,Account,resolved,48
+2712,6300,06-May-25,06-May-25,Low,Billing,resolved,48
+2756,5208,28-Sep-25,29-Sep-25,Low,Performance,resolved,48
+2762,2532,25-Aug-25,27-Aug-25,Low,Account,resolved,48
+2793,1122,07-Feb-25,13-Feb-25,Low,Feature request,resolved,48
+2804,5940,25-Jul-25,02-Aug-25,Low,Other,resolved,48
+2810,7162,01-May-25,09-May-25,Low,Feature request,resolved,48
+2821,701,12-Nov-25,16-Nov-25,Low,Other,resolved,48
+2838,4364,09-Aug-25,16-Aug-25,Low,Bug,resolved,48
+2899,305,14-Oct-25,19-Oct-25,Low,Bug,resolved,48
+2932,3576,13-Apr-25,18-Apr-25,Low,Bug,resolved,48
+2939,4950,27-Mar-25,04-Apr-25,Low,Other,resolved,48
+2971,1372,06-Nov-25,11-Nov-25,Low,Feature request,resolved,48
+2974,83,09-Jan-26,12-Jan-26,Low,Login,resolved,48
+2984,640,15-Jan-26,22-Jan-26,Low,Performance,resolved,48
+11,2747,11-Mar-25,12-Mar-25,High,Other,resolved,48
+45,2824,13-Apr-25,16-Apr-25,High,Account,resolved,48
+51,5875,06-Feb-25,08-Feb-25,High,Feature request,resolved,48
+61,1761,27-Jun-25,29-Jun-25,High,Bug,resolved,48
+89,4277,04-Jul-25,12-Jul-25,High,Feature request,resolved,48
+101,816,16-Apr-25,22-Apr-25,High,Login,resolved,48
+108,2676,06-Apr-25,06-Apr-25,High,Other,resolved,48
+118,6335,14-Oct-25,16-Oct-25,High,Login,resolved,48
+272,964,20-Sep-25,20-Sep-25,High,Login,resolved,48
+318,5789,09-Sep-25,13-Sep-25,High,Feature request,resolved,48
+339,5054,23-Feb-25,26-Feb-25,High,Login,resolved,48
+353,4330,03-Dec-25,06-Dec-25,High,Feature request,resolved,48
+383,7018,21-Jan-25,27-Jan-25,High,Account,resolved,48
+397,2806,04-Apr-25,06-Apr-25,High,Other,resolved,48
+493,3426,13-Jun-25,20-Jun-25,High,Billing,resolved,48
+506,901,01-Jun-25,04-Jun-25,High,Bug,resolved,48
+580,6036,30-Mar-25,08-Apr-25,High,Performance,resolved,48
+608,5158,28-Mar-25,06-Apr-25,High,Bug,resolved,48
+618,2044,06-Aug-25,06-Aug-25,High,Performance,resolved,48
+652,5,26-Dec-25,04-Jan-26,High,Account,resolved,48
+765,1972,02-Feb-25,10-Feb-25,High,Performance,resolved,48
+777,5898,28-Apr-25,03-May-25,High,Billing,resolved,48
+794,7886,01-Jun-25,10-Jun-25,High,Other,resolved,48
+807,3571,09-Jan-25,13-Jan-25,High,Other,resolved,48
+856,3434,25-Oct-25,31-Oct-25,High,Account,resolved,48
+888,5855,30-Apr-25,05-May-25,High,Performance,resolved,48
+893,7006,29-Dec-25,31-Dec-25,High,Other,resolved,48
+969,7515,15-Feb-25,16-Feb-25,High,Billing,resolved,48
+989,3371,31-Jan-25,06-Feb-25,High,Billing,resolved,48
+1108,5109,21-Feb-25,27-Feb-25,High,Login,resolved,48
+1175,2609,05-Feb-25,12-Feb-25,High,Performance,resolved,48
+1191,4067,09-Jan-25,14-Jan-25,High,Other,resolved,48
+1204,6210,25-May-25,29-May-25,High,Performance,resolved,48
+1235,6735,18-Mar-25,23-Mar-25,High,Feature request,resolved,48
+1263,3864,06-Nov-25,07-Nov-25,High,Bug,resolved,48
+1359,2440,13-Jun-25,17-Jun-25,High,Performance,resolved,48
+1403,1880,01-Jul-25,01-Jul-25,High,Performance,resolved,48
+1423,1268,25-Jun-25,25-Jun-25,High,Login,resolved,48
+1426,5154,29-Jul-25,03-Aug-25,High,Feature request,resolved,48
+1427,2535,31-May-25,06-Jun-25,High,Bug,resolved,48
+1456,2523,04-Jun-25,07-Jun-25,High,Bug,resolved,48
+1457,3980,19-Nov-25,28-Nov-25,High,Performance,resolved,48
+1465,1326,19-Jun-25,21-Jun-25,High,Account,resolved,48
+1473,1722,11-Aug-25,12-Aug-25,High,Other,resolved,48
+1489,105,10-Jan-25,14-Jan-25,High,Feature request,resolved,48
+1539,7718,15-Jul-25,21-Jul-25,High,Billing,resolved,48
+1564,2529,26-May-25,30-May-25,High,Billing,resolved,48
+1640,897,31-May-25,08-Jun-25,High,Bug,resolved,48
+1675,106,18-Nov-25,27-Nov-25,High,Login,resolved,48
+1697,5897,17-Aug-25,18-Aug-25,High,Feature request,resolved,48
+1768,3346,29-Nov-25,29-Nov-25,High,Performance,resolved,48
+1803,1222,09-Nov-25,12-Nov-25,High,Account,resolved,48
+1819,2337,05-Aug-25,14-Aug-25,High,Login,resolved,48
+1852,3111,04-Mar-25,09-Mar-25,High,Performance,resolved,48
+1879,2,16-Nov-25,22-Nov-25,High,Billing,resolved,48
+1884,1270,18-Nov-25,21-Nov-25,High,Login,resolved,48
+1953,577,23-Oct-25,28-Oct-25,High,Other,resolved,48
+2010,6874,06-Nov-25,12-Nov-25,High,Other,resolved,48
+2022,7276,04-Jan-26,08-Jan-26,High,Feature request,resolved,48
+2052,3910,19-Apr-25,20-Apr-25,High,Account,resolved,48
+2090,4478,13-Jul-25,18-Jul-25,High,Performance,resolved,48
+2107,769,24-Feb-25,26-Feb-25,High,Feature request,resolved,48
+2217,4250,27-Jun-25,06-Jul-25,High,Other,resolved,48
+2225,48,20-Jun-25,20-Jun-25,High,Feature request,resolved,48
+2261,3121,26-Apr-25,28-Apr-25,High,Account,resolved,48
+2295,7684,12-Sep-25,16-Sep-25,High,Account,resolved,48
+2310,3424,10-Sep-25,17-Sep-25,High,Bug,resolved,48
+2332,1741,23-Mar-25,27-Mar-25,High,Performance,resolved,48
+2342,6384,07-Dec-25,15-Dec-25,High,Feature request,resolved,48
+2365,408,20-Mar-25,23-Mar-25,High,Bug,resolved,48
+2404,7983,10-Feb-25,16-Feb-25,High,Login,resolved,48
+2445,4598,12-Oct-25,13-Oct-25,High,Billing,resolved,48
+2450,200,18-Sep-25,18-Sep-25,High,Performance,resolved,48
+2476,4557,28-Jul-25,02-Aug-25,High,Account,resolved,48
+2478,1579,23-Jul-25,31-Jul-25,High,Performance,resolved,48
+2499,5990,07-Sep-25,14-Sep-25,High,Bug,resolved,48
+2540,7704,26-Jun-25,29-Jun-25,High,Billing,resolved,48
+2613,4943,30-Nov-25,04-Dec-25,High,Other,resolved,48
+2658,702,22-Apr-25,24-Apr-25,High,Billing,resolved,48
+2676,5784,27-Sep-25,28-Sep-25,High,Bug,resolved,48
+2678,659,14-Dec-25,14-Dec-25,High,Bug,resolved,48
+2707,7281,15-Nov-25,22-Nov-25,High,Account,resolved,48
+2757,6483,08-Nov-25,15-Nov-25,High,Performance,resolved,48
+2759,3955,17-Dec-25,17-Dec-25,High,Feature request,resolved,48
+2795,4284,21-Apr-25,27-Apr-25,High,Billing,resolved,48
+2819,3338,12-Jul-25,15-Jul-25,High,Performance,resolved,48
+2897,7097,12-Jun-25,14-Jun-25,High,Login,resolved,48
+2914,1948,22-Nov-25,23-Nov-25,High,Account,resolved,48
+2947,5874,23-Mar-25,28-Mar-25,High,Billing,resolved,48
+2965,7565,28-Dec-25,05-Jan-26,High,Performance,resolved,48
+2981,234,28-Oct-25,28-Oct-25,High,Bug,resolved,48
+196,2325,16-Aug-25,22-Aug-25,Critical,Feature request,resolved,48
+371,3970,16-Oct-25,25-Oct-25,Critical,Account,resolved,48
+520,421,13-Nov-25,22-Nov-25,Critical,Other,resolved,48
+565,5274,04-Sep-25,04-Sep-25,Critical,Account,resolved,48
+713,3392,01-Jun-25,08-Jun-25,Critical,Performance,resolved,48
+895,6806,05-Aug-25,06-Aug-25,Critical,Other,resolved,48
+1270,4165,01-Jun-25,09-Jun-25,Critical,Other,resolved,48
+1450,2897,08-Oct-25,12-Oct-25,Critical,Billing,resolved,48
+1816,1183,21-Mar-25,24-Mar-25,Critical,Other,resolved,48
+1821,5294,24-Oct-25,24-Oct-25,Critical,Account,resolved,48
+1908,543,16-Feb-25,24-Feb-25,Critical,Login,resolved,48
+2033,7850,15-Sep-25,16-Sep-25,Critical,Performance,resolved,48
+2293,5337,08-Aug-25,10-Aug-25,Critical,Billing,resolved,48
+2329,2676,25-Jun-25,01-Jul-25,Critical,Login,resolved,48
+2469,5639,10-Aug-25,15-Aug-25,Critical,Account,resolved,48
+2900,2763,17-Aug-25,20-Aug-25,Critical,Performance,resolved,48
+2948,2295,24-Jan-25,30-Jan-25,Critical,Login,resolved,48
+2979,6212,10-Sep-25,11-Sep-25,Critical,Account,resolved,48
+17,958,21-Sep-25,30-Sep-25,Medium,Other,resolved,48
+22,1523,22-Aug-25,28-Aug-25,Medium,Login,resolved,48
+23,1487,21-Feb-25,26-Feb-25,Medium,Login,resolved,48
+29,6697,08-Aug-25,13-Aug-25,Medium,Bug,resolved,48
+86,3262,18-Sep-25,19-Sep-25,Medium,Feature request,resolved,48
+91,6923,01-Jan-25,08-Jan-25,Medium,Account,resolved,48
+92,7058,17-Aug-25,17-Aug-25,Medium,Performance,resolved,48
+100,5728,17-Feb-25,23-Feb-25,Medium,Other,resolved,48
+107,112,29-Jul-25,31-Jul-25,Medium,Other,resolved,48
+121,4394,23-Mar-25,29-Mar-25,Medium,Account,resolved,48
+126,7681,28-Aug-25,06-Sep-25,Medium,Account,resolved,48
+128,6554,27-Apr-25,27-Apr-25,Medium,Feature request,resolved,48
+143,6962,18-Jan-26,23-Jan-26,Medium,Bug,resolved,48
+186,4393,14-Jun-25,20-Jun-25,Medium,Feature request,resolved,48
+202,6287,08-Oct-25,10-Oct-25,Medium,Performance,resolved,48
+207,20,20-Jul-25,22-Jul-25,Medium,Other,resolved,48
+208,7535,20-Aug-25,26-Aug-25,Medium,Bug,resolved,48
+241,6420,25-Apr-25,03-May-25,Medium,Other,resolved,48
+287,3565,07-Nov-25,16-Nov-25,Medium,Performance,resolved,48
+288,759,27-Sep-25,03-Oct-25,Medium,Other,resolved,48
+312,2658,12-Apr-25,20-Apr-25,Medium,Account,resolved,48
+321,2964,17-Jan-26,24-Jan-26,Medium,Account,resolved,48
+355,6261,12-Feb-25,20-Feb-25,Medium,Login,resolved,48
+357,1284,25-Dec-25,30-Dec-25,Medium,Other,resolved,48
+374,6123,07-Aug-25,13-Aug-25,Medium,Bug,resolved,48
+382,3731,14-Mar-25,14-Mar-25,Medium,Account,resolved,48
+391,6441,08-Jan-25,16-Jan-25,Medium,Login,resolved,48
+407,2840,25-May-25,25-May-25,Medium,Feature request,resolved,48
+411,3564,17-Aug-25,18-Aug-25,Medium,Account,resolved,48
+435,4968,26-May-25,01-Jun-25,Medium,Account,resolved,48
+442,2934,04-Jun-25,05-Jun-25,Medium,Feature request,resolved,48
+462,1592,26-Jan-25,04-Feb-25,Medium,Other,resolved,48
+471,887,30-May-25,04-Jun-25,Medium,Account,resolved,48
+484,2170,06-Nov-25,15-Nov-25,Medium,Performance,resolved,48
+497,6712,25-Oct-25,03-Nov-25,Medium,Other,resolved,48
+507,3319,06-Dec-25,10-Dec-25,Medium,Other,resolved,48
+515,4421,29-Oct-25,05-Nov-25,Medium,Other,resolved,48
+516,3923,06-Apr-25,10-Apr-25,Medium,Bug,resolved,48
+531,4174,05-Aug-25,05-Aug-25,Medium,Bug,resolved,48
+538,5774,24-Jan-25,26-Jan-25,Medium,Other,resolved,48
+549,4722,23-Aug-25,01-Sep-25,Medium,Login,resolved,48
+554,5660,07-Apr-25,07-Apr-25,Medium,Other,resolved,48
+582,4400,04-Aug-25,09-Aug-25,Medium,Login,resolved,48
+620,3912,23-May-25,25-May-25,Medium,Bug,resolved,48
+622,646,20-Feb-25,28-Feb-25,Medium,Login,resolved,48
+631,1211,14-Apr-25,23-Apr-25,Medium,Other,resolved,48
+633,6337,02-Nov-25,02-Nov-25,Medium,Billing,resolved,48
+672,5848,20-May-25,29-May-25,Medium,Bug,resolved,48
+684,3533,11-Jan-25,20-Jan-25,Medium,Other,resolved,48
+690,2631,21-Aug-25,24-Aug-25,Medium,Billing,resolved,48
+710,1208,02-Jun-25,03-Jun-25,Medium,Bug,resolved,48
+716,7607,25-Dec-25,26-Dec-25,Medium,Billing,resolved,48
+768,574,13-Jun-25,15-Jun-25,Medium,Feature request,resolved,48
+778,5123,10-Jul-25,19-Jul-25,Medium,Bug,resolved,48
+806,109,15-Jun-25,20-Jun-25,Medium,Feature request,resolved,48
+808,7919,14-Jan-25,19-Jan-25,Medium,Other,resolved,48
+811,4605,02-Feb-25,09-Feb-25,Medium,Login,resolved,48
+826,6437,07-Jan-25,13-Jan-25,Medium,Other,resolved,48
+828,1028,03-Apr-25,09-Apr-25,Medium,Other,resolved,48
+839,2916,08-Jun-25,09-Jun-25,Medium,Other,resolved,48
+853,2908,18-Oct-25,24-Oct-25,Medium,Feature request,resolved,48
+865,602,22-Jan-25,27-Jan-25,Medium,Account,resolved,48
+867,6209,03-Nov-25,06-Nov-25,Medium,Feature request,resolved,48
+929,2829,01-Jan-25,04-Jan-25,Medium,Other,resolved,48
+960,6330,19-Nov-25,28-Nov-25,Medium,Account,resolved,48
+966,6301,28-Jan-25,04-Feb-25,Medium,Other,resolved,48
+972,1270,30-May-25,31-May-25,Medium,Login,resolved,48
+990,6150,04-Mar-25,07-Mar-25,Medium,Performance,resolved,48
+993,6980,22-Nov-25,23-Nov-25,Medium,Bug,resolved,48
+1011,6936,11-Nov-25,16-Nov-25,Medium,Performance,resolved,48
+1018,1450,24-Aug-25,29-Aug-25,Medium,Billing,resolved,48
+1021,6799,27-Aug-25,02-Sep-25,Medium,Billing,resolved,48
+1027,7325,18-Jan-26,20-Jan-26,Medium,Feature request,resolved,48
+1049,2826,01-Nov-25,10-Nov-25,Medium,Login,resolved,48
+1069,7490,31-Jul-25,31-Jul-25,Medium,Other,resolved,48
+1071,2055,22-Aug-25,30-Aug-25,Medium,Billing,resolved,48
+1075,588,02-Jul-25,05-Jul-25,Medium,Other,resolved,48
+1077,1491,28-Jul-25,31-Jul-25,Medium,Feature request,resolved,48
+1078,2218,25-Dec-25,02-Jan-26,Medium,Feature request,resolved,48
+1111,5220,22-Nov-25,23-Nov-25,Medium,Bug,resolved,48
+1113,2501,16-Apr-25,24-Apr-25,Medium,Account,resolved,48
+1161,4407,08-Oct-25,12-Oct-25,Medium,Performance,resolved,48
+1169,3425,09-Jul-25,12-Jul-25,Medium,Account,resolved,48
+1208,3634,14-Jun-25,16-Jun-25,Medium,Performance,resolved,48
+1216,5034,29-Mar-25,02-Apr-25,Medium,Login,resolved,48
+1244,2771,20-Oct-25,22-Oct-25,Medium,Login,resolved,48
+1247,3564,17-Oct-25,22-Oct-25,Medium,Performance,resolved,48
+1303,3429,27-Jun-25,02-Jul-25,Medium,Bug,resolved,48
+1307,7507,05-Dec-25,11-Dec-25,Medium,Other,resolved,48
+1315,4891,10-Feb-25,16-Feb-25,Medium,Bug,resolved,48
+1318,6232,21-Aug-25,24-Aug-25,Medium,Account,resolved,48
+1322,3621,05-Jan-26,05-Jan-26,Medium,Account,resolved,48
+1332,3922,24-Nov-25,26-Nov-25,Medium,Account,resolved,48
+1355,7810,08-Feb-25,11-Feb-25,Medium,Bug,resolved,48
+1392,1238,13-Jan-25,18-Jan-25,Medium,Other,resolved,48
+1411,6938,27-Sep-25,01-Oct-25,Medium,Account,resolved,48
+1422,1162,24-Dec-25,26-Dec-25,Medium,Performance,resolved,48
+1429,7149,28-Oct-25,28-Oct-25,Medium,Account,resolved,48
+1430,6323,05-Apr-25,08-Apr-25,Medium,Feature request,resolved,48
+1437,7548,17-Mar-25,22-Mar-25,Medium,Billing,resolved,48
+1445,809,12-Oct-25,21-Oct-25,Medium,Bug,resolved,48
+1448,640,08-Jan-26,10-Jan-26,Medium,Login,resolved,48
+1458,5554,30-Jun-25,07-Jul-25,Medium,Performance,resolved,48
+1481,6671,22-Jun-25,28-Jun-25,Medium,Billing,resolved,48
+1486,4951,21-Feb-25,28-Feb-25,Medium,Account,resolved,48
+1520,4446,16-Feb-25,17-Feb-25,Medium,Login,resolved,48
+1521,5151,28-Feb-25,02-Mar-25,Medium,Billing,resolved,48
+1533,1383,09-Apr-25,12-Apr-25,Medium,Feature request,resolved,48
+1586,4165,25-Sep-25,01-Oct-25,Medium,Account,resolved,48
+1589,419,25-May-25,01-Jun-25,Medium,Billing,resolved,48
+1590,158,31-Dec-25,05-Jan-26,Medium,Feature request,resolved,48
+1629,715,21-Nov-25,30-Nov-25,Medium,Bug,resolved,48
+1651,2980,08-Jul-25,14-Jul-25,Medium,Billing,resolved,48
+1658,1770,02-Oct-25,07-Oct-25,Medium,Login,resolved,48
+1662,3670,06-Jan-26,08-Jan-26,Medium,Bug,resolved,48
+1663,1029,12-Aug-25,19-Aug-25,Medium,Performance,resolved,48
+1669,2392,16-Mar-25,19-Mar-25,Medium,Billing,resolved,48
+1706,2418,04-Mar-25,05-Mar-25,Medium,Billing,resolved,48
+1710,4874,02-Feb-25,04-Feb-25,Medium,Login,resolved,48
+1718,6517,12-Apr-25,12-Apr-25,Medium,Other,resolved,48
+1753,6339,24-Sep-25,27-Sep-25,Medium,Billing,resolved,48
+1756,2159,13-Dec-25,13-Dec-25,Medium,Login,resolved,48
+1760,4445,04-Feb-25,10-Feb-25,Medium,Performance,resolved,48
+1765,41,26-Jun-25,27-Jun-25,Medium,Billing,resolved,48
+1786,386,30-Aug-25,07-Sep-25,Medium,Other,resolved,48
+1808,6409,20-Oct-25,22-Oct-25,Medium,Login,resolved,48
+1826,7403,18-Oct-25,26-Oct-25,Medium,Billing,resolved,48
+1828,6374,13-Apr-25,22-Apr-25,Medium,Billing,resolved,48
+1829,7102,06-Jul-25,11-Jul-25,Medium,Bug,resolved,48
+1831,225,03-Feb-25,09-Feb-25,Medium,Performance,resolved,48
+1841,3508,09-Oct-25,10-Oct-25,Medium,Bug,resolved,48
+1874,2355,23-Aug-25,01-Sep-25,Medium,Feature request,resolved,48
+1888,1355,11-Sep-25,20-Sep-25,Medium,Billing,resolved,48
+1910,121,15-May-25,16-May-25,Medium,Account,resolved,48
+1919,2869,01-Nov-25,05-Nov-25,Medium,Billing,resolved,48
+1931,5021,27-Oct-25,04-Nov-25,Medium,Account,resolved,48
+2026,3692,13-Jan-26,21-Jan-26,Medium,Performance,resolved,48
+2037,1591,31-May-25,05-Jun-25,Medium,Bug,resolved,48
+2041,5267,31-Mar-25,06-Apr-25,Medium,Account,resolved,48
+2046,5390,07-Nov-25,07-Nov-25,Medium,Performance,resolved,48
+2086,6449,10-Jan-25,12-Jan-25,Medium,Account,resolved,48
+2116,950,20-Mar-25,23-Mar-25,Medium,Billing,resolved,48
+2121,5237,19-Aug-25,21-Aug-25,Medium,Login,resolved,48
+2133,3208,04-Jul-25,05-Jul-25,Medium,Other,resolved,48
+2138,1580,11-Apr-25,20-Apr-25,Medium,Login,resolved,48
+2171,4422,17-Jun-25,21-Jun-25,Medium,Account,resolved,48
+2202,6691,29-Apr-25,08-May-25,Medium,Bug,resolved,48
+2211,4380,12-Nov-25,18-Nov-25,Medium,Login,resolved,48
+2216,3577,05-Oct-25,11-Oct-25,Medium,Performance,resolved,48
+2258,3547,20-Jul-25,24-Jul-25,Medium,Account,resolved,48
+2272,388,28-May-25,01-Jun-25,Medium,Login,resolved,48
+2294,1623,10-Mar-25,10-Mar-25,Medium,Bug,resolved,48
+2305,5030,12-Jan-25,14-Jan-25,Medium,Billing,resolved,48
+2307,7754,06-Jan-25,15-Jan-25,Medium,Bug,resolved,48
+2344,6908,04-Jan-25,12-Jan-25,Medium,Performance,resolved,48
+2345,6265,25-Mar-25,31-Mar-25,Medium,Login,resolved,48
+2346,312,02-Jan-25,08-Jan-25,Medium,Feature request,resolved,48
+2353,539,05-Sep-25,08-Sep-25,Medium,Account,resolved,48
+2361,3269,13-Jan-26,17-Jan-26,Medium,Login,resolved,48
+2382,3608,24-Oct-25,29-Oct-25,Medium,Login,resolved,48
+2399,3886,17-Jan-26,24-Jan-26,Medium,Billing,resolved,48
+2401,2743,04-Dec-25,09-Dec-25,Medium,Performance,resolved,48
+2403,4226,12-Jan-25,20-Jan-25,Medium,Account,resolved,48
+2408,3144,28-Jun-25,01-Jul-25,Medium,Login,resolved,48
+2413,7123,14-Aug-25,17-Aug-25,Medium,Account,resolved,48
+2425,5836,08-Apr-25,17-Apr-25,Medium,Bug,resolved,48
+2429,6993,03-Jul-25,03-Jul-25,Medium,Account,resolved,48
+2433,6772,10-Mar-25,19-Mar-25,Medium,Login,resolved,48
+2437,2861,22-Apr-25,22-Apr-25,Medium,Other,resolved,48
+2441,758,01-Jan-26,05-Jan-26,Medium,Performance,resolved,48
+2448,3028,13-Jun-25,20-Jun-25,Medium,Billing,resolved,48
+2452,7374,29-Oct-25,02-Nov-25,Medium,Feature request,resolved,48
+2453,7345,25-Dec-25,28-Dec-25,Medium,Login,resolved,48
+2483,4181,27-Dec-25,04-Jan-26,Medium,Other,resolved,48
+2484,2128,20-Nov-25,27-Nov-25,Medium,Account,resolved,48
+2495,1096,01-Mar-25,03-Mar-25,Medium,Performance,resolved,48
+2500,2546,05-Oct-25,05-Oct-25,Medium,Performance,resolved,48
+2507,7286,10-Apr-25,15-Apr-25,Medium,Performance,resolved,48
+2510,658,23-May-25,26-May-25,Medium,Bug,resolved,48
+2536,5788,02-Aug-25,07-Aug-25,Medium,Performance,resolved,48
+2548,6994,28-Nov-25,02-Dec-25,Medium,Performance,resolved,48
+2569,7908,02-May-25,04-May-25,Medium,Billing,resolved,48
+2591,7591,15-Apr-25,24-Apr-25,Medium,Billing,resolved,48
+2599,7832,13-Oct-25,16-Oct-25,Medium,Login,resolved,48
+2609,714,07-Feb-25,08-Feb-25,Medium,Billing,resolved,48
+2610,3870,30-Jul-25,02-Aug-25,Medium,Other,resolved,48
+2624,4322,01-Jan-26,10-Jan-26,Medium,Feature request,resolved,48
+2628,25,23-Jun-25,25-Jun-25,Medium,Billing,resolved,48
+2671,4475,25-Nov-25,26-Nov-25,Medium,Login,resolved,48
+2680,4901,19-Mar-25,23-Mar-25,Medium,Account,resolved,48
+2711,6871,26-May-25,28-May-25,Medium,Billing,resolved,48
+2732,6162,22-Aug-25,31-Aug-25,Medium,Other,resolved,48
+2735,4993,07-Feb-25,16-Feb-25,Medium,Account,resolved,48
+2742,7359,30-Jun-25,01-Jul-25,Medium,Billing,resolved,48
+2745,2399,08-May-25,16-May-25,Medium,Performance,resolved,48
+2768,7377,11-Apr-25,15-Apr-25,Medium,Other,resolved,48
+2799,1241,31-Mar-25,08-Apr-25,Medium,Billing,resolved,48
+2809,760,25-Sep-25,25-Sep-25,Medium,Feature request,resolved,48
+2813,1600,02-Aug-25,05-Aug-25,Medium,Login,resolved,48
+2817,198,15-Dec-25,18-Dec-25,Medium,Other,resolved,48
+2822,7418,31-Aug-25,08-Sep-25,Medium,Billing,resolved,48
+2824,5800,25-Jan-25,30-Jan-25,Medium,Login,resolved,48
+2841,5534,26-Dec-25,27-Dec-25,Medium,Feature request,resolved,48
+2842,7032,11-May-25,18-May-25,Medium,Feature request,resolved,48
+2864,1344,09-Nov-25,18-Nov-25,Medium,Performance,resolved,48
+2871,3064,28-Oct-25,31-Oct-25,Medium,Billing,resolved,48
+2884,7248,06-Jan-25,11-Jan-25,Medium,Feature request,resolved,48
+2889,5241,12-Jan-25,15-Jan-25,Medium,Other,resolved,48
+2898,2078,19-Oct-25,20-Oct-25,Medium,Feature request,resolved,48
+2906,798,14-Jul-25,22-Jul-25,Medium,Billing,resolved,48
+2908,5159,21-May-25,22-May-25,Medium,Feature request,resolved,48
+2913,5468,17-Jun-25,22-Jun-25,Medium,Billing,resolved,48
+2918,6129,08-Aug-25,12-Aug-25,Medium,Login,resolved,48
+2940,3617,29-Mar-25,03-Apr-25,Medium,Account,resolved,48
+2941,4029,11-Jan-26,12-Jan-26,Medium,Billing,resolved,48
+2956,6557,06-Dec-25,10-Dec-25,Medium,Bug,resolved,48
+2959,4535,10-Dec-25,15-Dec-25,Medium,Account,resolved,48
+2964,2818,12-Jan-26,20-Jan-26,Medium,Performance,resolved,48
+2968,1005,13-Oct-25,14-Oct-25,Medium,Login,resolved,48
+2975,7462,31-Dec-25,02-Jan-26,Medium,Other,resolved,48
+27,4008,17-Jun-25,25-Jun-25,Low,Performance,resolved,24
+33,994,11-Dec-25,20-Dec-25,Low,Performance,resolved,24
+48,7586,12-Jun-25,14-Jun-25,Low,Billing,resolved,24
+103,295,17-May-25,22-May-25,Low,Feature request,resolved,24
+133,5553,31-Aug-25,01-Sep-25,Low,Feature request,resolved,24
+137,3309,17-Sep-25,23-Sep-25,Low,Performance,resolved,24
+155,2937,17-Nov-25,18-Nov-25,Low,Login,resolved,24
+172,2201,24-Dec-25,30-Dec-25,Low,Billing,resolved,24
+185,4919,26-Dec-25,04-Jan-26,Low,Bug,resolved,24
+203,840,15-Feb-25,19-Feb-25,Low,Login,resolved,24
+232,6553,19-Jan-25,22-Jan-25,Low,Feature request,resolved,24
+237,1379,14-Aug-25,15-Aug-25,Low,Login,resolved,24
+244,4386,06-Sep-25,13-Sep-25,Low,Bug,resolved,24
+257,2198,10-May-25,10-May-25,Low,Bug,resolved,24
+266,2248,30-Mar-25,30-Mar-25,Low,Billing,resolved,24
+276,6937,12-Apr-25,20-Apr-25,Low,Account,resolved,24
+332,5569,23-Aug-25,30-Aug-25,Low,Performance,resolved,24
+335,2647,16-Aug-25,23-Aug-25,Low,Performance,resolved,24
+368,7741,05-May-25,06-May-25,Low,Performance,resolved,24
+372,5308,16-Mar-25,16-Mar-25,Low,Login,resolved,24
+381,3962,13-Nov-25,19-Nov-25,Low,Billing,resolved,24
+386,1768,06-Mar-25,12-Mar-25,Low,Account,resolved,24
+395,3210,04-Aug-25,08-Aug-25,Low,Other,resolved,24
+400,7797,01-Jun-25,08-Jun-25,Low,Billing,resolved,24
+408,2471,31-Aug-25,01-Sep-25,Low,Account,resolved,24
+413,1120,22-Nov-25,30-Nov-25,Low,Login,resolved,24
+434,3439,30-Nov-25,07-Dec-25,Low,Performance,resolved,24
+450,2697,27-Jul-25,28-Jul-25,Low,Account,resolved,24
+460,2300,12-Dec-25,13-Dec-25,Low,Bug,resolved,24
+461,827,03-Jun-25,07-Jun-25,Low,Account,resolved,24
+468,3291,17-Jan-25,23-Jan-25,Low,Performance,resolved,24
+508,5938,17-Dec-25,26-Dec-25,Low,Account,resolved,24
+544,58,01-Nov-25,07-Nov-25,Low,Other,resolved,24
+548,3890,15-Apr-25,17-Apr-25,Low,Account,resolved,24
+556,3497,26-Oct-25,27-Oct-25,Low,Billing,resolved,24
+577,3781,26-Sep-25,30-Sep-25,Low,Billing,resolved,24
+586,786,18-Dec-25,20-Dec-25,Low,Account,resolved,24
+592,3629,24-Feb-25,04-Mar-25,Low,Feature request,resolved,24
+600,874,09-Jan-25,11-Jan-25,Low,Login,resolved,24
+606,1117,12-Feb-25,21-Feb-25,Low,Performance,resolved,24
+614,995,27-Oct-25,04-Nov-25,Low,Feature request,resolved,24
+629,1451,07-Mar-25,11-Mar-25,Low,Performance,resolved,24
+650,4005,13-May-25,19-May-25,Low,Feature request,resolved,24
+655,4390,18-Jun-25,25-Jun-25,Low,Account,resolved,24
+657,4301,21-Jun-25,29-Jun-25,Low,Bug,resolved,24
+660,849,27-Feb-25,06-Mar-25,Low,Account,resolved,24
+666,110,24-Dec-25,27-Dec-25,Low,Performance,resolved,24
+667,5973,12-Sep-25,21-Sep-25,Low,Performance,resolved,24
+714,1066,15-Feb-25,16-Feb-25,Low,Account,resolved,24
+738,5939,01-Nov-25,10-Nov-25,Low,Account,resolved,24
+740,4693,27-Nov-25,27-Nov-25,Low,Feature request,resolved,24
+744,480,06-Jan-26,14-Jan-26,Low,Login,resolved,24
+757,753,15-May-25,20-May-25,Low,Bug,resolved,24
+773,7529,24-Dec-25,28-Dec-25,Low,Other,resolved,24
+775,2916,28-Sep-25,28-Sep-25,Low,Other,resolved,24
+781,3187,04-May-25,05-May-25,Low,Performance,resolved,24
+791,3232,09-May-25,17-May-25,Low,Feature request,resolved,24
+810,7711,14-Mar-25,20-Mar-25,Low,Feature request,resolved,24
+815,6617,07-Aug-25,16-Aug-25,Low,Login,resolved,24
+824,2031,16-Jul-25,20-Jul-25,Low,Login,resolved,24
+833,2552,12-Dec-25,19-Dec-25,Low,Login,resolved,24
+835,3190,07-Aug-25,07-Aug-25,Low,Account,resolved,24
+840,2967,06-Mar-25,14-Mar-25,Low,Account,resolved,24
+843,7726,23-Feb-25,03-Mar-25,Low,Billing,resolved,24
+873,3315,16-Aug-25,19-Aug-25,Low,Billing,resolved,24
+898,1126,24-Jan-25,30-Jan-25,Low,Feature request,resolved,24
+899,3145,03-Nov-25,09-Nov-25,Low,Feature request,resolved,24
+901,4847,24-Sep-25,02-Oct-25,Low,Feature request,resolved,24
+907,1516,06-Feb-25,10-Feb-25,Low,Account,resolved,24
+913,7838,19-Apr-25,23-Apr-25,Low,Billing,resolved,24
+940,6592,27-Sep-25,29-Sep-25,Low,Other,resolved,24
+953,6638,19-Apr-25,24-Apr-25,Low,Bug,resolved,24
+973,7052,21-Nov-25,22-Nov-25,Low,Other,resolved,24
+974,6459,17-Jun-25,23-Jun-25,Low,Feature request,resolved,24
+975,5709,07-Aug-25,12-Aug-25,Low,Login,resolved,24
+996,2854,26-Mar-25,28-Mar-25,Low,Login,resolved,24
+999,981,01-Oct-25,10-Oct-25,Low,Billing,resolved,24
+1005,4494,16-Jan-25,19-Jan-25,Low,Account,resolved,24
+1010,830,11-Mar-25,18-Mar-25,Low,Feature request,resolved,24
+1020,1772,08-Nov-25,17-Nov-25,Low,Account,resolved,24
+1037,74,11-Dec-25,14-Dec-25,Low,Login,resolved,24
+1047,320,06-Jun-25,11-Jun-25,Low,Account,resolved,24
+1070,7230,28-Nov-25,02-Dec-25,Low,Account,resolved,24
+1073,4120,04-Aug-25,11-Aug-25,Low,Performance,resolved,24
+1102,7368,16-Mar-25,24-Mar-25,Low,Account,resolved,24
+1112,2693,16-Jan-26,20-Jan-26,Low,Login,resolved,24
+1130,468,11-Jul-25,13-Jul-25,Low,Billing,resolved,24
+1133,1588,21-Nov-25,27-Nov-25,Low,Other,resolved,24
+1146,6942,13-Apr-25,16-Apr-25,Low,Performance,resolved,24
+1171,1664,21-Mar-25,26-Mar-25,Low,Other,resolved,24
+1177,5631,15-Sep-25,17-Sep-25,Low,Login,resolved,24
+1188,4649,05-Nov-25,07-Nov-25,Low,Feature request,resolved,24
+1194,305,16-Nov-25,17-Nov-25,Low,Account,resolved,24
+1198,4915,31-Jul-25,07-Aug-25,Low,Billing,resolved,24
+1213,2176,27-Sep-25,29-Sep-25,Low,Billing,resolved,24
+1217,6326,25-Dec-25,30-Dec-25,Low,Feature request,resolved,24
+1230,2830,03-Feb-25,08-Feb-25,Low,Performance,resolved,24
+1236,269,04-Mar-25,08-Mar-25,Low,Login,resolved,24
+1237,7101,30-Nov-25,01-Dec-25,Low,Account,resolved,24
+1241,4965,24-Apr-25,24-Apr-25,Low,Feature request,resolved,24
+1245,316,06-Nov-25,07-Nov-25,Low,Feature request,resolved,24
+1256,6324,09-Jan-25,12-Jan-25,Low,Performance,resolved,24
+1258,1169,04-Jul-25,06-Jul-25,Low,Performance,resolved,24
+1262,480,05-Nov-25,10-Nov-25,Low,Other,resolved,24
+1275,322,02-Dec-25,09-Dec-25,Low,Account,resolved,24
+1288,815,22-Jun-25,26-Jun-25,Low,Bug,resolved,24
+1298,854,19-May-25,19-May-25,Low,Other,resolved,24
+1310,440,03-Jan-26,03-Jan-26,Low,Feature request,resolved,24
+1312,7531,03-Mar-25,07-Mar-25,Low,Feature request,resolved,24
+1338,2223,11-Dec-25,17-Dec-25,Low,Login,resolved,24
+1358,5276,15-Jan-25,17-Jan-25,Low,Feature request,resolved,24
+1362,4776,03-Apr-25,07-Apr-25,Low,Billing,resolved,24
+1365,1913,21-Oct-25,28-Oct-25,Low,Billing,resolved,24
+1381,1529,21-Jun-25,27-Jun-25,Low,Other,resolved,24
+1383,3084,16-Sep-25,17-Sep-25,Low,Performance,resolved,24
+1415,751,26-Aug-25,01-Sep-25,Low,Performance,resolved,24
+1434,881,03-Oct-25,07-Oct-25,Low,Bug,resolved,24
+1494,2551,19-Jun-25,22-Jun-25,Low,Feature request,resolved,24
+1536,7089,23-Sep-25,01-Oct-25,Low,Feature request,resolved,24
+1537,6137,14-Dec-25,14-Dec-25,Low,Account,resolved,24
+1538,2882,08-Dec-25,13-Dec-25,Low,Login,resolved,24
+1573,5340,10-Jul-25,10-Jul-25,Low,Bug,resolved,24
+1577,2790,30-Jan-25,01-Feb-25,Low,Bug,resolved,24
+1598,7125,05-Oct-25,11-Oct-25,Low,Billing,resolved,24
+1633,4057,28-Oct-25,03-Nov-25,Low,Account,resolved,24
+1637,3375,25-Apr-25,03-May-25,Low,Bug,resolved,24
+1654,7892,10-Feb-25,12-Feb-25,Low,Bug,resolved,24
+1668,2943,03-Jan-25,06-Jan-25,Low,Login,resolved,24
+1680,1926,12-Aug-25,15-Aug-25,Low,Bug,resolved,24
+1694,7983,13-Sep-25,13-Sep-25,Low,Bug,resolved,24
+1716,7888,04-Aug-25,10-Aug-25,Low,Bug,resolved,24
+1729,6269,21-Jul-25,22-Jul-25,Low,Account,resolved,24
+1754,2,17-Aug-25,21-Aug-25,Low,Login,resolved,24
+1758,3028,26-May-25,01-Jun-25,Low,Billing,resolved,24
+1773,2378,03-Oct-25,05-Oct-25,Low,Account,resolved,24
+1780,2182,19-Dec-25,26-Dec-25,Low,Feature request,resolved,24
+1799,7328,07-May-25,13-May-25,Low,Feature request,resolved,24
+1830,6270,24-Mar-25,31-Mar-25,Low,Login,resolved,24
+1835,7882,22-Jan-25,24-Jan-25,Low,Feature request,resolved,24
+1856,1041,14-Sep-25,21-Sep-25,Low,Feature request,resolved,24
+1860,6629,01-Oct-25,03-Oct-25,Low,Billing,resolved,24
+1862,1168,06-Dec-25,10-Dec-25,Low,Performance,resolved,24
+1863,5834,25-Dec-25,26-Dec-25,Low,Other,resolved,24
+1867,2019,18-Dec-25,21-Dec-25,Low,Feature request,resolved,24
+1868,3139,04-Jul-25,07-Jul-25,Low,Feature request,resolved,24
+1885,725,09-Nov-25,13-Nov-25,Low,Performance,resolved,24
+1911,1556,10-Jan-25,17-Jan-25,Low,Bug,resolved,24
+1923,1302,15-Mar-25,21-Mar-25,Low,Billing,resolved,24
+1925,739,15-Oct-25,21-Oct-25,Low,Account,resolved,24
+1932,1959,24-Aug-25,29-Aug-25,Low,Billing,resolved,24
+1940,2648,11-Mar-25,18-Mar-25,Low,Account,resolved,24
+1957,697,03-Feb-25,03-Feb-25,Low,Login,resolved,24
+1995,6469,13-Jul-25,20-Jul-25,Low,Billing,resolved,24
+2007,7211,05-Jun-25,14-Jun-25,Low,Bug,resolved,24
+2008,584,25-Jan-25,26-Jan-25,Low,Billing,resolved,24
+2032,2392,20-Dec-25,29-Dec-25,Low,Account,resolved,24
+2044,225,14-Jan-25,17-Jan-25,Low,Feature request,resolved,24
+2061,1270,06-Jun-25,10-Jun-25,Low,Account,resolved,24
+2062,5522,20-Jan-25,29-Jan-25,Low,Performance,resolved,24
+2069,2155,07-Sep-25,08-Sep-25,Low,Feature request,resolved,24
+2087,2511,17-Apr-25,20-Apr-25,Low,Billing,resolved,24
+2094,661,28-Sep-25,06-Oct-25,Low,Bug,resolved,24
+2105,6609,19-Jul-25,27-Jul-25,Low,Login,resolved,24
+2119,1906,06-May-25,10-May-25,Low,Login,resolved,24
+2135,4738,09-Jan-26,10-Jan-26,Low,Account,resolved,24
+2143,4240,06-May-25,08-May-25,Low,Account,resolved,24
+2153,6880,11-Mar-25,13-Mar-25,Low,Bug,resolved,24
+2154,6863,19-Aug-25,27-Aug-25,Low,Account,resolved,24
+2178,5332,22-Jan-25,23-Jan-25,Low,Login,resolved,24
+2185,4337,17-Jan-26,19-Jan-26,Low,Bug,resolved,24
+2192,99,04-Jan-26,11-Jan-26,Low,Bug,resolved,24
+2204,2290,06-Jan-25,15-Jan-25,Low,Bug,resolved,24
+2205,7902,10-Oct-25,13-Oct-25,Low,Feature request,resolved,24
+2209,788,19-Nov-25,22-Nov-25,Low,Login,resolved,24
+2235,7635,05-Jul-25,13-Jul-25,Low,Account,resolved,24
+2242,6399,31-Jan-25,09-Feb-25,Low,Account,resolved,24
+2250,3040,04-Jan-26,05-Jan-26,Low,Billing,resolved,24
+2252,2536,09-Mar-25,18-Mar-25,Low,Performance,resolved,24
+2278,2710,01-Feb-25,10-Feb-25,Low,Bug,resolved,24
+2279,1286,08-Sep-25,12-Sep-25,Low,Bug,resolved,24
+2280,7241,05-Jun-25,13-Jun-25,Low,Login,resolved,24
+2282,5755,28-Jun-25,03-Jul-25,Low,Feature request,resolved,24
+2306,3119,04-Apr-25,12-Apr-25,Low,Billing,resolved,24
+2314,6981,23-Dec-25,28-Dec-25,Low,Bug,resolved,24
+2319,5105,18-Dec-25,21-Dec-25,Low,Bug,resolved,24
+2331,7281,05-May-25,07-May-25,Low,Account,resolved,24
+2333,270,04-Apr-25,06-Apr-25,Low,Other,resolved,24
+2338,4719,11-Jan-26,15-Jan-26,Low,Bug,resolved,24
+2349,6588,17-Sep-25,25-Sep-25,Low,Login,resolved,24
+2352,5146,03-Jun-25,07-Jun-25,Low,Other,resolved,24
+2363,6877,17-Sep-25,26-Sep-25,Low,Feature request,resolved,24
+2369,5047,11-Apr-25,20-Apr-25,Low,Account,resolved,24
+2373,1834,14-Apr-25,14-Apr-25,Low,Bug,resolved,24
+2377,3241,29-Oct-25,01-Nov-25,Low,Performance,resolved,24
+2383,5520,14-Aug-25,21-Aug-25,Low,Performance,resolved,24
+2393,7625,06-Sep-25,12-Sep-25,Low,Login,resolved,24
+2400,2540,01-Jun-25,09-Jun-25,Low,Bug,resolved,24
+2411,4460,28-Feb-25,05-Mar-25,Low,Login,resolved,24
+2420,2536,16-Oct-25,21-Oct-25,Low,Login,resolved,24
+2426,3197,31-May-25,01-Jun-25,Low,Bug,resolved,24
+2464,7604,02-Oct-25,07-Oct-25,Low,Account,resolved,24
+2473,4493,14-Dec-25,14-Dec-25,Low,Feature request,resolved,24
+2477,1921,18-Jul-25,24-Jul-25,Low,Feature request,resolved,24
+2479,2428,23-Nov-25,29-Nov-25,Low,Account,resolved,24
+2488,4129,12-Dec-25,14-Dec-25,Low,Billing,resolved,24
+2497,3695,12-Jan-26,12-Jan-26,Low,Feature request,resolved,24
+2531,5096,07-Apr-25,09-Apr-25,Low,Performance,resolved,24
+2547,4398,14-Nov-25,21-Nov-25,Low,Billing,resolved,24
+2549,3666,15-Oct-25,20-Oct-25,Low,Performance,resolved,24
+2554,4587,21-Aug-25,28-Aug-25,Low,Bug,resolved,24
+2572,3205,20-Aug-25,23-Aug-25,Low,Feature request,resolved,24
+2585,5046,27-Sep-25,28-Sep-25,Low,Billing,resolved,24
+2604,6477,08-Jan-25,16-Jan-25,Low,Billing,resolved,24
+2612,6581,15-Oct-25,18-Oct-25,Low,Feature request,resolved,24
+2645,2440,26-Dec-25,04-Jan-26,Low,Login,resolved,24
+2666,2701,03-Dec-25,04-Dec-25,Low,Other,resolved,24
+2673,2752,31-Oct-25,01-Nov-25,Low,Bug,resolved,24
+2690,2714,10-Oct-25,18-Oct-25,Low,Login,resolved,24
+2717,2368,29-Nov-25,05-Dec-25,Low,Bug,resolved,24
+2721,5098,14-Sep-25,18-Sep-25,Low,Other,resolved,24
+2725,3091,21-Jan-25,21-Jan-25,Low,Billing,resolved,24
+2731,5203,29-May-25,01-Jun-25,Low,Other,resolved,24
+2739,4516,04-Jun-25,09-Jun-25,Low,Feature request,resolved,24
+2753,480,16-Nov-25,23-Nov-25,Low,Account,resolved,24
+2763,7266,08-Jul-25,09-Jul-25,Low,Billing,resolved,24
+2764,7595,18-Feb-25,19-Feb-25,Low,Login,resolved,24
+2779,6293,29-Aug-25,30-Aug-25,Low,Performance,resolved,24
+2781,2894,14-Apr-25,14-Apr-25,Low,Other,resolved,24
+2785,3339,30-Aug-25,04-Sep-25,Low,Other,resolved,24
+2798,5869,23-Apr-25,27-Apr-25,Low,Account,resolved,24
+2803,1270,12-Aug-25,15-Aug-25,Low,Billing,resolved,24
+2807,5596,30-Jan-25,06-Feb-25,Low,Bug,resolved,24
+2818,6983,26-Sep-25,03-Oct-25,Low,Account,resolved,24
+2823,1966,24-Apr-25,02-May-25,Low,Account,resolved,24
+2836,4153,29-Aug-25,06-Sep-25,Low,Account,resolved,24
+2845,3832,30-Oct-25,31-Oct-25,Low,Performance,resolved,24
+2847,3018,28-Mar-25,02-Apr-25,Low,Other,resolved,24
+2859,4766,28-May-25,04-Jun-25,Low,Other,resolved,24
+2861,6837,15-Nov-25,24-Nov-25,Low,Bug,resolved,24
+2891,2194,08-Jan-26,11-Jan-26,Low,Bug,resolved,24
+2912,852,15-Dec-25,15-Dec-25,Low,Performance,resolved,24
+2923,2083,04-Jul-25,05-Jul-25,Low,Feature request,resolved,24
+2989,7802,25-Mar-25,25-Mar-25,Low,Bug,resolved,24
+2993,3032,22-Mar-25,26-Mar-25,Low,Feature request,resolved,24
+76,6822,17-Dec-25,20-Dec-25,High,Billing,resolved,24
+97,897,19-Jan-25,20-Jan-25,High,Feature request,resolved,24
+104,7443,06-May-25,11-May-25,High,Account,resolved,24
+145,7642,05-Mar-25,12-Mar-25,High,Login,resolved,24
+195,464,26-Mar-25,04-Apr-25,High,Performance,resolved,24
+216,1609,19-Mar-25,28-Mar-25,High,Other,resolved,24
+246,1383,07-Apr-25,12-Apr-25,High,Other,resolved,24
+253,1381,02-Jun-25,11-Jun-25,High,Billing,resolved,24
+254,5646,20-Jun-25,20-Jun-25,High,Performance,resolved,24
+271,1473,01-Feb-25,10-Feb-25,High,Billing,resolved,24
+280,6474,07-Sep-25,09-Sep-25,High,Feature request,resolved,24
+313,1359,26-Apr-25,29-Apr-25,High,Login,resolved,24
+315,3558,23-Apr-25,25-Apr-25,High,Other,resolved,24
+316,1230,28-Aug-25,31-Aug-25,High,Performance,resolved,24
+337,2464,20-Jul-25,24-Jul-25,High,Billing,resolved,24
+392,5112,24-Oct-25,02-Nov-25,High,Login,resolved,24
+398,6225,19-Apr-25,23-Apr-25,High,Performance,resolved,24
+429,5120,25-Jan-25,01-Feb-25,High,Login,resolved,24
+482,149,08-May-25,15-May-25,High,Login,resolved,24
+500,472,01-Oct-25,09-Oct-25,High,Billing,resolved,24
+505,3005,06-Jul-25,10-Jul-25,High,Billing,resolved,24
+560,101,05-Jan-26,06-Jan-26,High,Performance,resolved,24
+571,825,05-Mar-25,11-Mar-25,High,Login,resolved,24
+598,3182,14-Jun-25,21-Jun-25,High,Billing,resolved,24
+604,4114,08-Nov-25,15-Nov-25,High,Bug,resolved,24
+703,747,22-Nov-25,28-Nov-25,High,Login,resolved,24
+706,173,16-May-25,19-May-25,High,Bug,resolved,24
+752,2456,06-Jun-25,14-Jun-25,High,Feature request,resolved,24
+753,5389,28-Jan-25,31-Jan-25,High,Performance,resolved,24
+780,3598,07-Feb-25,11-Feb-25,High,Account,resolved,24
+784,3531,12-Mar-25,19-Mar-25,High,Bug,resolved,24
+792,7704,19-Mar-25,22-Mar-25,High,Billing,resolved,24
+817,7535,24-Oct-25,26-Oct-25,High,Feature request,resolved,24
+868,2376,26-Oct-25,30-Oct-25,High,Account,resolved,24
+871,2099,18-May-25,26-May-25,High,Feature request,resolved,24
+875,6412,15-Aug-25,21-Aug-25,High,Feature request,resolved,24
+926,336,30-Apr-25,01-May-25,High,Feature request,resolved,24
+927,4154,23-Dec-25,30-Dec-25,High,Login,resolved,24
+946,3374,05-Feb-25,09-Feb-25,High,Bug,resolved,24
+959,2029,31-Aug-25,04-Sep-25,High,Feature request,resolved,24
+988,3481,19-Feb-25,19-Feb-25,High,Bug,resolved,24
+1009,995,27-Sep-25,29-Sep-25,High,Bug,resolved,24
+1032,40,19-Feb-25,22-Feb-25,High,Performance,resolved,24
+1063,6161,20-Nov-25,28-Nov-25,High,Feature request,resolved,24
+1089,6752,03-Mar-25,04-Mar-25,High,Login,resolved,24
+1100,2629,02-Jul-25,11-Jul-25,High,Login,resolved,24
+1120,5015,27-Oct-25,03-Nov-25,High,Account,resolved,24
+1155,4819,13-Oct-25,21-Oct-25,High,Billing,resolved,24
+1168,3279,12-Mar-25,18-Mar-25,High,Bug,resolved,24
+1199,4478,04-Jun-25,13-Jun-25,High,Account,resolved,24
+1202,1377,30-Sep-25,04-Oct-25,High,Account,resolved,24
+1214,2145,16-May-25,21-May-25,High,Bug,resolved,24
+1220,3404,04-Jan-26,08-Jan-26,High,Account,resolved,24
+1239,2329,21-Jun-25,24-Jun-25,High,Login,resolved,24
+1268,1417,13-May-25,19-May-25,High,Other,resolved,24
+1269,6669,21-May-25,24-May-25,High,Login,resolved,24
+1289,5377,01-Sep-25,10-Sep-25,High,Account,resolved,24
+1292,2088,11-Jul-25,14-Jul-25,High,Performance,resolved,24
+1323,2842,16-Nov-25,24-Nov-25,High,Bug,resolved,24
+1336,2992,22-Sep-25,28-Sep-25,High,Account,resolved,24
+1382,2623,17-Aug-25,21-Aug-25,High,Account,resolved,24
+1410,4429,19-Feb-25,22-Feb-25,High,Bug,resolved,24
+1413,78,11-May-25,11-May-25,High,Account,resolved,24
+1479,4241,02-Oct-25,04-Oct-25,High,Account,resolved,24
+1482,4424,16-May-25,24-May-25,High,Login,resolved,24
+1485,6581,07-Feb-25,13-Feb-25,High,Billing,resolved,24
+1500,5880,31-Jul-25,06-Aug-25,High,Bug,resolved,24
+1508,6983,04-Nov-25,13-Nov-25,High,Other,resolved,24
+1613,5062,20-Jun-25,22-Jun-25,High,Feature request,resolved,24
+1667,3514,11-Nov-25,13-Nov-25,High,Performance,resolved,24
+1695,1426,17-Aug-25,20-Aug-25,High,Other,resolved,24
+1719,2731,04-Oct-25,07-Oct-25,High,Feature request,resolved,24
+1735,3503,19-Oct-25,24-Oct-25,High,Account,resolved,24
+1738,800,12-Apr-25,14-Apr-25,High,Login,resolved,24
+1739,1146,01-Oct-25,10-Oct-25,High,Bug,resolved,24
+1747,209,13-Mar-25,14-Mar-25,High,Feature request,resolved,24
+1820,7656,21-Jun-25,27-Jun-25,High,Billing,resolved,24
+1857,4856,03-Jan-26,12-Jan-26,High,Performance,resolved,24
+1897,4642,03-Jan-25,03-Jan-25,High,Feature request,resolved,24
+1909,2096,11-Apr-25,14-Apr-25,High,Performance,resolved,24
+1918,7526,19-Sep-25,25-Sep-25,High,Login,resolved,24
+2003,7960,30-Jan-25,02-Feb-25,High,Account,resolved,24
+2004,2988,27-Jun-25,03-Jul-25,High,Performance,resolved,24
+2056,4835,19-Oct-25,25-Oct-25,High,Feature request,resolved,24
+2059,3768,23-Mar-25,01-Apr-25,High,Billing,resolved,24
+2064,1648,08-May-25,15-May-25,High,Billing,resolved,24
+2118,1267,05-Jun-25,09-Jun-25,High,Account,resolved,24
+2183,6090,11-Mar-25,19-Mar-25,High,Performance,resolved,24
+2219,4413,22-Aug-25,27-Aug-25,High,Account,resolved,24
+2256,3502,29-Jul-25,29-Jul-25,High,Login,resolved,24
+2300,1347,08-Jun-25,11-Jun-25,High,Other,resolved,24
+2312,3032,17-Oct-25,19-Oct-25,High,Performance,resolved,24
+2324,6171,04-Jun-25,08-Jun-25,High,Account,resolved,24
+2362,3810,14-May-25,14-May-25,High,Billing,resolved,24
+2461,7106,12-Nov-25,15-Nov-25,High,Login,resolved,24
+2471,6143,15-Aug-25,19-Aug-25,High,Bug,resolved,24
+2521,704,30-Sep-25,04-Oct-25,High,Feature request,resolved,24
+2559,2613,16-Feb-25,19-Feb-25,High,Performance,resolved,24
+2577,4761,16-Feb-25,20-Feb-25,High,Feature request,resolved,24
+2597,4030,20-May-25,24-May-25,High,Login,resolved,24
+2603,7257,26-Jun-25,26-Jun-25,High,Login,resolved,24
+2614,1672,14-Jun-25,19-Jun-25,High,Bug,resolved,24
+2633,6939,12-Jul-25,17-Jul-25,High,Feature request,resolved,24
+2668,4991,30-Dec-25,31-Dec-25,High,Performance,resolved,24
+2700,6805,25-Jun-25,29-Jun-25,High,Feature request,resolved,24
+2741,913,26-Jun-25,26-Jun-25,High,Login,resolved,24
+2811,6742,17-Feb-25,17-Feb-25,High,Other,resolved,24
+2835,4899,14-Oct-25,22-Oct-25,High,Account,resolved,24
+2876,664,08-Dec-25,08-Dec-25,High,Performance,resolved,24
+2922,906,05-May-25,11-May-25,High,Login,resolved,24
+2934,7490,03-Nov-25,11-Nov-25,High,Account,resolved,24
+2935,4028,02-Jan-26,10-Jan-26,High,Account,resolved,24
+95,3315,20-Jul-25,23-Jul-25,Critical,Bug,resolved,24
+281,7383,26-Nov-25,04-Dec-25,Critical,Feature request,resolved,24
+319,791,15-Jul-25,19-Jul-25,Critical,Bug,resolved,24
+352,98,18-Jan-26,27-Jan-26,Critical,Login,resolved,24
+541,195,05-Jan-25,11-Jan-25,Critical,Performance,resolved,24
+605,569,08-Sep-25,16-Sep-25,Critical,Performance,resolved,24
+623,933,27-Jul-25,01-Aug-25,Critical,Other,resolved,24
+649,2423,19-Jan-25,22-Jan-25,Critical,Login,resolved,24
+671,5703,09-Oct-25,13-Oct-25,Critical,Feature request,resolved,24
+712,4445,25-Nov-25,01-Dec-25,Critical,Billing,resolved,24
+739,5661,15-Feb-25,21-Feb-25,Critical,Other,resolved,24
+761,4386,05-Jan-26,09-Jan-26,Critical,Billing,resolved,24
+862,7532,03-Nov-25,11-Nov-25,Critical,Feature request,resolved,24
+962,1558,09-Apr-25,11-Apr-25,Critical,Login,resolved,24
+1007,3987,23-Jan-25,29-Jan-25,Critical,Billing,resolved,24
+1317,5568,04-Dec-25,13-Dec-25,Critical,Performance,resolved,24
+1512,3898,20-Jan-25,29-Jan-25,Critical,Bug,resolved,24
+1653,1881,16-Sep-25,18-Sep-25,Critical,Feature request,resolved,24
+1823,1783,24-May-25,02-Jun-25,Critical,Bug,resolved,24
+1948,3340,17-Feb-25,19-Feb-25,Critical,Feature request,resolved,24
+2017,347,30-Sep-25,09-Oct-25,Critical,Bug,resolved,24
+2115,7933,01-May-25,08-May-25,Critical,Account,resolved,24
+2157,871,17-Sep-25,24-Sep-25,Critical,Login,resolved,24
+2392,1808,17-Sep-25,18-Sep-25,Critical,Performance,resolved,24
+2428,1204,04-Jul-25,10-Jul-25,Critical,Login,resolved,24
+2432,698,05-Jul-25,14-Jul-25,Critical,Other,resolved,24
+2455,7872,14-Aug-25,22-Aug-25,Critical,Other,resolved,24
+2524,7268,22-Aug-25,27-Aug-25,Critical,Feature request,resolved,24
+2698,4130,18-May-25,25-May-25,Critical,Billing,resolved,24
+2801,7896,24-Mar-25,29-Mar-25,Critical,Bug,resolved,24
+2814,7818,07-Mar-25,16-Mar-25,Critical,Billing,resolved,24
+2828,4741,18-Dec-25,19-Dec-25,Critical,Bug,resolved,24
+3,1092,02-Apr-25,05-Apr-25,Medium,Billing,resolved,24
+8,5374,10-Jul-25,11-Jul-25,Medium,Login,resolved,24
+25,1481,05-Dec-25,12-Dec-25,Medium,Other,resolved,24
+46,1452,01-Jul-25,07-Jul-25,Medium,Billing,resolved,24
+62,3800,05-Mar-25,07-Mar-25,Medium,Other,resolved,24
+85,3790,08-Sep-25,08-Sep-25,Medium,Account,resolved,24
+106,7619,05-Oct-25,12-Oct-25,Medium,Other,resolved,24
+122,7516,04-Dec-25,08-Dec-25,Medium,Feature request,resolved,24
+125,6066,31-Mar-25,06-Apr-25,Medium,Other,resolved,24
+127,5061,19-Sep-25,19-Sep-25,Medium,Performance,resolved,24
+130,6845,08-Oct-25,14-Oct-25,Medium,Feature request,resolved,24
+146,104,28-May-25,28-May-25,Medium,Login,resolved,24
+169,4595,02-Dec-25,06-Dec-25,Medium,Account,resolved,24
+173,3825,21-Dec-25,23-Dec-25,Medium,Other,resolved,24
+182,5965,15-Jul-25,24-Jul-25,Medium,Login,resolved,24
+218,1120,16-Feb-25,22-Feb-25,Medium,Bug,resolved,24
+220,3426,20-Jan-25,27-Jan-25,Medium,Feature request,resolved,24
+224,6647,08-May-25,09-May-25,Medium,Performance,resolved,24
+233,4595,29-Apr-25,04-May-25,Medium,Login,resolved,24
+243,233,07-Feb-25,09-Feb-25,Medium,Billing,resolved,24
+250,741,07-Dec-25,11-Dec-25,Medium,Bug,resolved,24
+251,610,27-Jul-25,31-Jul-25,Medium,Other,resolved,24
+273,4641,04-Oct-25,04-Oct-25,Medium,Feature request,resolved,24
+293,2816,21-Oct-25,29-Oct-25,Medium,Feature request,resolved,24
+296,7997,09-Nov-25,15-Nov-25,Medium,Other,resolved,24
+309,6940,03-Feb-25,11-Feb-25,Medium,Account,resolved,24
+320,1468,31-May-25,04-Jun-25,Medium,Other,resolved,24
+326,1322,22-Nov-25,29-Nov-25,Medium,Performance,resolved,24
+328,7284,23-Oct-25,31-Oct-25,Medium,Bug,resolved,24
+329,2428,11-May-25,13-May-25,Medium,Performance,resolved,24
+333,5513,10-Mar-25,16-Mar-25,Medium,Performance,resolved,24
+334,7921,25-Aug-25,25-Aug-25,Medium,Account,resolved,24
+341,5306,13-Feb-25,13-Feb-25,Medium,Bug,resolved,24
+345,207,07-Apr-25,11-Apr-25,Medium,Login,resolved,24
+354,5463,05-Oct-25,13-Oct-25,Medium,Other,resolved,24
+363,2128,05-Jul-25,06-Jul-25,Medium,Bug,resolved,24
+369,6324,12-Jul-25,16-Jul-25,Medium,Bug,resolved,24
+379,7480,22-May-25,31-May-25,Medium,Login,resolved,24
+387,1089,02-Feb-25,11-Feb-25,Medium,Other,resolved,24
+389,4439,27-Feb-25,05-Mar-25,Medium,Account,resolved,24
+412,4433,25-Oct-25,30-Oct-25,Medium,Other,resolved,24
+423,2552,09-Jan-25,16-Jan-25,Medium,Login,resolved,24
+430,4094,11-Jul-25,18-Jul-25,Medium,Login,resolved,24
+440,768,12-Mar-25,19-Mar-25,Medium,Bug,resolved,24
+449,3693,02-Jul-25,05-Jul-25,Medium,Billing,resolved,24
+451,5304,20-Nov-25,22-Nov-25,Medium,Billing,resolved,24
+452,6126,18-Aug-25,20-Aug-25,Medium,Feature request,resolved,24
+456,3557,30-Oct-25,31-Oct-25,Medium,Feature request,resolved,24
+466,3167,18-Apr-25,23-Apr-25,Medium,Bug,resolved,24
+472,5439,16-Mar-25,19-Mar-25,Medium,Other,resolved,24
+477,6969,15-Feb-25,23-Feb-25,Medium,Other,resolved,24
+478,3187,25-Jun-25,02-Jul-25,Medium,Login,resolved,24
+480,2255,17-Aug-25,21-Aug-25,Medium,Login,resolved,24
+487,2645,11-Dec-25,20-Dec-25,Medium,Bug,resolved,24
+494,7898,14-Jun-25,18-Jun-25,Medium,Account,resolved,24
+495,5207,18-Jun-25,23-Jun-25,Medium,Feature request,resolved,24
+513,3162,03-Jun-25,12-Jun-25,Medium,Account,resolved,24
+529,1214,11-Dec-25,19-Dec-25,Medium,Login,resolved,24
+530,5539,28-Nov-25,28-Nov-25,Medium,Login,resolved,24
+536,796,17-Nov-25,26-Nov-25,Medium,Bug,resolved,24
+545,1914,31-May-25,06-Jun-25,Medium,Feature request,resolved,24
+552,1723,28-Jan-25,03-Feb-25,Medium,Login,resolved,24
+555,4978,23-Nov-25,30-Nov-25,Medium,Performance,resolved,24
+558,4355,26-Jan-25,03-Feb-25,Medium,Performance,resolved,24
+566,3811,01-Jan-26,01-Jan-26,Medium,Login,resolved,24
+584,4541,04-Apr-25,06-Apr-25,Medium,Billing,resolved,24
+589,6693,10-Jun-25,11-Jun-25,Medium,Account,resolved,24
+596,805,06-Jul-25,12-Jul-25,Medium,Other,resolved,24
+599,5137,10-May-25,14-May-25,Medium,Other,resolved,24
+617,7723,21-Aug-25,28-Aug-25,Medium,Bug,resolved,24
+634,474,11-Aug-25,12-Aug-25,Medium,Bug,resolved,24
+636,189,20-Jan-25,23-Jan-25,Medium,Feature request,resolved,24
+637,3517,16-Apr-25,22-Apr-25,Medium,Account,resolved,24
+638,3128,01-Jun-25,09-Jun-25,Medium,Billing,resolved,24
+640,891,19-Oct-25,28-Oct-25,Medium,Bug,resolved,24
+668,7041,08-Jan-25,12-Jan-25,Medium,Account,resolved,24
+679,5387,28-Jan-25,30-Jan-25,Medium,Account,resolved,24
+697,3302,18-Jul-25,18-Jul-25,Medium,Billing,resolved,24
+700,7453,13-Dec-25,20-Dec-25,Medium,Bug,resolved,24
+702,1956,26-Jun-25,29-Jun-25,Medium,Login,resolved,24
+721,7812,24-Nov-25,01-Dec-25,Medium,Billing,resolved,24
+733,2125,31-Jan-25,08-Feb-25,Medium,Performance,resolved,24
+795,7118,11-Oct-25,17-Oct-25,Medium,Feature request,resolved,24
+797,6106,06-Feb-25,09-Feb-25,Medium,Billing,resolved,24
+803,5649,23-Oct-25,25-Oct-25,Medium,Bug,resolved,24
+804,465,19-Dec-25,27-Dec-25,Medium,Other,resolved,24
+818,7010,25-Oct-25,28-Oct-25,Medium,Billing,resolved,24
+827,4016,01-May-25,01-May-25,Medium,Bug,resolved,24
+830,3564,31-May-25,02-Jun-25,Medium,Login,resolved,24
+845,3777,12-Jun-25,13-Jun-25,Medium,Feature request,resolved,24
+858,7119,21-Sep-25,24-Sep-25,Medium,Account,resolved,24
+864,3306,12-Mar-25,12-Mar-25,Medium,Performance,resolved,24
+866,7343,03-May-25,08-May-25,Medium,Login,resolved,24
+886,6679,23-Nov-25,30-Nov-25,Medium,Bug,resolved,24
+887,2940,05-Apr-25,14-Apr-25,Medium,Login,resolved,24
+892,4435,15-Apr-25,22-Apr-25,Medium,Other,resolved,24
+904,7194,03-Apr-25,10-Apr-25,Medium,Feature request,resolved,24
+914,6820,16-Jun-25,18-Jun-25,Medium,Performance,resolved,24
+919,1209,21-Jun-25,30-Jun-25,Medium,Bug,resolved,24
+943,7412,23-Dec-25,31-Dec-25,Medium,Feature request,resolved,24
+948,5443,02-Jun-25,04-Jun-25,Medium,Account,resolved,24
+952,4305,11-Jan-25,17-Jan-25,Medium,Billing,resolved,24
+957,1183,23-Sep-25,24-Sep-25,Medium,Performance,resolved,24
+965,4064,30-Dec-25,02-Jan-26,Medium,Feature request,resolved,24
+978,5472,19-Jan-25,20-Jan-25,Medium,Performance,resolved,24
+986,3092,14-Mar-25,20-Mar-25,Medium,Other,resolved,24
+992,4500,06-Jul-25,14-Jul-25,Medium,Login,resolved,24
+1001,5437,10-Mar-25,13-Mar-25,Medium,Bug,resolved,24
+1008,6805,28-Sep-25,28-Sep-25,Medium,Feature request,resolved,24
+1012,2030,03-Dec-25,03-Dec-25,Medium,Other,resolved,24
+1038,4468,05-Jan-26,12-Jan-26,Medium,Performance,resolved,24
+1045,2380,31-Dec-25,09-Jan-26,Medium,Bug,resolved,24
+1052,6723,14-Sep-25,23-Sep-25,Medium,Billing,resolved,24
+1054,4856,25-Feb-25,27-Feb-25,Medium,Login,resolved,24
+1081,6725,16-Apr-25,25-Apr-25,Medium,Login,resolved,24
+1082,7629,27-Jan-25,03-Feb-25,Medium,Login,resolved,24
+1104,3266,18-Aug-25,20-Aug-25,Medium,Account,resolved,24
+1123,3584,25-Sep-25,29-Sep-25,Medium,Performance,resolved,24
+1152,3813,17-Jan-25,18-Jan-25,Medium,Login,resolved,24
+1158,2476,02-Mar-25,11-Mar-25,Medium,Performance,resolved,24
+1178,5770,13-Oct-25,18-Oct-25,Medium,Bug,resolved,24
+1190,3824,12-Oct-25,16-Oct-25,Medium,Account,resolved,24
+1201,7769,14-Mar-25,20-Mar-25,Medium,Bug,resolved,24
+1221,3181,25-Dec-25,28-Dec-25,Medium,Feature request,resolved,24
+1229,5736,09-Feb-25,13-Feb-25,Medium,Performance,resolved,24
+1276,2533,07-May-25,09-May-25,Medium,Login,resolved,24
+1280,3349,24-May-25,29-May-25,Medium,Other,resolved,24
+1294,4115,06-Nov-25,10-Nov-25,Medium,Performance,resolved,24
+1344,3625,14-Jul-25,18-Jul-25,Medium,Feature request,resolved,24
+1347,6810,21-Apr-25,30-Apr-25,Medium,Bug,resolved,24
+1348,3534,22-Mar-25,27-Mar-25,Medium,Bug,resolved,24
+1350,1967,02-Dec-25,08-Dec-25,Medium,Billing,resolved,24
+1371,1704,13-Sep-25,21-Sep-25,Medium,Billing,resolved,24
+1374,6880,19-Dec-25,23-Dec-25,Medium,Account,resolved,24
+1378,3507,10-Jan-26,14-Jan-26,Medium,Login,resolved,24
+1385,5262,18-Sep-25,24-Sep-25,Medium,Performance,resolved,24
+1391,5062,27-Apr-25,05-May-25,Medium,Account,resolved,24
+1408,6285,22-Mar-25,25-Mar-25,Medium,Login,resolved,24
+1409,1587,26-Apr-25,04-May-25,Medium,Feature request,resolved,24
+1420,3492,05-Jun-25,10-Jun-25,Medium,Other,resolved,24
+1442,4481,21-Mar-25,29-Mar-25,Medium,Performance,resolved,24
+1452,5158,01-Dec-25,06-Dec-25,Medium,Other,resolved,24
+1455,1782,16-Feb-25,18-Feb-25,Medium,Feature request,resolved,24
+1463,4423,05-Feb-25,12-Feb-25,Medium,Account,resolved,24
+1466,4809,21-Jun-25,27-Jun-25,Medium,Account,resolved,24
+1470,3761,16-Aug-25,22-Aug-25,Medium,Login,resolved,24
+1483,1747,27-Dec-25,04-Jan-26,Medium,Feature request,resolved,24
+1484,5484,29-Mar-25,01-Apr-25,Medium,Performance,resolved,24
+1488,1506,20-Apr-25,21-Apr-25,Medium,Feature request,resolved,24
+1490,194,27-Jan-25,02-Feb-25,Medium,Other,resolved,24
+1497,2890,09-Jan-25,12-Jan-25,Medium,Billing,resolved,24
+1498,7137,03-Dec-25,11-Dec-25,Medium,Login,resolved,24
+1524,4782,19-Oct-25,19-Oct-25,Medium,Feature request,resolved,24
+1541,6860,02-Jan-26,03-Jan-26,Medium,Other,resolved,24
+1556,3492,14-Mar-25,21-Mar-25,Medium,Account,resolved,24
+1561,2181,23-Oct-25,27-Oct-25,Medium,Other,resolved,24
+1566,726,06-May-25,10-May-25,Medium,Performance,resolved,24
+1582,825,06-Jan-25,11-Jan-25,Medium,Account,resolved,24
+1593,3263,05-Sep-25,07-Sep-25,Medium,Account,resolved,24
+1594,5838,04-May-25,11-May-25,Medium,Account,resolved,24
+1604,3057,01-Sep-25,01-Sep-25,Medium,Other,resolved,24
+1605,6079,01-Mar-25,09-Mar-25,Medium,Feature request,resolved,24
+1626,3929,17-Nov-25,26-Nov-25,Medium,Other,resolved,24
+1630,7073,17-Apr-25,23-Apr-25,Medium,Billing,resolved,24
+1659,3636,15-Jan-26,20-Jan-26,Medium,Account,resolved,24
+1681,413,25-Nov-25,26-Nov-25,Medium,Login,resolved,24
+1688,1799,13-Jan-26,16-Jan-26,Medium,Billing,resolved,24
+1689,7892,05-Feb-25,07-Feb-25,Medium,Other,resolved,24
+1712,2161,21-Apr-25,27-Apr-25,Medium,Account,resolved,24
+1730,5667,31-Jul-25,04-Aug-25,Medium,Other,resolved,24
+1737,4027,07-Mar-25,07-Mar-25,Medium,Performance,resolved,24
+1762,6449,01-Sep-25,04-Sep-25,Medium,Other,resolved,24
+1763,3973,13-Apr-25,19-Apr-25,Medium,Other,resolved,24
+1776,1359,21-Aug-25,21-Aug-25,Medium,Feature request,resolved,24
+1779,2382,11-Dec-25,18-Dec-25,Medium,Bug,resolved,24
+1789,702,29-Mar-25,30-Mar-25,Medium,Bug,resolved,24
+1794,965,26-May-25,31-May-25,Medium,Account,resolved,24
+1804,2320,25-Apr-25,28-Apr-25,Medium,Other,resolved,24
+1806,555,08-Nov-25,10-Nov-25,Medium,Other,resolved,24
+1807,6157,14-Aug-25,15-Aug-25,Medium,Performance,resolved,24
+1810,497,15-Sep-25,24-Sep-25,Medium,Feature request,resolved,24
+1842,3889,09-Oct-25,12-Oct-25,Medium,Other,resolved,24
+1845,1392,10-Jul-25,18-Jul-25,Medium,Login,resolved,24
+1847,3129,16-Jun-25,24-Jun-25,Medium,Billing,resolved,24
+1854,5019,13-Apr-25,19-Apr-25,Medium,Feature request,resolved,24
+1871,5073,06-Jun-25,08-Jun-25,Medium,Billing,resolved,24
+1899,4017,13-Dec-25,14-Dec-25,Medium,Bug,resolved,24
+1904,1927,05-Dec-25,09-Dec-25,Medium,Performance,resolved,24
+1928,4702,08-Aug-25,12-Aug-25,Medium,Account,resolved,24
+1960,7223,21-Aug-25,27-Aug-25,Medium,Bug,resolved,24
+1967,3247,24-Jul-25,27-Jul-25,Medium,Feature request,resolved,24
+1981,2918,21-Nov-25,22-Nov-25,Medium,Billing,resolved,24
+1982,2743,04-Jan-25,12-Jan-25,Medium,Login,resolved,24
+1984,381,08-Feb-25,12-Feb-25,Medium,Bug,resolved,24
+1991,5843,04-Sep-25,12-Sep-25,Medium,Billing,resolved,24
+1992,579,27-Mar-25,01-Apr-25,Medium,Other,resolved,24
+1993,2665,17-Nov-25,22-Nov-25,Medium,Feature request,resolved,24
+2005,1911,24-Nov-25,30-Nov-25,Medium,Bug,resolved,24
+2006,7494,27-Aug-25,05-Sep-25,Medium,Performance,resolved,24
+2012,7210,02-Apr-25,06-Apr-25,Medium,Other,resolved,24
+2013,4767,11-Feb-25,12-Feb-25,Medium,Billing,resolved,24
+2014,1948,12-Apr-25,19-Apr-25,Medium,Other,resolved,24
+2021,2494,25-May-25,28-May-25,Medium,Login,resolved,24
+2023,513,12-Jan-25,20-Jan-25,Medium,Bug,resolved,24
+2028,1356,30-Apr-25,06-May-25,Medium,Account,resolved,24
+2045,7933,07-Jan-26,10-Jan-26,Medium,Feature request,resolved,24
+2065,6543,04-Oct-25,05-Oct-25,Medium,Account,resolved,24
+2066,2807,10-Apr-25,14-Apr-25,Medium,Feature request,resolved,24
+2076,7450,28-Jan-25,06-Feb-25,Medium,Feature request,resolved,24
+2100,2484,01-Mar-25,06-Mar-25,Medium,Performance,resolved,24
+2106,6874,22-Mar-25,27-Mar-25,Medium,Other,resolved,24
+2124,1944,22-Jul-25,27-Jul-25,Medium,Other,resolved,24
+2140,7804,14-Sep-25,16-Sep-25,Medium,Other,resolved,24
+2144,1155,27-Oct-25,02-Nov-25,Medium,Bug,resolved,24
+2152,320,26-Oct-25,31-Oct-25,Medium,Other,resolved,24
+2165,4941,26-Feb-25,03-Mar-25,Medium,Other,resolved,24
+2167,4562,31-Mar-25,03-Apr-25,Medium,Performance,resolved,24
+2177,326,21-Nov-25,21-Nov-25,Medium,Account,resolved,24
+2180,7215,07-Jan-26,15-Jan-26,Medium,Account,resolved,24
+2181,4380,01-May-25,01-May-25,Medium,Bug,resolved,24
+2184,2170,03-Jul-25,12-Jul-25,Medium,Billing,resolved,24
+2191,3449,11-Aug-25,16-Aug-25,Medium,Feature request,resolved,24
+2199,6347,08-Jun-25,17-Jun-25,Medium,Login,resolved,24
+2222,2623,24-Jul-25,29-Jul-25,Medium,Account,resolved,24
+2224,4022,24-Jul-25,24-Jul-25,Medium,Performance,resolved,24
+2228,4320,16-May-25,18-May-25,Medium,Account,resolved,24
+2239,7131,11-Nov-25,14-Nov-25,Medium,Bug,resolved,24
+2260,991,05-Sep-25,06-Sep-25,Medium,Performance,resolved,24
+2269,1760,08-Oct-25,13-Oct-25,Medium,Account,resolved,24
+2281,6486,30-May-25,30-May-25,Medium,Performance,resolved,24
+2288,1697,24-Jan-25,02-Feb-25,Medium,Feature request,resolved,24
+2296,2563,07-Feb-25,10-Feb-25,Medium,Bug,resolved,24
+2303,7584,15-Nov-25,15-Nov-25,Medium,Account,resolved,24
+2315,1405,08-Mar-25,13-Mar-25,Medium,Other,resolved,24
+2322,5608,03-Nov-25,08-Nov-25,Medium,Billing,resolved,24
+2339,6723,19-Dec-25,27-Dec-25,Medium,Bug,resolved,24
+2340,685,20-Apr-25,26-Apr-25,Medium,Account,resolved,24
+2351,1795,14-Dec-25,17-Dec-25,Medium,Performance,resolved,24
+2358,7033,18-Aug-25,24-Aug-25,Medium,Feature request,resolved,24
+2359,4260,19-Mar-25,25-Mar-25,Medium,Account,resolved,24
+2370,664,29-Nov-25,07-Dec-25,Medium,Bug,resolved,24
+2387,2364,20-Jan-25,22-Jan-25,Medium,Bug,resolved,24
+2388,4647,08-Jan-26,15-Jan-26,Medium,Bug,resolved,24
+2402,6203,29-Aug-25,05-Sep-25,Medium,Login,resolved,24
+2418,7330,04-Jun-25,11-Jun-25,Medium,Other,resolved,24
+2427,2654,20-Sep-25,28-Sep-25,Medium,Login,resolved,24
+2434,2529,25-Apr-25,30-Apr-25,Medium,Performance,resolved,24
+2449,6271,19-Apr-25,20-Apr-25,Medium,Account,resolved,24
+2462,1927,28-Jul-25,29-Jul-25,Medium,Login,resolved,24
+2491,1039,03-Dec-25,11-Dec-25,Medium,Bug,resolved,24
+2511,859,18-May-25,22-May-25,Medium,Bug,resolved,24
+2516,4143,27-Dec-25,05-Jan-26,Medium,Login,resolved,24
+2526,6565,25-Oct-25,02-Nov-25,Medium,Billing,resolved,24
+2530,1510,03-Jul-25,04-Jul-25,Medium,Billing,resolved,24
+2544,3739,13-May-25,14-May-25,Medium,Login,resolved,24
+2557,3285,21-Sep-25,25-Sep-25,Medium,Performance,resolved,24
+2570,6022,22-Jun-25,28-Jun-25,Medium,Billing,resolved,24
+2575,4482,29-Apr-25,02-May-25,Medium,Performance,resolved,24
+2588,5999,28-Dec-25,29-Dec-25,Medium,Login,resolved,24
+2589,98,17-Jun-25,18-Jun-25,Medium,Feature request,resolved,24
+2608,1434,08-May-25,08-May-25,Medium,Performance,resolved,24
+2639,2941,26-Jul-25,26-Jul-25,Medium,Other,resolved,24
+2640,2960,05-Dec-25,12-Dec-25,Medium,Feature request,resolved,24
+2643,1920,08-Sep-25,09-Sep-25,Medium,Other,resolved,24
+2651,6784,25-May-25,31-May-25,Medium,Login,resolved,24
+2653,6491,12-Mar-25,15-Mar-25,Medium,Feature request,resolved,24
+2654,7615,12-Nov-25,20-Nov-25,Medium,Billing,resolved,24
+2656,7362,16-Mar-25,18-Mar-25,Medium,Performance,resolved,24
+2659,5077,03-Apr-25,07-Apr-25,Medium,Billing,resolved,24
+2675,1319,03-Mar-25,12-Mar-25,Medium,Other,resolved,24
+2693,1449,02-Jun-25,09-Jun-25,Medium,Account,resolved,24
+2699,1851,26-Nov-25,02-Dec-25,Medium,Login,resolved,24
+2706,4950,11-Sep-25,16-Sep-25,Medium,Other,resolved,24
+2726,5459,13-Oct-25,19-Oct-25,Medium,Account,resolved,24
+2761,7288,27-May-25,30-May-25,Medium,Bug,resolved,24
+2789,5694,15-Jan-25,21-Jan-25,Medium,Other,resolved,24
+2791,5874,05-Oct-25,14-Oct-25,Medium,Bug,resolved,24
+2802,3953,04-Jul-25,10-Jul-25,Medium,Feature request,resolved,24
+2829,953,16-Mar-25,23-Mar-25,Medium,Bug,resolved,24
+2844,2521,13-Mar-25,18-Mar-25,Medium,Feature request,resolved,24
+2848,2363,03-Jul-25,03-Jul-25,Medium,Other,resolved,24
+2849,5235,09-Nov-25,14-Nov-25,Medium,Other,resolved,24
+2852,871,20-Jan-25,20-Jan-25,Medium,Feature request,resolved,24
+2858,4939,28-Nov-25,02-Dec-25,Medium,Bug,resolved,24
+2868,218,14-Sep-25,23-Sep-25,Medium,Other,resolved,24
+2874,489,15-Sep-25,20-Sep-25,Medium,Other,resolved,24
+2888,2433,07-Nov-25,09-Nov-25,Medium,Account,resolved,24
+2894,360,02-Sep-25,11-Sep-25,Medium,Billing,resolved,24
+2901,4501,26-Mar-25,31-Mar-25,Medium,Other,resolved,24
+2903,219,13-Jun-25,22-Jun-25,Medium,Performance,resolved,24
+2907,3845,15-Sep-25,17-Sep-25,Medium,Feature request,resolved,24
+2909,1777,30-Jan-25,07-Feb-25,Medium,Other,resolved,24
+2927,382,22-Jul-25,26-Jul-25,Medium,Bug,resolved,24
+2929,5811,28-Apr-25,30-Apr-25,Medium,Bug,resolved,24
+2931,2915,01-Apr-25,09-Apr-25,Medium,Billing,resolved,24
+2933,4079,04-Sep-25,05-Sep-25,Medium,Login,resolved,24
+2970,6350,26-Nov-25,26-Nov-25,Medium,Performance,resolved,24
+2985,7627,10-Nov-25,14-Nov-25,Medium,Other,resolved,24
